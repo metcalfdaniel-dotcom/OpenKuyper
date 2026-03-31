@@ -282,7 +282,7 @@ clean:
 	rm -f */*.aux */*.log */*.out */*.toc */*.bbl */*.blg
 
 pdf: all
-	# Output: kuyper-vol1/vol1.pdf, kuyper-vol2/vol2.pdf, kuyper-vol3/vol3.pdf
+	# Output: kuyper-vol1/vol1.pdf, kuyper-vol2/vol2.pdf
 ```
 
 ### Index Generation
@@ -324,7 +324,7 @@ python scripts/generate_latex_synopticon.py \
 ## Part 6: Next Steps
 
 1. **Choose OCR pipeline** from options above
-2. **Set up LaTeX project structure** in this repo (`kuyper-vol1/`, `kuyper-vol2/`, `kuyper-vol3/`)
+2. **Set up LaTeX project structure** in this repo (`kuyper-vol1/`, `kuyper-vol2/`)
 3. **Install dependencies** (`pip install marker-pdf`, `pip install pdf2zh`, etc.)
 4. **Run extraction** on Dutch source PDFs
 5. **Begin systematic translation** chapter by chapter

@@ -2,7 +2,7 @@
 
 **An open English translation of Abraham Kuyper's *Antirevolutionaire Staatkunde* (1916–1917)**
 
-A 3-volume open translation project of Abraham Kuyper's magnum opus on political theology — the mature synthesis of Neo-Calvinist thought applied to the machinery of the modern state.
+A 2-volume open translation project of Abraham Kuyper's magnum opus on political theology — the mature synthesis of Neo-Calvinist thought applied to the machinery of the modern state.
 
 **Open to the public. Open to critique. Open to improvement.**
 
@@ -24,9 +24,9 @@ The original Dutch text *Antirevolutionaire Staatkunde* (1916–1917) is in the 
 
 This repository contains:
 - **Dutch source texts** — original 1916–1917 editions (PDF and Markdown)
-- **English translation** — full 3-volume translation (Markdown, HTML, PDF)
+- **English translation** — full 2-volume translation (Markdown, HTML, PDF)
 - **Parallel editions** — Dutch/English side-by-side reading editions
-- **Companion volume** — encyclopedic glossary, biographical register, master index
+
 - **Translation protocol** — standards and stylistic constraints for the translation
 - **Build scripts** — PDF generation, parallel edition synthesis, NLP indexing
 - **OCR & compilation plan** — roadmap for refining the translation and producing print-ready LaTeX volumes
@@ -50,7 +50,7 @@ This repository contains:
 │   ├── Kuyper_Antirevolutionary_Politics_Vol2_FULL.md    # English Vol. 2
 │   ├── Kuyper_Antirevolutionary_Politics_Vol1_Dutch.md   # Dutch Vol. 1 (MD)
 │   ├── Kuyper_Antirevolutionary_Politics_Vol2_Dutch.md   # Dutch Vol. 2 (MD)
-│   ├── Kuyper_Antirevolutionary_Politics_Vol3_Companion.md
+
 │   ├── Antirevolutionary_Politics_Vol3_Master_Index.md
 │   ├── Antirevolutionary_Politics_Vol3_Synopticon.md
 │   ├── Antirevolutionary_Politics_Vol1.pdf               # Print-ready Vol. 1
@@ -130,7 +130,7 @@ The foundational principles of Antirevolutionary politics — the concept of law
 ### Volume II: Application
 The application of Antirevolutionary principles to concrete political questions — suffrage, education, labor, church-state relations, and the organic development of society.
 
-### Volume III: Companion & Master Index
+
 - **Encyclopedic Glossary** — Neo-Calvinist concepts with detailed definitions
 - **Biographical Register** — Key figures (Groen van Prinsterer, Thorbecke, Schaepman, etc.)
 - **Master Index** — Comprehensive topical index with NLP-enhanced thematic clustering
@@ -186,7 +186,7 @@ See [`OCR_AND_LATEX_PLAN.md`](OCR_AND_LATEX_PLAN.md) for:
 - **Systematic workflow** for working through the original text chapter by chapter
 - **LaTeX compilation plan** for producing 3 print-ready volumes with:
   - Two appendices per volume (Theological Glossary + Biographical Register)
-  - Volume III additional appendices (Timeline, Bibliography, Translation Methodology)
+
   - Master index and synopticon cross-references
   - Print-on-demand ready PDFs
 
