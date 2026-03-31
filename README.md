@@ -206,9 +206,11 @@ Open an issue or submit a pull request. No gatekeeping — this project exists t
 
 ## Rights & License
 
-**Original Work:** *Antirevolutionaire Staatkunde* by Abraham Kuyper (1916–1917) — public domain.
+**Original Work:** *Antirevolutionaire Staatkunde* by Abraham Kuyper (1916–1917) — public domain worldwide.
 
-**This Translation:** MIT License. Free to use, modify, distribute, and build upon for any purpose.
+**This Translation & Project Materials:** MIT License. Free to use, modify, distribute, and build upon for any purpose. See [`LICENSE`](LICENSE) for full terms, including what is and isn't covered.
+
+**Reference Materials:** Included for translation guidance only. See [`review/REFERENCE_MATERIALS_LICENSE.md`](review/REFERENCE_MATERIALS_LICENSE.md) for provenance and copyright status of each reference text.
 
 **AI Disclosure:** This translation was prepared with the assistance of advanced AI systems. The translation is human-guided and verified. AI was used for text extraction, initial translation drafts, index synthesis, parallel text alignment, and apparatus generation.
 

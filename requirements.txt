@@ -1,0 +1,16 @@
+# Kuyper Translation - Python Dependencies
+# Install: pip install -r requirements.txt
+
+# PDF processing
+pdfplumber>=0.10.0
+pypdf>=4.0.0
+
+# PDF export
+weasyprint>=60.0
+playwright>=1.40.0
+
+# NLP and text processing
+spacy>=3.7.0
+
+# Note: After installing, run: python -m spacy download en_core_web_sm
+# Note: After installing playwright, run: playwright install
