@@ -1,0 +1,30 @@
+name: "🏛️ Philosophy & Approach"
+description: "Discuss translation philosophy, theological approach, or project direction"
+title: "[Philosophy] "
+labels: ["philosophy", "discussion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Want to discuss the translation approach, theological decisions, or project direction? Use this form.
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Topic
+      options:
+        - Translation philosophy / approach
+        - Theological terminology
+        - Stylistic decisions (cadence, register, tone)
+        - Project structure / organization
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Your Thoughts
+      description: Share your perspective, question, or recommendation.
+    validations:
+      required: true

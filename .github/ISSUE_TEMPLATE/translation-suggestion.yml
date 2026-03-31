@@ -1,0 +1,53 @@
+name: "💡 Translation Suggestion"
+description: "Suggest a better phrasing, alternative wording, or stylistic improvement"
+title: "[Suggestion] "
+labels: ["suggestion", "translation-improvement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have a better way to phrase something? We welcome suggestions that improve the translation's accuracy, readability, or fidelity to Kuyper's voice.
+
+  - type: dropdown
+    id: volume
+    attributes:
+      label: Volume
+      options:
+        - Volume I: Principles
+        - Volume II: Application
+        - Volume III: Companion & Index
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: "Where in the text? (e.g., 'Vol 1, Ch 1, §3')"
+      placeholder: "e.g., Vol 1, Ch 1, §3"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: Current Translation
+      description: What does it currently say?
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggested
+    attributes:
+      label: Your Suggestion
+      description: How would you phrase it instead?
+    validations:
+      required: true
+
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Reasoning
+      description: Why is your suggestion better? (e.g., matches Kuyper's cadence, more precise theological term, etc.)
+    validations:
+      required: false

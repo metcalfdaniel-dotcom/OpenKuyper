@@ -6,6 +6,8 @@ A 3-volume open translation project of Abraham Kuyper's magnum opus on political
 
 **Open to the public. Open to critique. Open to improvement.**
 
+📝 **Follow the project blog:** [openkuyper.substack.com](https://openkuyper.substack.com)
+
 ---
 
 ## About This Project

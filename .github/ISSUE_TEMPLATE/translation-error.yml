@@ -1,0 +1,79 @@
+name: "📝 Translation Error"
+description: "Report a mistranslation, typo, or error in the English text"
+title: "[Translation Error] "
+labels: ["translation-error", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve this open translation. Please provide as much detail as possible.
+
+  - type: dropdown
+    id: volume
+    attributes:
+      label: Volume
+      description: Which volume contains the error?
+      options:
+        - Volume I: Principles
+        - Volume II: Application
+        - Volume III: Companion & Index
+        - Not sure / Multiple volumes
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: "Chapter, section, or page number (e.g., 'Vol 1, Ch 3, §5' or 'page 42')"
+      placeholder: "e.g., Vol 1, Ch 1, §2"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current-text
+    attributes:
+      label: Current English Text
+      description: What does the current translation say?
+      placeholder: "Paste the current English text here..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: dutch-source
+    attributes:
+      label: Dutch Source (if known)
+      description: What does the original Dutch say? (Optional — include if you have access to the Dutch text)
+      placeholder: "Paste the Dutch text here, or describe the discrepancy..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: suggested-fix
+    attributes:
+      label: Suggested Correction
+      description: How should this be translated instead?
+      placeholder: "Your suggested translation..."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      description: How significant is this error?
+      options:
+        - Typo / formatting only
+        - Minor wording issue
+        - Meaning changed / significant mistranslation
+        - Theological term incorrect
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have checked that this issue hasn't already been reported
+          required: true
