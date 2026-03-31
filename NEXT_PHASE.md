@@ -354,3 +354,89 @@ Print-ready PDFs → editions/
 | Translation Rework (if needed) | $10-40 (API credits) | 1-3 days |
 | LaTeX Compilation | $0 | 4-8 hours |
 | **Total** | **$0-60** | **3-7 days** |
+
+---
+
+## Helpful GitHub Repositories
+
+### OCR & Dutch Text Processing
+
+| Repository | Stars | Purpose | How We Use It |
+|------------|-------|---------|---------------|
+| [kba/awesome-ocr](https://github.com/kba/awesome-ocr) | 3.1k | Curated list of OCR projects | Reference for tool selection, especially for historical documents |
+| [ml6team/byt5-base-dutch-ocr-correction](https://huggingface.co/ml6team/byt5-base-dutch-ocr-correction) | — | Dutch-specific OCR correction model | Post-process Dutch extraction to fix common OCR errors |
+| [Georgetown-IR-Lab/ocr-correction](https://github.com/Georgetown-IR-Lab/ocr-correction) | — | OCR post-processing pipeline | Reference architecture for our `fix_ocr_common.py` |
+| [OpenTaal/opentaal-hunspell](https://github.com/OpenTaal/opentaal-hunspell) | 34 | Dutch spell-checking dictionary | Validate OCR output against known Dutch words |
+| [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) | 14k | Grammar/style checker (Dutch support) | Secondary validation of Dutch text quality |
+
+### PDF Extraction & Translation
+
+| Repository | Stars | Purpose | How We Use It |
+|------------|-------|---------|---------------|
+| [datalab-to/marker](https://github.com/datalab-to/marker) | 33k | PDF → Markdown extraction | Alternative OCR pipeline if current extraction scores poorly |
+| [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 57k | Complex document parsing | Best-in-class for 19th-century Dutch typography with footnotes |
+| [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | 32.5k | PDF translation with layout preservation | Direct Dutch→English bilingual output option |
+| [hydropix/TranslateBooksWithLLMs](https://github.com/hydropix/TranslateBooksWithLLMs) | 555 | Book-length LLM translation | Full-book translation pipeline with resume capability |
+| [deusyu/translate-book](https://github.com/deusyu/translate-book) | 565 | Claude-powered parallel translation | Fastest option using parallel subagents |
+
+### LaTeX Book Typesetting
+
+| Repository | Stars | Purpose | How We Use It |
+|------------|-------|---------|---------------|
+| [DGrady/book-template](https://github.com/DGrady/book-template) | 56 | Memoir class book template | Starting point for our `kuyper-common.sty` and volume structure |
+| [Belajar-Latex/MemoirTemplate](https://github.com/Belajar-Latex/MemoirTemplate) | — | Simple memoir template | Reference for chapter/section formatting patterns |
+| [langsci/langscibook](https://github.com/langsci/langscibook) | 36 | Linguistics book class | Scholarly edition patterns: footnotes, indices, glossaries |
+| [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook) | 2.4k | Elegant LaTeX book class | Reference for typography and layout decisions |
+| [pmichaillat/latex-book](https://github.com/pmichaillat/latex-book) | — | Minimalist academic book template | Clean, minimal approach for our scholarly edition |
+| [joaomlourenco/novathesis](https://github.com/joaomlourenco/novathesis) | 961 | Academic monograph template | Reference for frontmatter/backmatter structure |
+| [jdujava/TeXtured](https://github.com/jdujava/TeXtured) | 262 | Typographically elegant template | Reference for EB Garamond typesetting patterns |
+
+### Markdown → LaTeX Conversion
+
+| Repository | Stars | Purpose | How We Use It |
+|------------|-------|---------|---------------|
+| [thomasWeise/bookbuilderpy](https://github.com/thomasWeise/bookbuilderpy) | 8 | Python-based book compilation from Markdown | Reference architecture for our `md_to_latex.py` |
+| [rufuspollock/markdown2latex](https://github.com/rufuspollock/markdown2latex) | — | Python Markdown → LaTeX extension | Base converter logic for our custom converter |
+| [simonwaldherr/latex-ci](https://github.com/simonwaldherr/latex-ci) | — | GitHub Actions for LaTeX → PDF | CI/CD pipeline for automated book compilation |
+
+### Translation Quality & Alignment
+
+| Repository | Stars | Purpose | How We Use It |
+|------------|-------|---------|---------------|
+| [soimort/translate-shell](https://github.com/soimort/translate-shell) | 8.2k | Command-line translation tool | Quick spot-check translations during audit |
+| [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate) | 4.1k | Offline neural machine translation | Local Dutch→English baseline for comparison |
+
+---
+
+## Next Steps: Repository Integration
+
+1. **Clone reference repos** for study:
+   ```bash
+   # OCR references
+   git clone https://github.com/kba/awesome-ocr.git ~/Projects/reference/awesome-ocr
+   
+   # LaTeX templates
+   git clone https://github.com/DGrady/book-template.git ~/Projects/reference/book-template
+   git clone https://github.com/langsci/langscibook.git ~/Projects/reference/langscibook
+   
+   # Book builder reference
+   git clone https://github.com/thomasWeise/bookbuilderpy.git ~/Projects/reference/bookbuilderpy
+   ```
+
+2. **Install Python dependencies**:
+   ```bash
+   pip install pdf2image pandas rich transformers
+   brew install poppler
+   ```
+
+3. **Download Dutch OCR correction model**:
+   ```python
+   from transformers import pipeline
+   ocr_corrector = pipeline("text2text-generation", 
+       model="ml6team/byt5-base-dutch-ocr-correction")
+   ```
+
+4. **Build tools in priority order**:
+   - `scripts/audit_ocr_quality.py` (Phase 1)
+   - `scripts/audit_translation_quality.py` (Phase 2)
+   - `scripts/md_to_latex.py` (Phase 3)
