@@ -1,0 +1,77 @@
+{
+  "volume": 1,
+  "chapters": [
+    {
+      "volume": 1,
+      "number": 1,
+      "slug": "introduction",
+      "title": "Introduction",
+      "start_page": 11,
+      "end_page": 36
+    },
+    {
+      "volume": 1,
+      "number": 2,
+      "slug": "concept-of-state",
+      "title": "The Concept of the State",
+      "start_page": 37,
+      "end_page": 50
+    },
+    {
+      "volume": 1,
+      "number": 3,
+      "slug": "essence-of-state",
+      "title": "The Essence of the State",
+      "start_page": 51,
+      "end_page": 70
+    },
+    {
+      "volume": 1,
+      "number": 4,
+      "slug": "transition-modern-era",
+      "title": "Transition to the Modern Era",
+      "start_page": 71,
+      "end_page": 85
+    },
+    {
+      "volume": 1,
+      "number": 5,
+      "slug": "constitution",
+      "title": "The Constitution",
+      "start_page": 86,
+      "end_page": 110
+    },
+    {
+      "volume": 1,
+      "number": 6,
+      "slug": "the-land",
+      "title": "The Land",
+      "start_page": 111,
+      "end_page": 130
+    },
+    {
+      "volume": 1,
+      "number": 7,
+      "slug": "supreme-authority",
+      "title": "The Supreme Authority",
+      "start_page": 131,
+      "end_page": 155
+    },
+    {
+      "volume": 1,
+      "number": 8,
+      "slug": "sovereignty",
+      "title": "The Sovereignty",
+      "start_page": 156,
+      "end_page": 180
+    },
+    {
+      "volume": 1,
+      "number": 9,
+      "slug": "purpose-of-state",
+      "title": "The Purpose of the State",
+      "start_page": 181,
+      "end_page": 0
+    }
+  ]
+}

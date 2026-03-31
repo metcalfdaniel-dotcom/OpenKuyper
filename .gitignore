@@ -39,3 +39,7 @@ __pycache__/
 *.tmp
 *.bak
 *.mobi
+
+# Go pipeline binary (source committed, binary ignored)
+pipeline/pipeline
+pipeline/go.sum

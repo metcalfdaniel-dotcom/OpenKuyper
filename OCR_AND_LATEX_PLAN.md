@@ -170,7 +170,6 @@ kuyper-vol1/
 ├── backmatter/
 │   ├── appendix-a-glossary.tex     # Appendix A: Theological Glossary
 │   ├── appendix-b-biographical.tex # Appendix B: Biographical Register
-│   ├── appendix-c-synopticon.tex   # Appendix C: Syntopicon Cross-References
 │   └── index.tex                   # Master Index
 ├── vol1.tex                   # Master document
 └── vol1-style.sty             # Volume-specific style overrides
@@ -191,29 +190,9 @@ kuyper-vol2/
 ├── backmatter/
 │   ├── appendix-a-glossary.tex     # Appendix A: Theological Glossary (Vol 2 additions)
 │   ├── appendix-b-biographical.tex # Appendix B: Biographical Register (Vol 2 additions)
-│   ├── appendix-c-synopticon.tex   # Appendix C: Syntopicon Cross-References
 │   └── index.tex
 ├── vol2.tex
 └── vol2-style.sty
-```
-
-### Volume III: Companion & Master Index
-```
-kuyper-vol3/
-├── frontmatter/
-│   ├── titlepage.tex
-│   ├── copyright.tex
-│   └── contents.tex
-├── mainmatter/
-│   ├── part1-glossary.tex     # Encyclopedic Glossary of Neo-Calvinist Concepts
-│   ├── part2-biographical.tex # Biographical Register of Key Figures
-│   └── part3-index.tex        # Master Index
-├── backmatter/
-│   ├── appendix-a-timeline.tex     # Appendix A: Kuyper's Life & Historical Timeline
-│   ├── appendix-b-bibliography.tex # Appendix B: Bibliography & Source References
-│   └── appendix-c-methodology.tex  # Appendix C: Translation Methodology & AI Disclosure
-├── vol3.tex
-└── vol3-style.sty
 ```
 
 ### Two Appendices Per Volume
@@ -228,11 +207,6 @@ kuyper-vol3/
 - Figures mentioned in that volume
 - Groen van Prinsterer, Thorbecke, Schaepman, etc.
 - Brief biographical sketches with relevance to Kuyper's argument
-
-**Volume III Additional Appendices:**
-- **Appendix A:** Kuyper's Life & Historical Timeline (1837-1920)
-- **Appendix B:** Bibliography & Source References (all works cited)
-- **Appendix C:** Translation Methodology & AI Disclosure
 
 ### Master Style Package (`kuyper-common.sty`)
 ```latex
@@ -265,7 +239,7 @@ kuyper-vol3/
 ### Build System
 ```makefile
 # Makefile for building all volumes
-VOLUMES = vol1 vol2 vol3
+VOLUMES = vol1 vol2
 
 all: $(VOLUMES)
 
@@ -275,27 +249,11 @@ vol1:
 vol2:
 	cd kuyper-vol2 && xelatex vol2.tex && biber vol2 && xelatex vol2.tex && xelatex vol2.tex
 
-vol3:
-	cd kuyper-vol3 && xelatex vol3.tex && biber vol3 && xelatex vol3.tex && xelatex vol3.tex
-
 clean:
 	rm -f */*.aux */*.log */*.out */*.toc */*.bbl */*.blg
 
 pdf: all
 	# Output: kuyper-vol1/vol1.pdf, kuyper-vol2/vol2.pdf
-```
-
-### Index Generation
-```bash
-# Use existing NLP-enhanced index data
-python scripts/generate_latex_index.py \
-  --input editions/Antirevolutionary_Politics_Vol3_Master_Index.md \
-  --output kuyper-vol3/mainmatter/part3-index.tex
-
-# Generate synopticon cross-references
-python scripts/generate_latex_synopticon.py \
-  --input scripts/synopticon_data.json \
-  --output kuyper-vol3/backmatter/appendix-c-synopticon.tex
 ```
 
 ### Print-Ready Output

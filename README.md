@@ -50,12 +50,8 @@ This repository contains:
 │   ├── Kuyper_Antirevolutionary_Politics_Vol2_FULL.md    # English Vol. 2
 │   ├── Kuyper_Antirevolutionary_Politics_Vol1_Dutch.md   # Dutch Vol. 1 (MD)
 │   ├── Kuyper_Antirevolutionary_Politics_Vol2_Dutch.md   # Dutch Vol. 2 (MD)
-
-│   ├── Antirevolutionary_Politics_Vol3_Master_Index.md
-│   ├── Antirevolutionary_Politics_Vol3_Synopticon.md
 │   ├── Antirevolutionary_Politics_Vol1.pdf               # Print-ready Vol. 1
 │   ├── Antirevolutionary_Politics_Vol2.pdf               # Print-ready Vol. 2
-│   ├── Antirevolutionary_Politics_Vol3_Master_Index.pdf
 │   ├── Antirevolutionary_Politics_Parallel_Vol1.html     # Parallel reading
 │   ├── Antirevolutionary_Politics_Parallel_Vol2.html
 │   ├── Antirevolutionary_Politics_Vol1_Annotated_Edition.html
@@ -71,17 +67,20 @@ This repository contains:
 │   ├── generate_dutch_md.py              # Dutch text → Markdown
 │   ├── refine_markdown_v2.py             # Translation refinement
 │   ├── enhance_index_nlp.py              # NLP-enhanced indexing
-│   ├── generate_synopticon.py            # Syntopicon generation
 │   ├── sync_scholarly_to_md.py           # Scholarly → Markdown sync
 │   ├── analyze_pdf_alignment.py          # PDF alignment verification
-│   ├── optimize_for_pod.sh               # Print-on-demand optimization
-│   └── synopticon_data.json              # Syntopicon cross-reference data
+│   └── optimize_for_pod.sh               # Print-on-demand optimization
 ├── manuscript/
-│   └── volume_1/
-│       └── chapter_01/
-│           ├── dutch_source.md           # Original Dutch
-│           ├── english_draft.md          # AI rough draft
-│           └── english_refined.md        # Human-refined translation
+│   ├── volume_1/
+│   │   ├── ch01-introduction/
+│   │   ├── ch02-concept-of-state/
+│   │   ├── ... (8 chapters total)
+│   │   └── ch08-sovereignty/
+│   └── volume_2/
+│       ├── ch01-introduction/
+│       ├── ch04-council-state/
+│       ├── ... (10 chapters total)
+│       └── ch22-party-policy/
 ├── reference/
 │   ├── Faith - Abraham Kuyper.*          # Reference text
 │   ├── Lectures on Calvinism.*           # Stone Lectures (ground truth)

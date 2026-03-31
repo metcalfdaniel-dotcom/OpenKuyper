@@ -1,6 +1,7 @@
 # Kuyper Translation - Build & Workflow
 
-.PHONY: all editions pdf parallel check-terms review clean help
+.PHONY: all editions pdf parallel check-terms review clean help \
+        pipeline extract-vol1 extract-vol2 align quality substack assemble-vol1 assemble-vol2
 
 # Default: show help
 all: help
@@ -15,6 +16,60 @@ help:
 	@echo "  make review        Run review checklist on all chapters"
 	@echo "  make clean         Remove build artifacts"
 	@echo "  make help          Show this help"
+	@echo ""
+	@echo "Pipeline Commands (Go):"
+	@echo "  make pipeline          Build the Go pipeline binary"
+	@echo "  make extract-vol1      Extract Volume 1 chapters"
+	@echo "  make extract-vol2      Extract Volume 2 chapters"
+	@echo "  make align CHAPTER=... Check Dutch/English alignment"
+	@echo "  make quality CHAPTER=... Run quality gate on a chapter"
+	@echo "  make substack CHAPTER=... Export chapter to Substack format"
+	@echo "  make assemble-vol1     Assemble Volume 1 from chapters"
+	@echo "  make assemble-vol2     Assemble Volume 2 from chapters"
+
+# ─── Pipeline (Go) ────────────────────────────────────────────────────────────
+
+PIPELINE = ./pipeline/pipeline
+
+pipeline:
+	@echo "Building pipeline binary..."
+	cd pipeline && go build -o ../pipeline/pipeline .
+	@echo "Pipeline binary built: pipeline/pipeline"
+
+extract-vol1: pipeline
+	$(PIPELINE) extract 1
+
+extract-vol2: pipeline
+	$(PIPELINE) extract 2
+
+align: pipeline
+	@if [ -z "$(CHAPTER)" ]; then \
+		echo "Usage: make align CHAPTER=manuscript/volume_1/ch01-introduction"; \
+		exit 1; \
+	fi
+	$(PIPELINE) align $(CHAPTER)
+
+quality: pipeline
+	@if [ -z "$(CHAPTER)" ]; then \
+		echo "Usage: make quality CHAPTER=manuscript/volume_1/ch01-introduction"; \
+		exit 1; \
+	fi
+	$(PIPELINE) quality $(CHAPTER)
+
+substack: pipeline
+	@if [ -z "$(CHAPTER)" ]; then \
+		echo "Usage: make substack CHAPTER=manuscript/volume_1/ch01-introduction"; \
+		exit 1; \
+	fi
+	$(PIPELINE) substack $(CHAPTER)
+
+assemble-vol1: pipeline
+	$(PIPELINE) assemble 1
+
+assemble-vol2: pipeline
+	$(PIPELINE) assemble 2
+
+# ─── Python Scripts ───────────────────────────────────────────────────────────
 
 # Generate editions from source materials
 editions:
