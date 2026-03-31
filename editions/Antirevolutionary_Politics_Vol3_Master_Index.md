@@ -1,0 +1,806 @@
+# VOLUME III: COMPANION & MASTER INDEX
+
+> Editor: Daniel Metcalf
+
+## Table of Contents
+- [Part I: Encyclopedic Glossary](#part-i-encyclopedic-glossary-of-neo-calvinist-concepts)
+- [Part II: Biographical Register](#part-ii-biographical-register)
+- [Part III: Master General Index](#part-iii-master-general-index)
+- [Part IV: Synopticon](#part-iv-the-synopticon-great-ideas)
+- [Part V: Scripture Index](#part-v-master-scripture-index)
+
+# Part I: Encyclopedic Glossary of Neo-Calvinist Concepts
+
+### Common Grace (Gemene Gratie)
+
+    <p>If the <strong>Antithesis</strong> separates the Christian from the world, <strong>Common Grace</strong> provides the bridge back to it. Theoretically, the curse of sin should have rendered human cooperation impossible and the world purely hellish. Kuyper argues that God, in His mercy, actively restrains the full destructive outworking of sin and endows fallen humanity with remaining gifts of reason, art, science, and civic virtue.</p>
+    <p>This doctrine is crucial for Kuyper’s politics because it validates the public sphere. It explains how pagan Greeks could produce perfect art, how Roman jurists could formulate just laws, and how a modern pluralistic state can function. The Christian politician acknowledges that "sparks of the divine glory" glimmer even in the ungodly, allowing for shared civic life. However, Common Grace does not save; it merely preserves the cosmos for the final redemption. It is the "brake" on the runaway train of sin, while Special Grace is the "engine" of salvation.</p>
+    
+
+### Palingenesis (Regeneration)
+
+    <p>Literally "birth again." While technically a theological term for the regeneration of the individual soul, Kuyper applies <strong>Palingenesis</strong> to the social order. He argues that the "Normalist" view (represented by modern Science and Liberalism) sees the world as developing normally from a single principle. The Christian view, however, is "Abnormalist"—it recognizes a "Triple State": Creation (Normal), the Fall (Abnormal), and Redemption (Palingenesis).</p>
+    <p>This affects politics because the Christian statesman takes sin seriously (the Abnormal) and looks for the restoration of the "Original Ordinances" through the power of Christ (Palingenesis), even if that restoration is only partial in this dispensation. The Revolution tries to "evolve" society to perfection; the Antirevolutionary seeks to "regenerate" it by returning to the life-giving ordinances of the Creator.</p>
+    
+
+### Sphere Sovereignty (Souvereiniteit in Eigen Kring)
+
+    <p>The central structural principle of Kuyper’s social philosopy. <strong>Sphere Sovereignty</strong> asserts that human life is not a single, undifferentiated hierarchy commanded by the State, but is composed of distinct, organic "spheres" of activity—such as the family, the church, the university, the guild, and the arts. Each of these spheres possesses its own God-given nature, its own "ordinances," and its own supreme authority derived directly from God, not delegated by the government.</p>
+    <p>Kuyper argues that the State has a "mechanical" duty to mediate between these spheres to prevent conflict and protect the weak, but it has no right to intrude into their internal life. The State cannot dictate the theology of the church, the curriculum of the university, or the discipline of the family. To do so is tyranny. This concept stands in direct opposition to both the <strong>State Absolutism</strong> of the French Revolution (which dissolves all intermediate bodies into the State) and <strong>Individualism</strong> (which sees only isolated atoms). For Kuyper, liberty is found in the autonomy of these organic circles under the ultimate Sovereignty of God.</p>
+    
+
+### The Antithesis
+
+    <p>The <strong>Antithesis</strong> is the fundamental spiritual cleavage that divides humanity into two camps: those who acknowledge the Sovereignty of God and those who assert the Sovereignty of Man. Kuyper derived this concept from Genesis 3:15 (the enmity between the seed of the woman and the seed of the serpent) and developed it into a comprehensive philosophy of history.</p>
+    <p>In <em>Antirevolutionary Politics</em>, the Antithesis is not merely a theological distinction but a political reality. It means that there can be no neutral ground in principles. A political system is built either on the "Revolutionary" foundation (denying a higher power above the human will) or the "Christian" foundation (acknowledging Divine ordinances). While "Common Grace" allows for practical cooperation (e.g., building roads or dikes), the foundational direction of the two systems is irreconcilably opposed. This necessitates distinct Christian political organizations, schools, and labor unions, rather than amalgamation into a "general" liberal consensus.</p>
+    
+
+### The Magistrate (De Overheid)
+
+    <p>Kuyper deliberately avoids the modern term "The State" when speaking of the government’s authority, preferring the biblical/Dutch term <strong>De Overheid</strong> (literally "The Over-hood" or "Authority"). "The State" implies the whole nation, effectively absorbing the people into the government. "The Magistrate," however, implies a distinct <em>office</em> instituted by God to wield the sword of justice.</p>
+    <p>The Magistrate is the "servant of God" (Romans 13), invested with the power over life and death solely to restrain sin and maintain the external conditions for the spheres to flourish. It has no authority of its own; it possesses only what it borrows from the Sovereign God. This definition desacralizes the State (it is not God) while honoring the Office (it is God's servant).</p>
+    
+
+### The Ordinances of God
+
+    <p>Kuyper’s alternative to the Enlightenment concept of "Natural Law." <strong>Ordinances</strong> are the creation-structures established by God for every created thing. There are ordinances for the course of the stars, but also ordinances for the life of the family (monogamy, authority), the state (justice), and the market (honesty).</p>
+    <p>These are not arbitrary commands but the "laws of life" ingrained in the cosmos. To violate them is not just immoral; it is destructive to the organism of society (suicidal). The task of the statesman is not to invent new laws based on the "Will of the People," but to <em>discover</em> and <em>apply</em> these eternal ordinances to the changing circumstances of the times. This shifts the basis of law from the subjective (Man's Will) to the objective (God's Will).</p>
+    
+
+### The Organism vs. The Mechanism
+
+    <p>A recurring metaphor in Kuyper’s thought used to distinguish between natural, God-given growth and artificial, human-imposed constructs. The <strong>Organism</strong> represents life, continuity, history, and complexity. The family is an organism; the nation is an organism. They grow from a root (creation) and develop historically. They cannot be taken apart and reassembled.</p>
+    <p>The <strong>Mechanism</strong>, by contrast, represents abstract reason, artificiality, and external force. The State, fundamentally, is a mechanism—it is "added" because of sin to keep the broken limbs of the social body together. The great error of the French Revolution, in Kuyper’s view, was to treat society as a machine that could be dismantled and rebuilt according to a rational blueprint (a constitution), ignoring the organic roots of history and tradition. True statesmanship respects the "lines of the organism" and avoids the "mechanical" crushing of life.</p>
+    
+
+
+# Part II: Biographical Register
+
+### Bavinck, Herman (1854–1921)
+
+    <p>The great dogmatician of the Neo-Calvinist movement and Kuyper’s younger contemporary and intellectual partner. While Kuyper was the dynamic leader, statesman, and journalist who intuitively sketched out the "worldview," Bavinck was the scholar who gave it scientific precision and dogmatic depth. His <em>Reformed Dogmatics</em> (<em>Gereformeerde Dogmatiek</em>) remains the standard theological work of the movement. In <em>Antirevolutionary Politics</em>, Kuyper cites Bavinck as proof that Calvinism is not a fossil but a living, scientifically vigorous system capable of engaging modernity.</p>
+    
+
+### Bilderdijk, Willem (1756–1831)
+
+    <p>The stormy prophet of the <em>Réveil</em> (Revival). A lawyer, linguist, and romantic poet who lived in exhile during the Napoleonic era, Bilderdijk returned to the Netherlands to gather a small circle of disciples (including Da Costa and Groen van Prinsterer) in Leiden. He preached a vehement, emotional opposition to the Enlightenment.</p>
+    <p>While Kuyper criticized Bilderdijk’s "reactionary" monarchism and his disdain for the people, he honored him as the man who first woke the Dutch conscience from its rationalist slumber. Bilderdijk represents the "heart" of the movement, where Groen provided the "mind" and Kuyper the "hand."</p>
+    
+
+### Burke, Edmund (1729–1797)
+
+    <p>The British statesman whose <em>Reflections on the Revolution in France</em> sounded the first great alarm against 1789. Kuyper claims Burke as a spiritual ally, appreciating his defense of "prejudice" (tradition), "prescription" (historical rights), and his view of society as an intergenerational covenant. However, Kuyper felt Burke relied too much on history ("it is good because it is old") whereas the Anti-Revolutionary relies on the Word of God ("it is good because it is ordained").</p>
+    
+
+### Calvin, John (1509–1564)
+
+    <p>For Kuyper, Calvin was more than a reformer of dogmas; he was the architect of a world-system. Kuyper's "Calvinism" (as expressed in his Stone Lectures) is a comprehensive life-system that implies a republican form of government, the liberty of conscience, and the independence of the church. Kuyper argued that Calvinism alone provides the "transcendental" point of purchase to resist the tyranny of the State (State-worship), because it places every individual directly before the face of God (<em>Coram Deo</em>), shrinking all earthly authorities to relative size.</p>
+    
+
+### Groen van Prinsterer, Guillaume (1801–1876)
+
+    <p>The intellectual father of the Anti-Revolutionary movement, the "Signpost" to Kuyper, and the greatest Christian historian of the 19th-century Netherlands. Groen was an aristocrat, the Archivist of the House of Orange, and a lonely voice in the Dutch parliament witnessing against the "Spirit of the Age."</p>
+    <p>His magnum opus, <em>Unbelief and Revolution</em> (1847), provided the central thesis that Kuyper would later operationalize: that the French Revolution was not merely a political change but the "practical application of unbelief." Groen taught Kuyper that the battle was not conservative vs. liberal, but Christian vs. Revolutionary. He died leaving Kuyper as his undisputed heir, handing him the torch of the movement which Kuyper would transform from an aristocratic clique into a democratic mass party.</p>
+    
+
+### Languet, Hubert (1518–1581)
+
+    <p>The presumed author of the <em>Vindiciae Contra Tyrannos</em> (Defense of Liberty Against Tyrants), published under the pseudonym Junius Brutus in 1579. Languet was a French Huguenot diplomat and a close friend of Philip Sidney. His work is the classic text of Calvinist resistance theory, arguing that the relationship between ruler and people is a covenantal one, witnessed by God. If the ruler violates the law of God or the fundamental laws of the kingdom, the inferior magistrates (not the mob) have the right and duty to resist him. Kuyper relies heavily on Languet to ground his Antirevolutionary politics in 16th-century constitutionalism rather than 18th-century revolution.</p>
+    
+
+### Napoleon Bonaparte (1769–1821)
+
+    <p>For Kuyper, Napoleon represents the "Revolution on Horseback." He is the inevitable executor of the principles of 1789. Once the sovereignty of God is denied and the "Will of the People" is enthroned, the result is not freedom but the tyranny of the strongest will—the Caesar. Napoleon’s attempt to unify Europe under a single, centralizing, mechanical statism is the perfect foil to Kuyper’s ideal of organic, decentralized, historical liberty under Christ.</p>
+    
+
+### Rousseau, Jean-Jacques (1712–1778)
+
+    <p>The prophet of the French Revolution and, for Kuyper, the arch-antagonist of Christian politics. Rousseau's <em>Social Contract</em> provided the theological substitute for Calvinism: instead of the Sovereignty of God, Rousseau posited the Sovereignty of the People (Volonté Générale). Kuyper argues that Rousseau’s system leads inevitably to "State Absolutism" because if the State embodies the General Will, no individual or sphere has the right to resist it. Rousseau is the father of the "Mechanical" state, which destroys organic life in the name of abstract equality.</p>
+    
+
+### Schaepman, Herman (1844–1903)
+
+    <p>The "Kuyper of the Catholics." A priest, poet, and towering orator who dragged the Dutch Roman Catholic population out of their isolation and into the political arena. Sharing Kuyper’s disdain for the "neutral" Liberal state, Schaepman recognized that Catholics and Calvinists—historic enemies—faced a common foe in secular Modernism.</p>
+    <p>He and Kuyper forged the "Monsterverbond" (The Monstrous Alliance) or the Coalition, a strategic political union that dominated Dutch politics for decades. While they disagreed on theology, they united on the "School Question" (funding for religious schools) and the defense of Christian morality in public life. Schaepman’s work paralleled Kuyper’s in organizing a "Christian Democratic" mass movement.</p>
+    
+
+### Stahl, Friedrich Julius (1802–1861)
+
+    <p>A German Jewish convert to Lutheranism and a brilliant legal philosopher. Stahl’s philosophy of the "Christian State" and his leadership of the Prussian Conservative Party offered Kuyper a concrete model for organizing a political party based on religious principles. Stahl argued for a constitutional monarchy grounded not in the "Will of the People" but in historical right and divine ordinance. Kuyper’s early "Program" heavily relied on Stahl’s distinct formulation of "Anti-Revolutionary" thought, though Kuyper later democratized Stahl’s aristocratic conservatism.</p>
+    
+
+### Thorbecke, Johan Rudolf (1798–1872)
+
+    <p>The titan of Dutch Liberalism and the architect of the modern Dutch state. As the drafter of the Constitution of 1848, Thorbecke peacefully transformed the Netherlands from a semi-autocratic monarchy into a parliamentary democracy. He was a brilliant jurist who believed in the neutrality of the state, the sovereignty of the individual, and the separation of Church and State (interpreted as the privatization of religion).</p>
+    <p>Kuyper viewed Thorbecke with a mix of profound respect and fundamental opposition. He admired Thorbecke’s "strength of principle" and his dismantling of the old conservative hegemony. However, he fought Thorbecke’s "modernism" which sought to exclude the Church from public relevance and create a "neutral" school system that was, in Kuyper’s view, implicitly atheistic. The political history of the late 19th century was essentially a duel between the shadow of Thorbecke and the rising star of Kuyper.</p>
+    
+
+
+# Part III: Master General Index
+
+* **1789**: I: 12, I: 155, I: 303, I: 304, I: 308, I: 367, I: 453, I: 508, I: 509, I: 524, I: 549, I: 553, I: 554, I: 557, I: 605, I: 620, I: 621, I: 622, I: 623, I: 625, I: 627, I: 628, I: 632, I: 633, I: 634, I: 644, I: 669, I: 680, I: 695, I: 730, I: 731, I: 742, II: 29, II: 30, II: 33, II: 37, II: 39, II: 42, II: 43, II: 47, II: 70, II: 71, II: 72, II: 75, II: 83, II: 109, II: 327, II: 333, II: 347, II: 506, II: 627, II: 639
+* **1813**: I: 169, I: 244, I: 255, I: 256, I: 505, I: 506, I: 606, II: 39, II: 41, II: 52, II: 74, II: 75, II: 76, II: 79, II: 80, II: 81, II: 83, II: 86, II: 98, II: 99, II: 100, II: 102, II: 105, II: 106, II: 189, II: 200, II: 251, II: 253, II: 325, II: 327, II: 434, II: 554, II: 658
+* **1848**: I: 107, I: 212, I: 418, I: 503, I: 505, I: 508, I: 509, I: 512, I: 528, I: 538, I: 540, I: 551, I: 559, I: 565, I: 580, I: 616, I: 618, I: 621, I: 622, II: 21, II: 37, II: 38, II: 41, II: 53, II: 76, II: 82, II: 83, II: 86, II: 92, II: 96, II: 99, II: 109, II: 114, II: 115, II: 116, II: 118, II: 119, II: 121, II: 123, II: 126, II: 127, II: 128, II: 139, II: 155, II: 157, II: 166, II: 177, II: 178, II: 185, II: 190, II: 201, II: 251, II: 325, II: 326, II: 327, II: 334, II: 337, II: 347, II: 361, II: 363, II: 597
+* **1878**: I: 15, I: 17, I: 18, I: 25, I: 546, I: 559, I: 565, I: 569, I: 572, I: 580, I: 602, I: 617, I: 619, I: 639, I: 641, I: 642, I: 742, I: 743, II: 9, II: 25, II: 26, II: 27, II: 31, II: 51, II: 53, II: 62, II: 63, II: 64, II: 70, II: 84, II: 125, II: 196, II: 323, II: 327, II: 328, II: 354, II: 363, II: 373, II: 384, II: 388, II: 397, II: 405, II: 421, II: 423, II: 426, II: 439, II: 472, II: 473, II: 503, II: 504, II: 505, II: 563, II: 564, II: 608, II: 617, II: 619, II: 622, II: 638
+* **Ahrens**: I: 19, I: 182, I: 217, I: 311, I: 313, I: 744
+* **Alsted**: I: 11, I: 674
+* **Anselm**: I: 96
+* **Aristotle**: I: 119, I: 149, I: 217, I: 291, I: 307, I: 653, I: 673
+* **Arminius**: I: 612
+* **Augustine**: I: 243, I: 313
+* **Authority**: I: 89, I: 111, I: 140, I: 144, I: 150, I: 215, I: 217, I: 243, I: 244, I: 253, I: 255, I: 256, I: 258, I: 259, I: 260, I: 267, I: 270, I: 271, I: 277, I: 282, I: 312, I: 414, I: 475, I: 490, I: 525, I: 527, I: 644, I: 661, I: 682, I: 686, I: 687, I: 692, I: 695, I: 709, I: 739, II: 128, II: 129, II: 213, II: 234, II: 276, II: 312, II: 355, II: 586, II: 610, II: 660
+* **Autonomy**: II: 245, II: 660
+* **Bavinck**: I: 614, I: 642, I: 674
+* **Bechthold**: I: 12
+* **Beets**: I: 506, I: 610, I: 613, I: 614, I: 659, I: 742, II: 49, II: 55, II: 84, II: 473
+* **Beza**: I: 670
+* **Bilderdijk**: I: 155, I: 551, I: 557, I: 559, I: 605, I: 609, I: 657, I: 742, II: 33, II: 45, II: 55, II: 76, II: 80, II: 95
+* **Bismarck**: I: 393, II: 66
+* **Bluntschli**: I: 121, I: 123, I: 158, I: 182, I: 217, I: 312, I: 503, I: 504, I: 512, I: 513, I: 514, I: 520, I: 623, I: 738, II: 129
+* **Budget**: I: 539, II: 106, II: 192, II: 336, II: 339, II: 341, II: 345, II: 348, II: 353, II: 662
+* **Bullinger**: I: 11
+* **Burke**: I: 146, I: 308, I: 473, I: 606, I: 607, I: 623, I: 624, I: 628, I: 731, II: 16, II: 328
+* **Calvin**: I: 9, I: 11, I: 12, I: 13, I: 14, I: 15, I: 16, I: 17, I: 47, I: 72, I: 77, I: 101, I: 106, I: 155, I: 232, I: 240, I: 241, I: 260, I: 271, I: 285, I: 286, I: 290, I: 293, I: 295, I: 306, I: 325, I: 371, I: 372, I: 439, I: 449, I: 450, I: 454, I: 455, I: 457, I: 458, I: 459, I: 460, I: 461, I: 462, I: 469, I: 473, I: 474, I: 483, I: 484, I: 486, I: 492, I: 493, I: 496, I: 497, I: 498, I: 499, I: 500, I: 501, I: 519, I: 526, I: 527, I: 557, I: 559, I: 603, I: 604, I: 605, I: 606, I: 607, I: 610, I: 612, I: 613, I: 614, I: 615, I: 619, I: 624, I: 626, I: 627, I: 631, I: 634, I: 637, I: 638, I: 639, I: 640, I: 641, I: 642, I: 643, I: 644, I: 646, I: 647, I: 648, I: 649, I: 650, I: 651, I: 652, I: 653, I: 654, I: 655, I: 656, I: 657, I: 658, I: 659, I: 660, I: 661, I: 662, I: 663, I: 664, I: 665, I: 667, I: 668, I: 669, I: 670, I: 671, I: 672, I: 673, I: 674, I: 675, I: 676, I: 677, I: 684, I: 686, I: 687, I: 688, I: 689, I: 690, I: 691, I: 697, I: 699, I: 700, I: 701, I: 702, I: 703, I: 705, I: 706, I: 707, I: 708, I: 709, I: 710, I: 711, I: 713, I: 714, I: 718, I: 719, I: 721, I: 723, I: 724, I: 725, I: 726, I: 727, I: 728, I: 729, I: 730, I: 731, I: 732, I: 733, I: 734, I: 735, I: 741, I: 743, II: 7, II: 14, II: 15, II: 16, II: 17, II: 18, II: 20, II: 21, II: 34, II: 35, II: 36, II: 37, II: 38, II: 39, II: 41, II: 42, II: 44, II: 47, II: 48, II: 49, II: 50, II: 51, II: 52, II: 53, II: 54, II: 55, II: 56, II: 57, II: 58, II: 61, II: 62, II: 63, II: 64, II: 65, II: 66, II: 67, II: 68, II: 69, II: 70, II: 72, II: 73, II: 82, II: 84, II: 95, II: 108, II: 109, II: 153, II: 154, II: 204, II: 257, II: 281, II: 283, II: 293, II: 295, II: 296, II: 303, II: 309, II: 335, II: 361, II: 377, II: 388, II: 399, II: 401, II: 409, II: 415, II: 454, II: 458, II: 467, II: 480, II: 499, II: 502, II: 515, II: 545, II: 551, II: 632, II: 651, II: 652, II: 653, II: 654, II: 660, II: 663
+* **Cicero**: I: 48
+* **Coalition**: II: 640
+* **Common Grace**: I: 14, I: 16, I: 31, I: 37, I: 39, I: 47, I: 48, I: 49, I: 50, I: 51, I: 72, I: 113, I: 114, I: 140, I: 141, I: 142, I: 143, I: 148, I: 149, I: 232, I: 233, I: 239, I: 319, I: 325, I: 327, I: 452, I: 475, I: 476, I: 636, I: 640, I: 667, I: 687, I: 699, I: 700, I: 711, I: 713, I: 729, I: 732, I: 734, I: 737, I: 738, I: 739, II: 51, II: 57, II: 69, II: 244, II: 292, II: 295, II: 296, II: 297, II: 299, II: 399, II: 445, II: 660
+* **Comrie**: I: 12, I: 610, I: 612, I: 659
+* **Confessional**: I: 612, I: 617
+* **Constantin Frantz**: I: 18, I: 151, I: 744
+* **Constitution**: I: 9, I: 16, I: 22, I: 102, I: 107, I: 109, I: 115, I: 120, I: 146, I: 235, I: 245, I: 255, I: 289, I: 302, I: 305, I: 362, I: 363, I: 364, I: 365, I: 366, I: 368, I: 403, I: 469, I: 470, I: 471, I: 472, I: 473, I: 501, I: 508, I: 521, I: 567, I: 587, I: 616, I: 621, I: 622, I: 642, I: 648, I: 660, I: 662, I: 677, I: 683, I: 687, I: 727, I: 728, I: 738, I: 743, I: 744, II: 30, II: 75, II: 80, II: 83, II: 86, II: 87, II: 88, II: 89, II: 90, II: 91, II: 92, II: 93, II: 95, II: 96, II: 97, II: 98, II: 99, II: 100, II: 101, II: 102, II: 103, II: 105, II: 106, II: 108, II: 109, II: 112, II: 113, II: 114, II: 115, II: 116, II: 117, II: 118, II: 119, II: 120, II: 121, II: 122, II: 123, II: 124, II: 125, II: 126, II: 127, II: 128, II: 136, II: 138, II: 140, II: 142, II: 143, II: 146, II: 159, II: 162, II: 163, II: 164, II: 165, II: 166, II: 172, II: 173, II: 175, II: 177, II: 178, II: 179, II: 184, II: 188, II: 206, II: 239, II: 241, II: 243, II: 244, II: 246, II: 247, II: 248, II: 249, II: 269, II: 273, II: 274, II: 275, II: 279, II: 282, II: 325, II: 335, II: 340, II: 345, II: 347, II: 348, II: 349, II: 350, II: 351, II: 355, II: 358, II: 360, II: 361, II: 363, II: 366, II: 374, II: 597, II: 643, II: 662
+* **Consulate**: II: 200, II: 230, II: 231, II: 660
+* **Council of Trent**: I: 294, I: 444
+* **Da Costa**: I: 155, I: 551, I: 556, I: 557, I: 605, I: 609, II: 55, II: 62, II: 72, II: 95, II: 105, II: 173, II: 177, II: 328, II: 340, II: 365
+* **Danaeus**: I: 672, I: 674
+* **De Geer**: I: 580, II: 24, II: 385
+* **De Maistre**: I: 292, I: 293, I: 623, I: 624, I: 628
+* **De Savornin Lohman**: II: 24, II: 27, II: 28, II: 651
+* **De Vries**: II: 92
+* **Decentralization**: II: 240, II: 242, II: 264, II: 660
+* **Dibbets**: I: 12, I: 14, I: 614
+* **Diplomacy**: I: 359, I: 383, II: 199, II: 201
+* **Elout van Soeterwoude**: I: 155, II: 125, II: 196
+* **Fabius**: II: 309
+* **Fichte**: I: 57, I: 257, I: 309, I: 310
+* **Frederick Henry**: II: 82
+* **Free Church**: I: 464, I: 500, II: 57
+* **French Revolution**: I: 64, I: 152, I: 185, I: 245, I: 371, I: 471, I: 473, I: 474, I: 548, I: 607, I: 621, I: 622, I: 623, I: 624, I: 625, I: 628, I: 632, I: 633, I: 676, I: 725, I: 730, I: 731, II: 32, II: 34, II: 39, II: 42, II: 68, II: 73, II: 93, II: 95, II: 109, II: 240, II: 244, II: 251, II: 292, II: 324, II: 327, II: 333, II: 358, II: 380, II: 385, II: 386, II: 434, II: 435, II: 480, II: 511, II: 512, II: 605, II: 660
+* **Gladstone**: I: 419, I: 427, I: 584, I: 623, I: 741, II: 64, II: 65, II: 66
+* **Gneist**: I: 19, I: 115, I: 116, I: 118, I: 119, I: 120, I: 121, I: 123, I: 153, I: 606, I: 738
+* **Gomarus**: I: 612
+* **Groen**: I: 12, I: 14, I: 15, I: 17, I: 153, I: 155, I: 505, I: 506, I: 521, I: 523, I: 525, I: 527, I: 528, I: 529, I: 532, I: 533, I: 538, I: 551, I: 557, I: 563, I: 565, I: 573, I: 575, I: 578, I: 579, I: 580, I: 592, I: 593, I: 595, I: 600, I: 601, I: 602, I: 603, I: 605, I: 606, I: 607, I: 609, I: 612, I: 613, I: 614, I: 617, I: 619, I: 625, I: 626, I: 627, I: 629, I: 632, I: 638, I: 639, I: 669, I: 671, I: 725, I: 732, I: 735, I: 742, II: 10, II: 16, II: 23, II: 24, II: 25, II: 26, II: 27, II: 32, II: 33, II: 34, II: 35, II: 42, II: 44, II: 45, II: 64, II: 68, II: 72, II: 84, II: 123, II: 177, II: 182, II: 265, II: 306, II: 334, II: 341, II: 342, II: 344, II: 346, II: 350, II: 351, II: 384, II: 389, II: 473, II: 476, II: 479, II: 492, II: 635, II: 662
+* **Groen van Prinsterer**: I: 12, I: 14, I: 15, I: 17, I: 153, I: 155, I: 505, I: 506, I: 523, I: 525, I: 527, I: 528, I: 529, I: 532, I: 533, I: 538, I: 551, I: 557, I: 563, I: 565, I: 573, I: 575, I: 578, I: 579, I: 580, I: 592, I: 595, I: 600, I: 603, I: 605, I: 606, I: 607, I: 609, I: 612, I: 613, I: 614, I: 617, I: 619, I: 625, I: 627, I: 629, I: 632, I: 639, I: 669, I: 671, I: 725, I: 732, I: 735, II: 10, II: 16, II: 23, II: 24, II: 25, II: 26, II: 27, II: 33, II: 34, II: 35, II: 42, II: 44, II: 45, II: 64, II: 68, II: 84, II: 123, II: 177, II: 182, II: 306, II: 341, II: 346, II: 384, II: 389, II: 473, II: 476, II: 479, II: 492, II: 635
+* **Hamilton**: I: 146, I: 245, I: 473, I: 474, I: 520, I: 539, I: 621, I: 622, I: 727, I: 730, I: 734, I: 741, II: 16, II: 358
+* **Heemskerk**: I: 537, I: 580, I: 581, I: 602, I: 618, II: 84, II: 115, II: 177, II: 183, II: 276, II: 341, II: 385, II: 388
+* **Hegel**: I: 149, I: 207, I: 310, I: 315
+* **Jefferson**: I: 146, I: 245, I: 371, I: 473, I: 474, I: 520, I: 621, I: 622, I: 727, I: 730, I: 741, II: 358
+* **Junius**: I: 101, I: 102, I: 106, I: 631, I: 665, I: 670, I: 671, I: 692
+* **Kant**: I: 60, I: 149, I: 207, I: 241, I: 242, I: 309, I: 310, I: 311, I: 438
+* **Kappeyne**: I: 538, I: 565, I: 580, I: 602, I: 618, II: 22, II: 27, II: 155, II: 183, II: 472, II: 473, II: 474
+* **Keuchenius**: I: 506, I: 530, I: 592, I: 626, II: 327, II: 341, II: 591
+* **King William**: I: 453, I: 460, II: 52, II: 125, II: 157, II: 590, II: 612
+* **Knox**: I: 13, I: 672, I: 714
+* **Languet**: I: 106, I: 239, I: 240, I: 271, I: 644, I: 646, I: 665, I: 668, I: 669, I: 670, I: 671, I: 672, I: 673, I: 674, I: 675, I: 676, I: 677, I: 678, I: 680, I: 682, I: 683, I: 686, I: 687, I: 688, I: 689, I: 690, I: 691, I: 692, I: 693, I: 694, I: 696, I: 697, I: 700, I: 708, I: 709, I: 710, I: 711, I: 713, I: 718, I: 719, I: 729, I: 733, I: 743, II: 95
+* **Lincoln**: I: 479
+* **Luther**: I: 15, I: 235, I: 285, I: 448, I: 449, I: 451, I: 453, I: 454, I: 456, I: 457, I: 466, I: 470, I: 471, I: 494, I: 500, I: 559, I: 624, I: 634, I: 638, I: 640, I: 652, I: 669, I: 672, I: 691, I: 692, I: 697, I: 699, I: 707, I: 708, I: 719, I: 741, II: 31, II: 36, II: 48, II: 57, II: 289, II: 399, II: 401, II: 612
+* **Machiavelli**: I: 105, I: 111, I: 124, I: 125, I: 126, I: 159, I: 333, I: 357, I: 370, I: 675, I: 682, I: 687
+* **Mackay**: I: 535, I: 536, I: 537, I: 567, I: 618, II: 20, II: 26, II: 52, II: 84, II: 120, II: 175
+* **Magistrate**: I: 451, I: 452, I: 453, I: 475, I: 630, I: 648, I: 662, II: 401
+* **Melanchthon**: I: 671
+* **Montesquieu**: II: 428
+* **Moor**: I: 450, I: 673, I: 674, I: 675, I: 697, I: 700, I: 701, I: 743, II: 309
+* **Municipal Council**: I: 581, I: 587, II: 192, II: 259, II: 265, II: 266, II: 267, II: 271, II: 272, II: 273, II: 275, II: 282, II: 297, II: 298, II: 299, II: 313, II: 314, II: 315, II: 322, II: 323, II: 324, II: 330, II: 331, II: 362, II: 363, II: 368, II: 375, II: 380, II: 381, II: 382, II: 609, II: 660, II: 666
+* **Napoleon**: I: 19, I: 49, I: 90, I: 122, I: 124, I: 125, I: 134, I: 215, I: 230, I: 244, I: 296, I: 354, I: 364, I: 365, I: 392, I: 397, I: 412, I: 442, I: 532, I: 558, I: 559, I: 606, I: 609, I: 611, I: 696, I: 729, II: 58, II: 70, II: 71, II: 75, II: 80, II: 92, II: 109, II: 128, II: 133, II: 187, II: 200, II: 240, II: 325, II: 350, II: 561, II: 590
+* **Organic**: I: 215, I: 311, I: 313, I: 744, II: 594, II: 595, II: 663, II: 666
+* **Overheid**: II: 309
+* **Pierson**: I: 525, I: 546, II: 36, II: 64, II: 172, II: 300, II: 301, II: 448, II: 486
+* **Plato**: I: 60, I: 82, I: 311, I: 313, II: 287, II: 301
+* **Polyander**: I: 674
+* **Prince Maurice**: I: 459, II: 51, II: 52
+* **Provincial States**: I: 106, I: 403, I: 587, I: 661, II: 113, II: 192, II: 196, II: 237, II: 238, II: 239, II: 245, II: 251, II: 252, II: 253, II: 254, II: 256, II: 260, II: 272, II: 282, II: 295, II: 316, II: 323, II: 326, II: 330, II: 341, II: 368, II: 370, II: 375, II: 379, II: 380, II: 660, II: 663
+* **Public School**: II: 96, II: 259, II: 286, II: 334, II: 473, II: 475, II: 476, II: 477, II: 479, II: 480, II: 481, II: 484, II: 492, II: 493
+* **Reformation**: I: 15, I: 53, I: 77, I: 99, I: 101, I: 134, I: 292, I: 306, I: 439, I: 440, I: 444, I: 446, I: 448, I: 449, I: 452, I: 457, I: 458, I: 461, I: 469, I: 470, I: 484, I: 492, I: 493, I: 495, I: 497, I: 519, I: 526, I: 557, I: 612, I: 615, I: 671, I: 689, I: 691, I: 697, I: 702, I: 703, I: 707, I: 708, I: 709, I: 711, I: 712, I: 713, I: 719, I: 721, I: 741, II: 14, II: 33, II: 37, II: 38, II: 39, II: 46, II: 47, II: 53, II: 55, II: 56, II: 58, II: 82, II: 281, II: 289, II: 328, II: 429, II: 499, II: 500
+* **Revolutionary Principle**: I: 12, I: 147, I: 151, I: 155, I: 288, I: 302, I: 303, I: 304, I: 305, I: 308, I: 367, I: 453, I: 508, I: 509, I: 524, I: 549, I: 553, I: 554, I: 557, I: 605, I: 620, I: 621, I: 622, I: 623, I: 625, I: 627, I: 628, I: 632, I: 633, I: 634, I: 644, I: 669, I: 680, I: 695, I: 730, I: 731, I: 739, I: 742, II: 29, II: 30, II: 33, II: 37, II: 39, II: 42, II: 43, II: 47, II: 70, II: 71, II: 72, II: 75, II: 83, II: 101, II: 109, II: 175, II: 178, II: 327, II: 333, II: 347, II: 350, II: 352, II: 506, II: 627, II: 639
+* **Rousseau**: I: 147, I: 152, I: 473, I: 474, I: 517, I: 644, I: 725, I: 727, I: 730, I: 731, II: 70, II: 358
+* **Schaepman**: I: 530, I: 618, II: 44, II: 639
+* **Scholten**: I: 11, I: 12, I: 639, II: 48, II: 500
+* **School Struggle**: I: 521, I: 533, I: 544
+* **Schweizer**: I: 11, I: 12
+* **Silent**: I: 659, II: 52, II: 53
+* **Sovereignty of God**: I: 277, I: 281, I: 676, I: 678, I: 687, I: 732, I: 733, II: 213
+* **Special Grace**: I: 72, I: 141, I: 239, II: 292
+* **Sphere Sovereignty**: I: 15, I: 18, I: 19, I: 20, I: 23, I: 28, I: 29, I: 31, I: 32, I: 33, I: 42, I: 43, I: 44, I: 50, I: 52, I: 65, I: 67, I: 72, I: 77, I: 87, I: 88, I: 90, I: 96, I: 97, I: 99, I: 104, I: 111, I: 112, I: 114, I: 117, I: 127, I: 144, I: 145, I: 154, I: 157, I: 159, I: 173, I: 188, I: 189, I: 190, I: 191, I: 202, I: 210, I: 215, I: 219, I: 220, I: 224, I: 234, I: 235, I: 238, I: 243, I: 244, I: 245, I: 248, I: 255, I: 257, I: 262, I: 270, I: 274, I: 275, I: 277, I: 278, I: 279, I: 280, I: 281, I: 282, I: 283, I: 284, I: 285, I: 286, I: 287, I: 288, I: 289, I: 290, I: 291, I: 292, I: 294, I: 296, I: 298, I: 300, I: 301, I: 302, I: 303, I: 304, I: 305, I: 309, I: 312, I: 314, I: 321, I: 324, I: 330, I: 331, I: 332, I: 337, I: 347, I: 350, I: 351, I: 362, I: 363, I: 364, I: 365, I: 366, I: 367, I: 368, I: 369, I: 370, I: 372, I: 379, I: 380, I: 381, I: 387, I: 388, I: 390, I: 392, I: 393, I: 396, I: 398, I: 401, I: 402, I: 414, I: 418, I: 419, I: 422, I: 423, I: 426, I: 431, I: 434, I: 436, I: 438, I: 439, I: 440, I: 443, I: 451, I: 454, I: 455, I: 464, I: 466, I: 473, I: 474, I: 475, I: 476, I: 493, I: 498, I: 512, I: 578, I: 599, I: 607, I: 608, I: 609, I: 629, I: 630, I: 633, I: 636, I: 638, I: 640, I: 642, I: 644, I: 646, I: 659, I: 660, I: 666, I: 676, I: 677, I: 678, I: 680, I: 682, I: 683, I: 684, I: 685, I: 686, I: 687, I: 688, I: 693, I: 695, I: 697, I: 710, I: 718, I: 723, I: 724, I: 727, I: 728, I: 732, I: 733, I: 735, I: 739, I: 740, I: 743, II: 26, II: 31, II: 39, II: 50, II: 55, II: 64, II: 66, II: 73, II: 74, II: 75, II: 76, II: 78, II: 80, II: 82, II: 84, II: 86, II: 87, II: 88, II: 90, II: 92, II: 93, II: 95, II: 100, II: 101, II: 102, II: 105, II: 111, II: 118, II: 121, II: 123, II: 125, II: 128, II: 134, II: 140, II: 149, II: 155, II: 157, II: 159, II: 160, II: 162, II: 163, II: 164, II: 165, II: 166, II: 167, II: 170, II: 171, II: 175, II: 176, II: 178, II: 181, II: 192, II: 198, II: 205, II: 206, II: 213, II: 232, II: 233, II: 239, II: 240, II: 241, II: 242, II: 243, II: 245, II: 250, II: 253, II: 254, II: 257, II: 260, II: 261, II: 262, II: 268, II: 272, II: 275, II: 276, II: 278, II: 281, II: 284, II: 293, II: 295, II: 334, II: 335, II: 346, II: 352, II: 354, II: 384, II: 392, II: 393, II: 398, II: 399, II: 415, II: 434, II: 442, II: 446, II: 447, II: 455, II: 461, II: 501, II: 516, II: 524, II: 546, II: 583, II: 588, II: 594, II: 597, II: 606, II: 610, II: 611, II: 629, II: 630, II: 631, II: 635, II: 637, II: 643, II: 651, II: 658, II: 659
+* **Stahl**: I: 111, I: 115, I: 120, I: 126, I: 182, I: 217, I: 311, I: 312, I: 313, I: 503, I: 512, I: 515, I: 521, I: 526, I: 546, I: 605, I: 606, I: 609, I: 612, I: 623, I: 624, I: 626, I: 628, I: 634, I: 635, I: 636, I: 669, I: 732, II: 16, II: 65, II: 66, II: 67
+* **State Church**: I: 496, II: 612
+* **States General**: I: 106, II: 98, II: 99, II: 123, II: 143, II: 144, II: 146, II: 164, II: 165, II: 175, II: 176, II: 188, II: 194, II: 195, II: 275, II: 637, II: 638
+* **Synod of Dort**: I: 286, I: 442, I: 444, I: 446, I: 459
+* **Tak van Poortvliet**: I: 525, I: 574, II: 21, II: 184, II: 385
+* **The Church**: I: 434, I: 436, I: 437, I: 444, I: 453, I: 460, I: 463, I: 487, I: 488, I: 490, I: 495, I: 500, I: 550, I: 551, I: 718, I: 722, I: 740, II: 51, II: 297, II: 303, II: 495, II: 499, II: 666
+* **The Organic State**: I: 23, I: 24, I: 49, I: 61, I: 72, I: 73, I: 74, I: 94, I: 99, I: 102, I: 103, I: 112, I: 113, I: 114, I: 115, I: 119, I: 122, I: 139, I: 142, I: 143, I: 144, I: 145, I: 148, I: 149, I: 150, I: 161, I: 162, I: 163, I: 167, I: 168, I: 169, I: 175, I: 178, I: 179, I: 180, I: 181, I: 182, I: 193, I: 206, I: 208, I: 212, I: 215, I: 217, I: 219, I: 221, I: 222, I: 228, I: 230, I: 231, I: 311, I: 313, I: 314, I: 319, I: 360, I: 367, I: 383, I: 384, I: 385, I: 386, I: 388, I: 389, I: 390, I: 405, I: 413, I: 471, I: 472, I: 478, I: 483, I: 508, I: 509, I: 510, I: 517, I: 531, I: 540, I: 547, I: 552, I: 559, I: 584, I: 652, I: 719, I: 732, I: 737, I: 744, II: 56, II: 57, II: 61, II: 78, II: 99, II: 100, II: 105, II: 139, II: 169, II: 197, II: 254, II: 261, II: 279, II: 284, II: 327, II: 328, II: 330, II: 347, II: 348, II: 354, II: 355, II: 365, II: 366, II: 370, II: 379, II: 383, II: 384, II: 385, II: 387, II: 388, II: 389, II: 390, II: 426, II: 429, II: 433, II: 434, II: 440, II: 460, II: 484, II: 492, II: 500, II: 592, II: 594, II: 595, II: 611, II: 663, II: 666
+* **The State**: I: 106, I: 111, I: 114, I: 115, I: 120, I: 121, I: 124, I: 142, I: 144, I: 148, I: 149, I: 150, I: 161, I: 181, I: 217, I: 306, I: 314, I: 315, I: 316, I: 320, I: 364, I: 370, I: 388, I: 398, I: 408, I: 410, I: 435, I: 436, I: 437, I: 460, I: 466, I: 470, I: 738, I: 743, II: 82, II: 130, II: 193, II: 248, II: 276, II: 314, II: 315, II: 325, II: 328, II: 334, II: 364, II: 372, II: 374, II: 382, II: 430, II: 658, II: 662
+* **Thomas Aquinas**: I: 241, I: 290, I: 291, I: 680, I: 726, I: 732
+* **Thorbecke**: I: 285, I: 309, I: 506, I: 523, I: 528, I: 532, I: 575, I: 602, I: 616, I: 617, II: 20, II: 22, II: 41, II: 42, II: 44, II: 97, II: 144, II: 152, II: 157, II: 178, II: 183, II: 185, II: 201, II: 239, II: 245, II: 251, II: 261, II: 267, II: 270, II: 275, II: 333, II: 347, II: 361, II: 362, II: 385, II: 388, II: 498, II: 591
+* **Tocqueville**: I: 367, I: 368
+* **Union of Utrecht**: I: 360, I: 370, I: 693, II: 81, II: 89, II: 93, II: 246, II: 251
+* **Universal Sovereignty of God**: I: 239, I: 240, I: 245, I: 262, I: 347, I: 415, I: 739, II: 101, II: 244
+* **Universal Suffrage**: I: 561, II: 355, II: 364, II: 365, II: 367, II: 378
+* **Van Hogendorp**: II: 113, II: 239, II: 245, II: 251, II: 270
+* **Van Houten**: II: 183, II: 334, II: 364, II: 385, II: 389
+* **Voetius**: I: 450, II: 293
+* **Von Haller**: I: 623, I: 624, I: 669, II: 16
+* **Washington**: I: 146, I: 180, I: 370, I: 420, I: 473, I: 607, I: 642, I: 725, I: 726, I: 744, II: 65, II: 215, II: 216, II: 358, II: 622
+* **William of Orange**: I: 14, I: 473, I: 659, I: 671, I: 717, I: 724, I: 731, I: 734, II: 79, II: 82
+* **Zwingli**: I: 454, I: 624, I: 691
+
+# Part IV: The Synopticon (Great Ideas)
+
+> This Synopticon maps the 102 Great Ideas of the Western World (Adler) to the text of *Antirevolutionary Politics*.
+
+## ANGEL
+
+*References*: **I**: 203
+
+---
+
+## ANIMAL
+
+*References*: **I**: 20, 21, 23, 28, 30, 37, 52, 54, 55, 56, 57, 58, 59, 60, 61, 62, 64, 65, 66, 67, 68, 70, 77, 78, 80, 83, 84, 85, 94, 95, 100, 119, 127, 139, 203, 221, 224, 225, 233, 238, 244, 247, 273, 274, 278, 311, 318, 325, 326, 327, 409, 617, 656, 737; **II**: 85, 287, 392, 397, 399, 445, 446, 500, 613
+
+---
+
+## ARISTOCRACY
+
+*References*: **I**: 170, 460, 580, 611, 647, 653, 654, 655, 657, 673, 743; **II**: 93, 264, 335, 494, 495, 572, 608
+
+---
+
+## ART
+
+*References*: **I**: 20, 40, 43, 44, 50, 55, 61, 62, 71, 75, 80, 90, 94, 129, 131, 200, 203, 217, 221, 278, 282, 285, 297, 305, 309, 315, 339, 358, 373, 394, 409, 419, 422, 427, 428, 429, 437, 444, 449, 471, 487, 490, 499, 501, 519, 554, 557, 610, 639, 667, 675, 684, 723; **II**: 26, 48, 51, 87, 88, 97, 106, 119, 122, 140, 169, 172, 218, 221, 239, 241, 242, 244, 247, 248, 249, 250, 259, 262, 263, 271, 274, 276, 279, 282, 303, 309, 334, 349, 364, 447, 448, 455, 489, 497, 504, 533, 545, 577, 582, 597, 602, 625, 635, 664
+
+---
+
+## BEAUTY
+
+*References*: **I**: 19, 20, 21, 23, 26, 27, 31, 34, 36, 37, 38, 40, 43, 44, 47, 52, 55, 60, 61, 62, 71, 72, 73, 74, 75, 81, 83, 85, 89, 91, 93, 102, 103, 104, 105, 111, 113, 114, 117, 120, 122, 124, 131, 137, 138, 141, 142, 144, 145, 150, 152, 153, 154, 158, 161, 162, 164, 166, 167, 168, 169, 170, 171, 176, 182, 184, 186, 191, 196, 207, 215, 217, 221, 222, 229, 238, 239, 247, 248, 257, 258, 262, 264, 269, 270, 278, 280, 284, 285, 288, 290, 291, 297, 301, 303, 304, 306, 312, 314, 319, 321, 322, 324, 325, 327, 328, 336, 338, 339, 342, 349, 352, 358, 359, 364, 366, 368, 373, 382, 386, 388, 390, 397, 408, 410, 413, 415, 422, 426, 437, 438, 440, 447, 448, 454, 455, 456, 466, 468, 470, 478, 483, 484, 486, 488, 493, 498, 499, 503, 518, 519, 523, 528, 534, 543, 551, 561, 573, 574, 582, 583, 603, 605, 610, 618, 623, 633, 634, 638, 642, 643, 646, 647, 654, 658, 660, 667, 674, 675, 677, 678, 698, 705, 708, 709, 713, 715, 716, 718, 723, 725, 727, 728, 729, 732, 734; **II**: 14, 27, 31, 39, 48, 54, 58, 59, 61, 62, 69, 70, 71, 76, 79, 81, 82, 83, 89, 93, 94, 97, 98, 103, 105, 106, 109, 111, 112, 116, 117, 118, 126, 134, 139, 142, 144, 146, 154, 162, 166, 167, 169, 171, 175, 188, 197, 243, 248, 254, 256, 257, 259, 276, 278, 292, 298, 312, 320, 324, 328, 329, 337, 338, 345, 347, 348, 350, 352, 368, 376, 377, 382, 385, 387, 403, 407, 408, 409, 423, 424, 425, 426, 429, 431, 438, 447, 455, 464, 489, 490, 493, 497, 511, 513, 523, 537, 542, 545, 569, 574, 589, 600, 601, 625, 627, 629, 632, 638, 646, 651, 660
+
+---
+
+## BEING
+
+*References*: **I**: 17, 20, 21, 23, 25, 26, 27, 30, 34, 36, 37, 42, 43, 45, 49, 53, 55, 57, 59, 60, 63, 64, 66, 67, 68, 69, 70, 72, 73, 74, 75, 76, 78, 80, 81, 88, 94, 97, 99, 100, 104, 107, 109, 110, 112, 114, 116, 117, 118, 119, 120, 121, 122, 123, 124, 126, 128, 129, 130, 131, 132, 134, 135, 136, 138, 140, 142, 143, 144, 145, 146, 148, 149, 150, 151, 152, 155, 157, 158, 160, 161, 162, 163, 166, 169, 176, 179, 180, 181, 182, 186, 187, 189, 194, 198, 199, 202, 207, 209, 215, 217, 219, 221, 222, 225, 227, 230, 231, 233, 239, 241, 242, 244, 247, 257, 258, 259, 262, 264, 265, 268, 271, 275, 277, 278, 279, 281, 290, 298, 299, 302, 303, 305, 307, 309, 311, 314, 316, 317, 319, 321, 322, 324, 325, 326, 327, 333, 337, 340, 342, 343, 352, 360, 363, 364, 369, 370, 379, 385, 389, 391, 397, 400, 405, 407, 408, 411, 412, 415, 419, 420, 422, 426, 428, 430, 432, 435, 436, 437, 438, 440, 441, 444, 448, 449, 459, 464, 472, 476, 479, 481, 491, 494, 495, 499, 507, 508, 512, 518, 521, 523, 526, 528, 532, 533, 535, 544, 545, 546, 551, 569, 571, 572, 573, 577, 579, 580, 597, 600, 601, 606, 609, 615, 621, 624, 630, 634, 636, 640, 641, 642, 643, 652, 653, 666, 667, 678, 685, 691, 695, 699, 702, 706, 709, 710, 711, 719, 723, 727, 738, 744; **II**: 10, 25, 29, 35, 42, 43, 48, 49, 56, 57, 59, 61, 62, 70, 79, 80, 84, 89, 94, 100, 103, 108, 109, 112, 113, 116, 132, 135, 136, 139, 143, 144, 150, 153, 154, 155, 161, 164, 170, 177, 186, 191, 192, 193, 194, 195, 197, 199, 205, 206, 208, 210, 212, 215, 217, 219, 221, 222, 224, 236, 243, 244, 245, 246, 255, 260, 264, 265, 272, 281, 284, 287, 289, 295, 301, 303, 307, 316, 329, 331, 332, 341, 344, 353, 358, 360, 363, 366, 367, 369, 373, 374, 376, 378, 383, 387, 390, 393, 394, 395, 401, 402, 403, 405, 415, 416, 428, 429, 431, 433, 435, 440, 441, 450, 452, 459, 461, 464, 467, 474, 480, 482, 486, 491, 492, 503, 506, 507, 508, 510, 522, 523, 525, 526, 528, 529, 531, 534, 542, 546, 550, 551, 553, 554, 556, 557, 561, 562, 566, 567, 568, 570, 572, 584, 587, 588, 589, 590, 592, 596, 600, 606, 607, 609, 612, 613, 614, 619, 624, 626, 629, 630, 633, 635, 637, 638
+
+---
+
+## CAUSE
+
+*References*: **I**: 9, 15, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 34, 35, 36, 39, 43, 48, 50, 54, 63, 67, 71, 73, 76, 84, 85, 98, 99, 100, 117, 123, 128, 130, 142, 147, 155, 163, 165, 166, 167, 169, 170, 171, 173, 175, 177, 178, 179, 180, 181, 190, 192, 201, 206, 210, 213, 215, 219, 221, 230, 231, 239, 240, 244, 245, 246, 248, 251, 253, 257, 258, 260, 262, 275, 283, 287, 291, 293, 297, 298, 299, 303, 305, 314, 315, 331, 332, 334, 338, 347, 350, 352, 353, 367, 381, 386, 410, 411, 413, 415, 431, 435, 439, 440, 443, 447, 452, 461, 465, 466, 469, 487, 493, 501, 508, 509, 512, 517, 520, 525, 526, 527, 532, 533, 559, 561, 571, 577, 599, 600, 602, 603, 604, 609, 610, 624, 625, 626, 628, 642, 644, 647, 659, 670, 676, 680, 686, 689, 699, 709, 715, 722, 731, 737, 739, 740, 744; **II**: 7, 14, 22, 35, 38, 39, 47, 57, 58, 61, 64, 65, 70, 74, 90, 91, 101, 105, 136, 137, 139, 141, 146, 147, 170, 173, 182, 193, 223, 225, 229, 230, 233, 244, 269, 309, 310, 314, 317, 330, 347, 355, 358, 359, 360, 388, 420, 421, 433, 443, 452, 454, 456, 457, 460, 463, 476, 487, 491, 492, 510, 511, 517, 525, 526, 531, 533, 538, 539, 544, 559, 565, 584, 603, 607, 623, 627, 631, 633, 645
+
+---
+
+## CHANCE
+
+*References*: **I**: 20, 26, 51, 52, 55, 90, 162, 202, 230, 231, 268, 274, 293, 294, 297, 337, 350, 376, 419, 484, 515, 530, 537, 543, 550, 571, 599, 600, 604, 646; **II**: 24, 27, 47, 180, 185, 202, 204, 212, 258, 316, 335, 350, 380, 390, 401, 406, 420, 471, 519, 530, 545, 571, 578, 581, 584, 590, 595, 645, 647, 660
+
+---
+
+## CHANGE
+
+*References*: **I**: 12, 34, 36, 48, 49, 59, 67, 70, 130, 140, 151, 156, 167, 175, 181, 194, 195, 196, 198, 199, 206, 207, 209, 210, 215, 219, 245, 249, 254, 296, 341, 342, 343, 348, 349, 354, 361, 363, 364, 369, 375, 380, 383, 393, 402, 408, 409, 414, 415, 445, 447, 463, 491, 494, 495, 514, 517, 569, 575, 578, 589, 593, 617, 619, 621, 633, 649, 655, 683, 702, 707, 740, 742; **II**: 24, 25, 27, 29, 54, 56, 61, 65, 68, 76, 81, 84, 85, 92, 97, 100, 109, 111, 114, 116, 122, 123, 127, 131, 140, 151, 155, 156, 157, 158, 159, 166, 177, 180, 191, 199, 207, 218, 227, 228, 230, 236, 274, 289, 290, 301, 303, 331, 336, 341, 350, 412, 417, 439, 465, 475, 510, 512, 513, 515, 545, 565, 566, 569, 575, 579, 599, 600, 604, 610, 638, 659
+
+---
+
+## CITIZEN
+
+*References*: **I**: 11, 23, 27, 36, 40, 42, 43, 45, 52, 53, 54, 59, 65, 66, 67, 68, 76, 77, 82, 83, 84, 85, 88, 93, 109, 111, 114, 118, 126, 139, 156, 159, 160, 165, 175, 189, 205, 217, 221, 224, 232, 233, 237, 240, 243, 253, 261, 271, 273, 277, 284, 286, 287, 288, 306, 308, 320, 328, 330, 331, 342, 347, 349, 350, 352, 359, 362, 364, 370, 371, 376, 380, 386, 388, 391, 396, 407, 419, 425, 426, 427, 430, 431, 434, 439, 440, 447, 448, 449, 450, 451, 452, 456, 458, 459, 466, 469, 473, 474, 475, 477, 481, 483, 487, 492, 493, 494, 495, 503, 504, 508, 509, 515, 517, 532, 536, 545, 549, 559, 570, 580, 582, 596, 621, 622, 635, 636, 643, 649, 650, 653, 655, 661, 662, 663, 674, 676, 677, 682, 683, 684, 686, 687, 688, 689, 690, 691, 693, 694, 695, 696, 697, 699, 707, 708, 709, 710, 718, 725, 727, 729, 731, 732, 734, 739, 743; **II**: 39, 45, 48, 56, 59, 61, 64, 81, 93, 94, 99, 100, 101, 102, 105, 109, 111, 116, 117, 123, 125, 126, 133, 134, 136, 141, 150, 161, 164, 173, 189, 193, 194, 196, 197, 211, 212, 239, 242, 244, 247, 248, 249, 250, 263, 265, 268, 269, 272, 278, 281, 283, 284, 288, 289, 290, 291, 292, 293, 294, 295, 296, 298, 299, 300, 301, 302, 304, 306, 307, 308, 310, 311, 312, 314, 316, 317, 318, 319, 320, 322, 323, 328, 330, 333, 338, 347, 349, 350, 352, 353, 354, 356, 357, 358, 362, 363, 364, 365, 366, 367, 374, 375, 376, 377, 379, 381, 383, 385, 388, 391, 395, 399, 403, 404, 409, 415, 416, 421, 428, 429, 431, 433, 436, 446, 449, 457, 463, 464, 469, 481, 487, 488, 489, 490, 499, 503, 508, 513, 514, 515, 523, 524, 526, 534, 543, 546, 548, 550, 589, 596, 597, 607, 608, 610, 613, 616, 627, 643, 660, 666
+
+---
+
+## CONSTITUTION
+
+*References*: **I**: 22, 73, 102, 107, 146, 170, 233, 235, 245, 255, 258, 302, 305, 309, 362, 363, 364, 365, 366, 368, 369, 402, 403, 470, 471, 472, 473, 501, 508, 521, 563, 587, 616, 621, 622, 648, 652, 653, 655, 660, 661, 662, 675, 677, 683, 685, 687, 700, 727, 738, 743; **II**: 16, 22, 30, 55, 68, 75, 80, 83, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 105, 106, 108, 109, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 136, 138, 140, 142, 143, 146, 151, 153, 155, 159, 164, 165, 166, 172, 173, 175, 177, 178, 179, 188, 194, 239, 240, 241, 243, 244, 246, 247, 248, 249, 269, 273, 274, 275, 279, 282, 284, 292, 321, 325, 335, 340, 345, 347, 348, 349, 350, 351, 358, 360, 361, 363, 374, 387, 541, 597, 643, 662
+
+---
+
+## COURAGE
+
+*References*: **I**: 15, 55, 207, 370, 418, 420, 460, 556, 567, 647, 666; **II**: 43, 50, 66, 84, 199, 221, 476, 516, 558, 629, 630
+
+---
+
+## CUSTOM AND CONVENTION
+
+*References*: **I**: 22, 32, 33, 34, 35, 36, 37, 56, 63, 130, 182, 236, 237, 347, 349, 367, 415, 418, 419, 424, 426, 429, 457, 464, 465, 473, 481, 482, 532, 556, 579, 585, 617, 620, 630, 673, 678, 703, 704, 705, 710, 714, 715, 729, 730, 731, 732, 737, 743; **II**: 58, 93, 98, 101, 134, 141, 144, 148, 159, 164, 165, 172, 182, 190, 205, 206, 222, 247, 290, 293, 295, 298, 299, 316, 342, 348, 359, 405, 411, 495, 496, 507, 529, 543, 603, 610, 664
+
+---
+
+## DEMOCRACY
+
+*References*: **I**: 96, 170, 202, 204, 259, 264, 281, 292, 302, 303, 304, 305, 320, 447, 458, 460, 461, 463, 465, 498, 500, 515, 516, 517, 518, 550, 551, 552, 553, 554, 565, 582, 583, 584, 589, 653, 654, 657, 673, 675, 680, 710, 725, 732, 734, 739, 742, 744; **II**: 37, 70, 175, 335, 352, 388, 433, 461, 537, 545, 572, 599, 626, 632
+
+---
+
+## DESIRE
+
+*References*: **I**: 22, 37, 74, 84, 86, 92, 118, 119, 124, 127, 129, 133, 157, 167, 180, 189, 193, 202, 204, 219, 221, 247, 268, 281, 295, 308, 329, 330, 333, 360, 363, 374, 375, 377, 378, 393, 407, 423, 431, 432, 459, 460, 467, 468, 525, 533, 534, 540, 544, 545, 558, 563, 568, 589, 590, 608, 649, 651; **II**: 50, 53, 73, 78, 85, 86, 98, 106, 109, 111, 112, 116, 118, 119, 123, 138, 175, 181, 212, 237, 259, 342, 350, 367, 374, 432, 442, 443, 446, 455, 517, 546, 548, 551, 567, 594, 619, 645, 648
+
+---
+
+## DUTY
+
+*References*: **I**: 14, 19, 28, 29, 32, 36, 41, 42, 43, 45, 55, 56, 58, 65, 75, 82, 84, 97, 98, 99, 117, 118, 119, 124, 133, 135, 152, 154, 160, 177, 198, 222, 223, 224, 235, 240, 241, 251, 252, 253, 254, 255, 256, 258, 274, 290, 309, 324, 330, 331, 335, 340, 341, 343, 351, 370, 372, 380, 438, 450, 451, 454, 462, 476, 484, 486, 487, 491, 494, 510, 519, 522, 534, 535, 538, 567, 575, 593, 604, 614, 615, 623, 628, 635, 643, 661, 662, 664, 666, 667, 678, 682, 684, 690, 691, 692, 695, 706, 709, 740; **II**: 26, 46, 48, 54, 62, 63, 74, 75, 76, 84, 86, 102, 132, 138, 144, 152, 156, 158, 163, 166, 175, 198, 209, 210, 226, 233, 269, 283, 290, 293, 298, 301, 303, 312, 318, 333, 346, 348, 350, 351, 354, 371, 373, 374, 376, 377, 393, 401, 411, 413, 419, 422, 425, 429, 433, 440, 441, 446, 449, 450, 457, 459, 460, 461, 462, 463, 464, 465, 477, 484, 519, 523, 524, 537, 540, 546, 552, 556, 562, 563, 564, 567, 575, 583, 591, 592, 607, 611, 619, 626, 642, 647, 664, 665
+
+---
+
+## EDUCATION
+
+*References*: **I**: 12, 14, 15, 18, 30, 32, 45, 59, 62, 97, 109, 111, 152, 153, 154, 155, 156, 158, 208, 210, 214, 224, 225, 242, 253, 283, 284, 285, 286, 292, 308, 309, 335, 349, 380, 447, 465, 468, 472, 473, 521, 525, 533, 536, 544, 545, 546, 547, 548, 549, 550, 551, 557, 568, 572, 579, 600, 606, 610, 612, 613, 614, 617, 618, 625, 627, 633, 634, 635, 643, 659, 665, 668, 738, 742; **II**: 13, 17, 20, 21, 22, 25, 31, 35, 41, 42, 45, 49, 55, 59, 64, 66, 68, 72, 84, 96, 97, 117, 118, 123, 125, 163, 214, 216, 225, 247, 257, 263, 267, 284, 286, 303, 311, 323, 334, 369, 397, 401, 432, 433, 444, 461, 463, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 492, 493, 494, 495, 496, 497, 498, 500, 501, 502, 503, 506, 519, 521, 522, 533, 550, 565, 571, 572, 583, 592, 594, 600, 602, 605, 606, 607, 614, 624, 628, 639, 664, 666
+
+---
+
+## EMOTION
+
+*References*: **I**: 21, 37, 45, 46, 47, 55, 58, 78, 81, 92, 96, 110, 116, 118, 119, 124, 127, 150, 164, 179, 189, 223, 254, 255, 257, 258, 275, 333, 348, 364, 365, 407, 430, 432, 443, 463, 467, 508, 556, 559, 563, 568, 574, 608, 619, 651, 656, 668; **II**: 24, 45, 76, 79, 81, 85, 89, 184, 208, 253, 316, 445, 446, 467, 491, 506, 507, 510, 567, 633, 664
+
+---
+
+## ETERNITY
+
+*References*: **I**: 13, 38, 115, 119, 128, 134, 143, 149, 150, 230, 231, 247, 249, 295, 334, 335, 340, 345, 352, 390, 403, 407, 435, 436, 437, 443; **II**: 101
+
+---
+
+## EVOLUTION
+
+*References*: **I**: 18, 19, 23, 24, 25, 26, 27, 32, 40, 56, 62, 64, 66, 67, 89, 94, 99, 111, 116, 118, 120, 121, 122, 124, 130, 134, 136, 141, 143, 148, 149, 153, 154, 172, 173, 174, 188, 190, 192, 194, 195, 202, 206, 214, 224, 225, 226, 229, 230, 231, 232, 237, 238, 248, 267, 276, 280, 283, 297, 298, 299, 307, 309, 311, 312, 314, 315, 316, 317, 318, 319, 320, 321, 322, 326, 344, 359, 371, 373, 376, 377, 382, 388, 447, 449, 453, 454, 462, 466, 469, 470, 473, 474, 475, 477, 480, 491, 503, 507, 508, 509, 510, 511, 512, 516, 523, 531, 543, 547, 549, 550, 557, 561, 563, 565, 567, 571, 584, 586, 595, 598, 602, 603, 607, 610, 614, 620, 638, 642, 652, 653, 669, 670, 677, 689, 700, 711, 713, 719, 725, 729, 730, 732, 734, 741, 742; **II**: 19, 21, 30, 41, 43, 48, 50, 51, 57, 58, 59, 61, 63, 69, 70, 94, 95, 109, 118, 190, 197, 243, 250, 255, 260, 266, 275, 284, 301, 327, 331, 336, 346, 347, 354, 361, 364, 376, 377, 394, 395, 416, 432, 480, 482, 489, 491, 492, 495, 508, 523, 533, 554, 569, 578, 591, 594, 600, 604, 606, 610, 628, 651, 652
+
+---
+
+## EXPERIENCE
+
+*References*: **I**: 18, 32, 33, 40, 45, 62, 87, 95, 111, 122, 128, 134, 137, 153, 194, 195, 248, 270, 353, 371, 387, 406, 537, 563, 620, 634, 668, 671, 696, 719; **II**: 83, 94, 159, 183, 204, 221, 222, 228, 271, 312, 313, 340, 383, 392, 439, 446, 457, 480, 554, 555, 629, 635, 643
+
+---
+
+## FAMILY
+
+*References*: **I**: 33, 36, 68, 69, 81, 82, 83, 84, 85, 86, 87, 88, 106, 114, 116, 117, 118, 120, 130, 132, 141, 142, 144, 145, 149, 154, 160, 161, 162, 165, 172, 173, 181, 208, 217, 219, 220, 221, 222, 223, 224, 226, 227, 228, 230, 231, 233, 234, 235, 236, 237, 238, 239, 241, 245, 246, 250, 251, 256, 262, 263, 264, 265, 271, 273, 275, 280, 281, 282, 286, 287, 300, 301, 312, 320, 369, 385, 386, 409, 414, 434, 465, 497, 505, 510, 511, 514, 515, 527, 530, 538, 549, 597, 598, 600, 609, 635, 653, 684, 685, 686, 696, 697, 718, 739; **II**: 20, 76, 78, 83, 85, 86, 87, 88, 93, 102, 152, 164, 173, 189, 207, 227, 231, 254, 256, 261, 268, 272, 273, 284, 285, 287, 290, 293, 301, 303, 306, 310, 315, 316, 320, 323, 345, 355, 356, 357, 365, 366, 368, 369, 370, 371, 372, 373, 385, 392, 397, 406, 414, 429, 438, 446, 449, 450, 452, 456, 459, 461, 464, 465, 467, 475, 478, 482, 487, 488, 510, 513, 519, 524, 525, 531, 532, 533, 542, 562, 565, 597, 614, 653
+
+---
+
+## FATE
+
+*References*: **I**: 119, 134, 196, 211, 265, 272, 276, 278, 431, 494, 639, 640, 641, 642, 646, 716, 728; **II**: 37, 64, 85, 96, 126, 198, 231, 264, 442, 480, 508, 533, 537, 543, 554, 556, 557, 591, 610, 624
+
+---
+
+## FORM
+
+*References*: **I**: 19, 20, 23, 24, 26, 31, 34, 36, 37, 38, 47, 52, 55, 60, 61, 62, 67, 71, 72, 73, 74, 75, 78, 81, 83, 85, 89, 91, 102, 103, 104, 105, 111, 112, 114, 117, 122, 124, 131, 138, 141, 142, 144, 145, 150, 152, 153, 154, 158, 161, 162, 164, 166, 167, 168, 169, 170, 171, 176, 178, 182, 184, 186, 187, 191, 207, 215, 217, 220, 221, 222, 229, 230, 231, 238, 239, 246, 248, 249, 257, 262, 264, 269, 270, 280, 286, 290, 291, 295, 301, 303, 304, 306, 314, 319, 321, 322, 324, 325, 327, 328, 338, 342, 349, 352, 359, 364, 366, 368, 382, 386, 388, 390, 397, 408, 410, 413, 415, 426, 437, 438, 440, 447, 448, 454, 455, 456, 468, 470, 471, 478, 483, 484, 486, 488, 494, 498, 499, 503, 512, 518, 519, 520, 523, 528, 534, 543, 552, 561, 573, 574, 582, 583, 603, 605, 618, 623, 633, 634, 635, 636, 638, 642, 643, 646, 647, 654, 658, 660, 667, 674, 675, 677, 678, 698, 700, 705, 708, 709, 713, 715, 716, 718, 722, 723, 725, 727, 728, 729, 732, 734; **II**: 14, 27, 31, 39, 54, 58, 59, 61, 62, 66, 69, 70, 71, 76, 79, 81, 82, 83, 89, 92, 93, 94, 97, 98, 103, 105, 106, 109, 111, 112, 116, 117, 118, 126, 134, 139, 142, 144, 146, 154, 162, 166, 167, 169, 171, 175, 188, 197, 243, 248, 254, 257, 278, 292, 298, 312, 320, 324, 328, 329, 330, 337, 338, 345, 347, 348, 350, 352, 365, 368, 376, 377, 382, 385, 387, 403, 408, 409, 423, 424, 425, 426, 429, 431, 438, 447, 489, 490, 493, 497, 507, 511, 513, 523, 537, 542, 545, 569, 574, 589, 600, 601, 627, 629, 632, 638, 646, 651
+
+---
+
+## GOOD AND EVIL
+
+*References*: **I**: 13, 16, 18, 20, 21, 28, 30, 31, 32, 36, 37, 39, 43, 44, 45, 46, 52, 53, 54, 55, 68, 69, 70, 71, 75, 76, 77, 84, 86, 87, 88, 90, 91, 94, 99, 105, 112, 113, 114, 115, 117, 118, 120, 126, 128, 129, 130, 131, 132, 138, 139, 140, 141, 142, 143, 150, 153, 159, 172, 175, 178, 182, 193, 198, 210, 211, 217, 221, 222, 226, 228, 229, 230, 232, 235, 236, 238, 242, 246, 247, 248, 249, 251, 252, 253, 254, 262, 263, 264, 265, 270, 271, 276, 293, 296, 300, 301, 306, 307, 313, 314, 316, 317, 318, 319, 321, 322, 323, 324, 326, 327, 328, 329, 333, 334, 335, 336, 337, 346, 347, 367, 381, 390, 391, 394, 404, 405, 413, 424, 427, 428, 430, 433, 437, 440, 442, 443, 446, 448, 454, 455, 460, 463, 465, 466, 467, 475, 477, 480, 482, 487, 498, 499, 501, 505, 506, 507, 512, 513, 516, 518, 526, 532, 541, 548, 550, 551, 560, 563, 576, 586, 589, 590, 592, 597, 599, 605, 617, 618, 631, 644, 647, 649, 650, 662, 663, 665, 667, 674, 675, 678, 680, 695, 696, 705, 707, 719, 721, 727, 730, 732, 738, 740; **II**: 22, 23, 27, 79, 83, 98, 100, 105, 106, 108, 124, 126, 144, 145, 146, 173, 181, 189, 202, 204, 205, 208, 211, 212, 220, 223, 224, 226, 234, 244, 249, 254, 263, 278, 283, 284, 293, 295, 297, 298, 300, 301, 307, 315, 317, 330, 336, 337, 339, 345, 346, 350, 351, 367, 372, 381, 383, 384, 388, 394, 395, 396, 404, 405, 406, 408, 412, 413, 431, 433, 438, 447, 448, 449, 450, 451, 452, 453, 454, 455, 457, 459, 460, 461, 462, 464, 465, 467, 471, 472, 481, 483, 486, 491, 500, 509, 510, 512, 513, 522, 525, 527, 531, 533, 538, 539, 540, 544, 549, 550, 551, 558, 560, 566, 578, 580, 581, 590, 600, 603, 608, 614, 618, 626, 634, 635, 637, 642, 660, 663, 666
+
+---
+
+## GOVERNMENT
+
+*References*: **I**: 12, 16, 19, 25, 29, 32, 35, 37, 39, 46, 47, 48, 50, 53, 56, 64, 65, 66, 69, 72, 74, 75, 77, 79, 81, 82, 86, 87, 89, 93, 94, 95, 97, 98, 100, 101, 102, 103, 104, 105, 106, 107, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 130, 132, 134, 135, 136, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 168, 169, 170, 173, 176, 178, 179, 180, 181, 182, 184, 187, 189, 191, 192, 194, 198, 200, 202, 203, 204, 205, 206, 208, 211, 212, 213, 214, 215, 217, 218, 220, 222, 223, 224, 225, 226, 227, 228, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 267, 268, 270, 271, 272, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 287, 288, 290, 291, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 337, 338, 340, 341, 342, 345, 349, 350, 352, 353, 354, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 375, 377, 379, 380, 381, 382, 383, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 401, 402, 403, 404, 405, 407, 408, 409, 410, 414, 415, 416, 417, 418, 419, 420, 422, 423, 424, 425, 426, 428, 429, 430, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 444, 447, 448, 449, 450, 451, 452, 453, 454, 455, 457, 458, 459, 460, 461, 462, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 511, 512, 513, 514, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 533, 534, 536, 539, 540, 541, 542, 543, 545, 547, 549, 559, 561, 563, 564, 568, 569, 571, 577, 581, 582, 583, 590, 592, 606, 607, 608, 616, 617, 620, 621, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 642, 643, 644, 646, 647, 648, 649, 650, 652, 653, 654, 655, 656, 657, 658, 660, 661, 662, 663, 664, 665, 666, 668, 669, 670, 673, 674, 675, 676, 677, 678, 680, 682, 683, 684, 685, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 697, 698, 699, 700, 701, 702, 704, 705, 706, 707, 708, 709, 710, 711, 712, 713, 714, 716, 717, 718, 719, 721, 722, 723, 724, 725, 726, 727, 728, 729, 730, 732, 733, 734, 735, 737, 738, 739, 740, 741, 742, 743, 744; **II**: 14, 15, 17, 18, 20, 22, 25, 26, 27, 29, 30, 31, 32, 35, 38, 39, 41, 50, 51, 54, 55, 56, 57, 58, 61, 63, 65, 66, 68, 69, 70, 71, 72, 73, 74, 75, 76, 81, 82, 84, 89, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 105, 106, 108, 109, 111, 112, 113, 115, 116, 117, 118, 119, 121, 122, 123, 124, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 158, 160, 161, 162, 164, 165, 166, 167, 168, 169, 170, 171, 173, 177, 178, 179, 182, 185, 188, 189, 192, 193, 194, 195, 196, 197, 199, 201, 202, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 216, 223, 224, 225, 229, 230, 231, 232, 233, 234, 235, 236, 238, 239, 240, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 256, 257, 258, 260, 268, 269, 270, 271, 272, 273, 274, 275, 276, 278, 279, 280, 281, 282, 283, 284, 286, 287, 289, 290, 292, 293, 294, 295, 296, 301, 302, 304, 306, 307, 308, 309, 311, 312, 314, 315, 319, 322, 324, 325, 326, 331, 332, 333, 334, 335, 336, 337, 339, 340, 341, 342, 344, 345, 346, 347, 348, 349, 353, 354, 355, 359, 362, 363, 367, 368, 369, 370, 371, 373, 374, 375, 376, 377, 378, 380, 381, 383, 385, 387, 392, 394, 396, 398, 401, 405, 408, 409, 413, 415, 416, 417, 419, 423, 425, 426, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 441, 443, 446, 447, 449, 450, 452, 453, 454, 455, 456, 457, 459, 460, 461, 462, 463, 464, 465, 466, 467, 472, 473, 474, 476, 477, 478, 479, 481, 484, 485, 487, 488, 489, 490, 492, 493, 498, 500, 502, 503, 506, 507, 509, 510, 511, 512, 513, 519, 521, 523, 524, 525, 526, 527, 531, 533, 537, 539, 542, 543, 545, 546, 554, 555, 556, 557, 558, 560, 562, 563, 564, 566, 567, 573, 577, 581, 582, 583, 584, 586, 589, 590, 591, 592, 594, 595, 596, 597, 598, 599, 600, 601, 602, 604, 605, 606, 607, 608, 610, 611, 612, 613, 614, 616, 617, 619, 622, 623, 624, 625, 626, 629, 638, 642, 651, 653, 658, 659, 660, 662, 663, 664, 665, 666, 671
+
+---
+
+## HAPPINESS
+
+*References*: **I**: 23, 113, 118, 124, 128, 143, 274, 308, 309, 318, 328, 335, 345, 486, 508, 608, 632; **II**: 309, 349, 506, 533, 562
+
+---
+
+## HISTORY
+
+*References*: **I**: 11, 12, 15, 16, 18, 23, 24, 25, 27, 37, 38, 47, 49, 50, 55, 63, 73, 79, 82, 86, 87, 88, 89, 90, 95, 96, 97, 103, 109, 111, 113, 119, 120, 126, 132, 136, 137, 140, 145, 148, 151, 152, 153, 154, 155, 157, 158, 168, 169, 170, 171, 172, 180, 182, 186, 187, 194, 195, 197, 206, 219, 230, 232, 236, 239, 240, 251, 259, 264, 270, 272, 273, 274, 278, 280, 286, 290, 292, 296, 297, 298, 299, 300, 301, 327, 332, 333, 334, 341, 342, 343, 350, 366, 371, 372, 373, 374, 376, 381, 383, 386, 388, 389, 391, 397, 400, 408, 415, 432, 433, 439, 440, 441, 444, 445, 446, 453, 467, 470, 473, 477, 478, 484, 486, 490, 491, 502, 505, 512, 518, 519, 523, 525, 526, 527, 529, 531, 534, 535, 545, 556, 561, 563, 564, 570, 573, 574, 595, 600, 604, 605, 606, 612, 614, 615, 618, 619, 620, 621, 623, 624, 625, 626, 627, 628, 629, 631, 633, 634, 635, 638, 639, 640, 642, 644, 655, 659, 663, 670, 672, 673, 682, 683, 685, 691, 694, 697, 700, 705, 711, 713, 714, 723, 725, 726, 730, 731, 732, 733, 737, 738, 741, 742, 744; **II**: 13, 14, 16, 22, 23, 27, 30, 31, 32, 33, 35, 36, 37, 39, 41, 43, 44, 47, 48, 50, 51, 54, 56, 57, 62, 63, 64, 69, 70, 74, 75, 76, 82, 84, 85, 86, 88, 89, 90, 98, 100, 116, 127, 155, 169, 173, 193, 197, 207, 210, 214, 219, 220, 221, 241, 246, 247, 255, 256, 257, 269, 283, 287, 289, 306, 340, 348, 349, 354, 355, 359, 360, 361, 374, 388, 405, 418, 432, 470, 479, 480, 495, 496, 499, 509, 510, 512, 521, 543, 545, 546, 558, 586, 587, 592, 604, 613, 628, 633, 635, 638, 640, 651, 652, 659, 660, 662
+
+---
+
+## HONOR
+
+*References*: **I**: 13, 15, 19, 26, 34, 37, 39, 46, 52, 82, 99, 112, 118, 124, 125, 148, 154, 155, 158, 162, 226, 234, 235, 256, 260, 261, 265, 281, 285, 297, 307, 311, 316, 317, 318, 325, 326, 336, 337, 338, 339, 391, 394, 397, 398, 438, 445, 451, 452, 457, 464, 465, 472, 477, 479, 483, 486, 488, 491, 495, 496, 508, 513, 514, 520, 538, 549, 553, 558, 565, 571, 573, 606, 620, 621, 640, 650, 654, 656, 659, 666, 669, 673, 682, 688, 689, 690, 691, 692, 694, 700, 715, 727, 729, 734; **II**: 35, 39, 42, 48, 49, 51, 53, 58, 62, 63, 66, 69, 71, 76, 80, 83, 85, 90, 102, 106, 153, 154, 173, 176, 194, 197, 202, 203, 207, 208, 209, 210, 216, 221, 225, 234, 235, 236, 244, 245, 247, 293, 297, 300, 301, 303, 310, 332, 345, 349, 406, 440, 449, 452, 454, 455, 456, 458, 472, 473, 483, 484, 497, 501, 526, 537, 546, 548, 549, 550, 551, 553, 554, 565, 590, 608, 610, 629, 630, 631
+
+---
+
+## IDEA
+
+*References*: **I**: 12, 16, 19, 20, 23, 24, 25, 26, 27, 28, 32, 37, 39, 40, 48, 50, 54, 55, 57, 59, 60, 74, 81, 87, 98, 99, 101, 104, 105, 106, 107, 109, 110, 111, 112, 113, 116, 120, 121, 122, 123, 124, 126, 127, 132, 140, 144, 145, 146, 148, 149, 150, 151, 152, 153, 154, 155, 156, 158, 159, 160, 161, 163, 166, 167, 169, 175, 179, 181, 182, 188, 204, 214, 215, 217, 225, 230, 231, 248, 251, 258, 264, 270, 275, 277, 280, 281, 284, 285, 295, 297, 298, 302, 307, 308, 309, 310, 311, 312, 313, 318, 322, 324, 331, 332, 333, 335, 336, 338, 339, 342, 343, 348, 356, 358, 359, 361, 362, 363, 364, 366, 368, 369, 373, 374, 376, 378, 387, 388, 389, 391, 392, 393, 401, 405, 410, 413, 415, 417, 422, 430, 437, 440, 441, 442, 443, 444, 445, 446, 452, 453, 454, 456, 457, 460, 462, 464, 465, 469, 471, 475, 484, 485, 486, 489, 491, 499, 500, 505, 506, 507, 508, 521, 524, 526, 527, 530, 536, 552, 553, 554, 568, 569, 574, 581, 582, 589, 595, 599, 602, 604, 607, 609, 617, 618, 619, 620, 621, 622, 624, 625, 626, 628, 630, 634, 635, 638, 641, 643, 644, 654, 656, 664, 667, 669, 672, 676, 677, 683, 684, 687, 691, 702, 709, 715, 724, 726, 728, 732, 734, 735, 737, 738, 740, 742; **II**: 13, 14, 18, 21, 24, 25, 29, 44, 49, 53, 57, 58, 68, 73, 81, 85, 86, 88, 91, 92, 95, 96, 97, 102, 105, 112, 113, 126, 133, 134, 135, 139, 143, 154, 155, 162, 169, 172, 175, 177, 179, 181, 182, 185, 194, 198, 201, 214, 215, 216, 218, 223, 236, 247, 251, 269, 270, 289, 292, 295, 296, 301, 309, 313, 323, 325, 327, 336, 340, 341, 352, 355, 360, 362, 366, 368, 376, 377, 384, 385, 392, 394, 399, 402, 404, 407, 412, 413, 418, 429, 431, 441, 442, 450, 467, 473, 477, 479, 481, 483, 487, 488, 497, 498, 505, 510, 511, 512, 515, 518, 519, 530, 533, 537, 543, 545, 546, 549, 551, 554, 567, 572, 581, 583, 584, 586, 592, 594, 597, 600, 603, 607, 610, 638, 639, 640, 641, 653
+
+---
+
+## IMMORTALITY
+
+*References*: **I**: 438
+
+---
+
+## JUSTICE
+
+*References*: **I**: 16, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 50, 51, 52, 53, 54, 55, 57, 58, 59, 60, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 106, 109, 111, 114, 116, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 132, 137, 143, 146, 147, 152, 156, 157, 158, 159, 160, 163, 168, 173, 177, 181, 182, 187, 189, 193, 194, 198, 203, 205, 206, 207, 212, 213, 214, 221, 223, 225, 227, 228, 233, 234, 236, 237, 238, 240, 242, 243, 245, 251, 253, 255, 257, 258, 259, 260, 261, 262, 263, 264, 272, 273, 275, 276, 278, 280, 281, 282, 283, 284, 285, 286, 288, 289, 292, 300, 303, 304, 308, 309, 310, 311, 312, 313, 314, 315, 318, 322, 323, 324, 328, 329, 330, 331, 332, 333, 337, 338, 339, 341, 345, 346, 347, 348, 349, 350, 351, 352, 353, 356, 359, 361, 362, 363, 364, 366, 368, 369, 370, 386, 388, 389, 391, 395, 396, 397, 398, 400, 414, 415, 418, 419, 420, 422, 423, 426, 427, 431, 432, 434, 435, 436, 439, 440, 447, 450, 454, 470, 473, 474, 475, 477, 485, 486, 488, 489, 503, 511, 517, 520, 521, 522, 524, 525, 526, 527, 528, 529, 532, 535, 536, 537, 540, 544, 545, 546, 548, 550, 554, 556, 561, 563, 564, 565, 569, 570, 573, 574, 575, 583, 586, 588, 590, 603, 604, 605, 606, 607, 613, 616, 617, 618, 620, 621, 623, 624, 625, 626, 631, 632, 633, 634, 635, 636, 641, 643, 644, 647, 650, 656, 661, 662, 664, 667, 669, 671, 674, 675, 676, 677, 678, 682, 683, 684, 685, 686, 687, 688, 690, 693, 694, 695, 696, 697, 699, 700, 711, 712, 713, 718, 723, 726, 727, 731, 737, 738, 740, 744; **II**: 10, 20, 21, 32, 39, 50, 51, 58, 61, 63, 65, 68, 78, 85, 88, 92, 93, 97, 98, 100, 102, 105, 106, 108, 109, 111, 112, 113, 114, 116, 118, 119, 120, 121, 123, 125, 126, 128, 129, 130, 136, 137, 138, 139, 140, 142, 143, 144, 145, 146, 147, 148, 150, 154, 157, 158, 160, 161, 164, 168, 175, 176, 177, 184, 186, 191, 193, 194, 195, 196, 197, 198, 207, 211, 212, 213, 214, 215, 216, 217, 218, 221, 223, 226, 240, 241, 242, 243, 245, 246, 247, 248, 250, 252, 253, 261, 264, 268, 269, 270, 272, 273, 274, 275, 279, 280, 281, 282, 283, 284, 295, 296, 301, 303, 308, 309, 310, 312, 313, 314, 317, 318, 319, 320, 321, 328, 330, 333, 334, 336, 337, 338, 340, 341, 342, 346, 348, 349, 350, 356, 357, 358, 360, 361, 363, 365, 366, 367, 371, 373, 374, 375, 376, 377, 378, 379, 380, 384, 385, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 412, 413, 414, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 431, 434, 438, 439, 440, 444, 449, 450, 453, 454, 457, 461, 463, 464, 465, 467, 469, 474, 477, 481, 487, 494, 498, 499, 500, 501, 502, 505, 508, 513, 519, 523, 524, 526, 528, 533, 537, 539, 541, 544, 545, 549, 567, 575, 579, 586, 599, 606, 607, 618, 624, 628, 629, 630, 633, 635, 638, 640, 641, 642, 643, 644, 645, 646, 651, 660, 663, 664
+
+---
+
+## KNOWLEDGE
+
+*References*: **I**: 14, 18, 19, 20, 21, 22, 23, 24, 28, 34, 39, 40, 41, 43, 44, 47, 55, 57, 59, 60, 62, 63, 66, 68, 72, 73, 76, 78, 81, 86, 87, 89, 90, 91, 92, 95, 96, 97, 98, 100, 102, 103, 109, 118, 119, 126, 131, 137, 140, 143, 151, 153, 154, 156, 157, 158, 159, 174, 182, 200, 207, 214, 220, 224, 225, 237, 240, 258, 260, 275, 278, 282, 283, 284, 286, 309, 311, 315, 322, 326, 347, 368, 409, 424, 426, 440, 475, 504, 519, 520, 521, 538, 584, 586, 594, 597, 610, 612, 617, 623, 633, 634, 635, 636, 643, 647, 670, 684, 689, 693, 699, 700, 708, 718, 738, 739, 742; **II**: 13, 35, 48, 51, 100, 132, 141, 149, 167, 197, 225, 226, 236, 253, 262, 278, 281, 286, 306, 333, 346, 352, 401, 406, 409, 413, 414, 420, 422, 425, 460, 461, 481, 495, 496, 497, 498, 499, 500, 501, 506, 507, 522, 523, 531, 537, 607, 618, 637, 653
+
+---
+
+## LABOR
+
+*References*: **I**: 11, 16, 18, 29, 35, 45, 46, 50, 55, 69, 74, 81, 83, 87, 90, 92, 95, 110, 119, 122, 126, 132, 140, 180, 182, 185, 190, 196, 208, 215, 219, 232, 241, 245, 247, 251, 256, 269, 279, 280, 282, 287, 293, 294, 296, 309, 318, 320, 325, 326, 334, 335, 342, 353, 354, 359, 360, 372, 374, 379, 380, 386, 389, 391, 428, 443, 447, 460, 461, 462, 466, 469, 473, 477, 486, 495, 496, 497, 501, 503, 504, 525, 526, 530, 541, 543, 548, 549, 550, 551, 556, 559, 565, 569, 573, 576, 578, 581, 586, 597, 611, 618, 619, 634, 638, 644, 646, 653, 657, 660, 669, 670, 671, 672, 675, 683, 684, 713; **II**: 9, 14, 36, 48, 49, 59, 62, 64, 93, 100, 101, 113, 132, 135, 140, 144, 151, 155, 156, 159, 161, 169, 177, 181, 182, 184, 185, 186, 190, 191, 219, 221, 230, 234, 237, 244, 246, 252, 253, 262, 263, 278, 279, 284, 286, 293, 295, 301, 302, 303, 309, 314, 328, 329, 330, 360, 362, 372, 373, 374, 379, 385, 387, 391, 392, 403, 406, 421, 436, 438, 442, 443, 444, 461, 463, 465, 466, 467, 482, 483, 484, 490, 491, 500, 506, 507, 508, 510, 511, 513, 514, 515, 519, 521, 523, 525, 526, 527, 530, 531, 532, 533, 534, 539, 540, 541, 542, 543, 544, 545, 551, 555, 581, 584, 589, 591, 594, 596, 601, 602, 604, 605, 614, 623, 625, 634, 645, 647, 651, 662, 665, 666
+
+---
+
+## LANGUAGE
+
+*References*: **I**: 12, 13, 15, 18, 19, 20, 28, 32, 34, 42, 48, 50, 55, 63, 64, 66, 69, 71, 73, 78, 88, 90, 98, 103, 104, 105, 106, 109, 134, 140, 149, 150, 163, 164, 168, 170, 171, 175, 176, 177, 178, 179, 181, 182, 184, 185, 200, 207, 208, 209, 248, 258, 259, 262, 277, 284, 301, 306, 316, 333, 334, 344, 345, 363, 385, 398, 403, 405, 411, 422, 442, 443, 447, 450, 451, 453, 454, 455, 456, 457, 459, 461, 468, 472, 477, 480, 487, 491, 498, 501, 502, 507, 508, 510, 523, 533, 539, 545, 546, 549, 556, 557, 565, 567, 582, 585, 586, 593, 596, 600, 601, 602, 604, 605, 606, 607, 609, 615, 619, 625, 627, 628, 629, 632, 633, 642, 651, 657, 658, 659, 664, 666, 667, 675, 680, 693, 698, 713, 715, 738, 739; **II**: 17, 30, 31, 38, 53, 63, 64, 72, 73, 76, 79, 92, 113, 126, 142, 143, 144, 152, 155, 162, 191, 224, 231, 252, 261, 265, 281, 309, 312, 326, 341, 352, 392, 396, 399, 410, 415, 446, 447, 464, 467, 483, 494, 495, 496, 504, 505, 517, 519, 521, 542, 569, 583, 584, 586, 587, 592, 597, 607, 608, 610, 635, 638, 639, 640, 648, 665
+
+---
+
+## LAW
+
+*References*: **I**: 16, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 37, 39, 40, 41, 42, 43, 44, 45, 46, 47, 50, 51, 52, 53, 54, 55, 58, 59, 60, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 106, 109, 114, 116, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 132, 137, 139, 143, 146, 147, 148, 152, 156, 157, 158, 159, 160, 163, 168, 173, 177, 181, 187, 189, 190, 193, 194, 198, 203, 205, 206, 207, 212, 213, 220, 221, 223, 225, 227, 228, 233, 234, 235, 236, 237, 238, 240, 242, 243, 245, 246, 251, 253, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 271, 272, 273, 275, 276, 278, 280, 281, 282, 283, 284, 285, 286, 288, 289, 292, 293, 300, 301, 303, 304, 308, 309, 310, 311, 312, 313, 314, 315, 318, 322, 323, 324, 328, 329, 330, 331, 332, 333, 337, 338, 339, 341, 345, 346, 347, 348, 349, 350, 351, 352, 353, 356, 359, 361, 362, 363, 364, 368, 369, 370, 376, 386, 388, 389, 391, 395, 396, 397, 398, 400, 414, 415, 418, 419, 420, 422, 423, 426, 427, 431, 432, 434, 435, 436, 439, 440, 445, 447, 450, 454, 470, 473, 474, 475, 477, 485, 486, 488, 489, 503, 511, 517, 520, 521, 522, 524, 525, 526, 527, 528, 529, 532, 535, 536, 537, 540, 544, 545, 548, 550, 554, 556, 561, 563, 564, 565, 569, 570, 573, 574, 575, 583, 586, 588, 603, 604, 605, 606, 607, 616, 617, 618, 620, 623, 624, 625, 631, 632, 633, 634, 635, 636, 641, 643, 644, 647, 650, 661, 662, 664, 667, 669, 671, 674, 675, 676, 677, 678, 682, 683, 684, 685, 686, 687, 688, 690, 693, 694, 695, 696, 697, 699, 700, 711, 712, 713, 718, 726, 727, 731, 737, 738, 740, 744; **II**: 10, 20, 21, 32, 39, 50, 51, 52, 58, 61, 63, 68, 78, 80, 85, 88, 92, 93, 98, 100, 101, 102, 105, 106, 108, 109, 111, 112, 113, 114, 116, 118, 119, 120, 121, 123, 125, 126, 128, 129, 130, 136, 137, 138, 139, 140, 142, 143, 144, 145, 146, 147, 148, 150, 154, 157, 158, 160, 164, 168, 175, 176, 177, 186, 191, 193, 194, 195, 196, 197, 198, 207, 214, 215, 216, 217, 218, 223, 240, 241, 242, 243, 245, 246, 247, 248, 250, 252, 253, 261, 264, 269, 270, 272, 273, 274, 275, 279, 280, 281, 282, 283, 284, 295, 296, 301, 303, 308, 309, 310, 312, 313, 314, 317, 318, 319, 320, 328, 330, 332, 333, 334, 336, 337, 338, 340, 341, 342, 346, 348, 349, 350, 356, 357, 358, 360, 361, 363, 365, 366, 367, 371, 373, 374, 375, 376, 377, 378, 379, 380, 384, 385, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 401, 402, 403, 404, 405, 407, 408, 409, 414, 416, 417, 420, 421, 422, 425, 431, 438, 439, 444, 445, 449, 450, 453, 454, 457, 461, 463, 464, 465, 467, 469, 474, 477, 481, 487, 498, 499, 500, 501, 502, 505, 508, 513, 519, 523, 524, 526, 528, 533, 537, 539, 541, 544, 545, 549, 567, 575, 579, 586, 606, 607, 618, 624, 628, 629, 630, 633, 635, 638, 640, 641, 642, 643, 644, 645, 646, 651, 660, 664
+
+---
+
+## LIBERTY
+
+*References*: **I**: 69, 93, 106, 110, 111, 124, 163, 167, 178, 181, 201, 202, 206, 207, 233, 245, 263, 264, 276, 281, 283, 284, 285, 286, 288, 302, 308, 312, 336, 337, 352, 353, 354, 355, 359, 360, 362, 363, 364, 365, 366, 368, 369, 370, 371, 372, 374, 379, 380, 381, 386, 387, 392, 395, 396, 397, 398, 399, 400, 402, 404, 415, 418, 426, 427, 431, 433, 434, 435, 448, 452, 453, 454, 462, 463, 464, 467, 468, 473, 474, 475, 480, 483, 488, 491, 492, 493, 495, 496, 500, 506, 507, 532, 558, 570, 572, 573, 589, 590, 596, 617, 647, 650, 662, 672, 675, 683, 684, 686, 690, 698, 707, 709, 710, 713, 714, 716, 717, 718, 723, 724, 726, 727, 730, 731, 734, 739, 742; **II**: 18, 19, 20, 22, 27, 39, 48, 50, 53, 56, 57, 58, 66, 68, 69, 76, 82, 89, 96, 97, 100, 117, 131, 137, 138, 139, 181, 196, 197, 220, 241, 244, 245, 246, 247, 250, 251, 252, 253, 254, 255, 257, 260, 261, 262, 264, 268, 269, 270, 271, 272, 274, 279, 282, 283, 284, 287, 290, 308, 311, 316, 321, 327, 346, 364, 372, 374, 380, 381, 382, 383, 402, 403, 406, 409, 434, 435, 460, 463, 464, 470, 479, 480, 481, 482, 485, 487, 488, 489, 490, 491, 512, 517, 523, 543, 554, 566, 567, 569, 592, 600, 605, 610, 611, 612, 613, 614, 623, 635, 638, 640, 645, 659, 660
+
+---
+
+## LIFE AND DEATH
+
+*References*: **I**: 11, 12, 13, 14, 15, 17, 18, 19, 23, 25, 27, 28, 30, 31, 32, 33, 35, 36, 37, 38, 39, 40, 42, 43, 45, 47, 48, 49, 51, 52, 53, 57, 58, 60, 61, 62, 63, 65, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 94, 95, 96, 102, 103, 104, 106, 111, 112, 113, 114, 115, 116, 117, 119, 124, 125, 126, 129, 130, 136, 137, 138, 139, 140, 142, 144, 145, 148, 150, 151, 152, 153, 154, 155, 156, 158, 162, 165, 166, 169, 172, 173, 174, 175, 176, 179, 181, 182, 185, 186, 187, 188, 189, 190, 191, 192, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 207, 208, 215, 217, 219, 221, 222, 224, 226, 227, 228, 229, 230, 231, 232, 233, 235, 236, 237, 238, 239, 243, 244, 245, 251, 253, 254, 256, 258, 259, 263, 264, 268, 271, 272, 274, 276, 278, 279, 280, 284, 286, 287, 288, 289, 296, 297, 299, 300, 301, 303, 304, 305, 306, 309, 311, 312, 314, 315, 316, 318, 319, 320, 321, 322, 324, 325, 326, 327, 328, 329, 330, 334, 335, 341, 342, 343, 345, 347, 349, 350, 358, 367, 368, 374, 377, 379, 380, 382, 384, 385, 388, 389, 390, 396, 400, 404, 405, 409, 410, 411, 413, 415, 433, 434, 435, 436, 437, 438, 439, 440, 442, 443, 444, 451, 452, 453, 454, 455, 459, 460, 462, 463, 464, 465, 468, 469, 470, 471, 473, 474, 475, 477, 479, 480, 481, 483, 489, 492, 493, 494, 496, 497, 498, 499, 501, 503, 505, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 518, 519, 520, 523, 524, 525, 528, 529, 531, 532, 537, 538, 539, 544, 547, 548, 549, 550, 551, 552, 553, 556, 559, 561, 563, 564, 565, 567, 568, 570, 572, 576, 580, 581, 589, 590, 593, 594, 595, 598, 600, 601, 602, 603, 604, 608, 609, 610, 611, 612, 613, 614, 619, 620, 621, 623, 630, 632, 634, 635, 636, 637, 639, 640, 643, 644, 646, 652, 655, 661, 664, 668, 670, 671, 672, 683, 684, 685, 686, 688, 689, 691, 694, 695, 697, 699, 700, 702, 706, 710, 711, 713, 714, 715, 716, 717, 718, 719, 722, 723, 724, 725, 726, 729, 732, 734, 735, 737, 741, 743; **II**: 10, 16, 20, 23, 24, 29, 30, 32, 34, 35, 36, 37, 39, 41, 43, 46, 47, 48, 50, 51, 54, 55, 56, 57, 58, 59, 61, 64, 65, 66, 69, 71, 76, 84, 85, 87, 88, 89, 93, 95, 96, 97, 100, 102, 111, 117, 118, 121, 125, 126, 130, 131, 137, 139, 144, 148, 156, 157, 158, 177, 182, 184, 188, 199, 201, 204, 206, 216, 220, 237, 239, 240, 244, 246, 247, 252, 254, 255, 256, 257, 260, 261, 262, 263, 264, 266, 268, 269, 274, 275, 276, 282, 284, 287, 288, 289, 290, 292, 293, 295, 297, 299, 300, 301, 302, 303, 304, 306, 310, 316, 320, 321, 322, 325, 327, 328, 329, 330, 331, 332, 334, 340, 346, 348, 352, 354, 355, 357, 360, 366, 367, 369, 370, 371, 372, 373, 379, 380, 382, 383, 384, 387, 392, 393, 394, 395, 396, 397, 398, 399, 401, 402, 406, 408, 409, 412, 413, 416, 426, 429, 431, 433, 438, 444, 445, 446, 450, 451, 452, 453, 455, 456, 458, 459, 460, 461, 464, 465, 467, 470, 471, 473, 476, 481, 483, 486, 495, 496, 497, 499, 500, 503, 506, 508, 510, 511, 512, 513, 514, 519, 522, 524, 526, 528, 529, 530, 531, 537, 541, 542, 543, 544, 551, 553, 565, 567, 569, 571, 572, 586, 587, 589, 592, 594, 595, 597, 602, 603, 604, 605, 606, 607, 608, 609, 611, 612, 613, 617, 623, 625, 628, 629, 630, 634, 635, 645, 654, 660, 662
+
+---
+
+## LOGIC
+
+*References*: **I**: 23, 27, 59, 60, 85, 101, 256, 282, 314, 350, 434, 522, 557; **II**: 82, 560
+
+---
+
+## LOVE
+
+*References*: **I**: 11, 30, 78, 81, 102, 129, 143, 144, 152, 154, 190, 201, 221, 228, 229, 235, 318, 324, 340, 364, 365, 370, 409, 422, 465, 467, 495, 508, 537, 547, 559, 599, 608, 612, 614, 615, 650; **II**: 22, 36, 37, 52, 53, 58, 84, 85, 126, 137, 220, 222, 248, 257, 304, 307, 354, 444, 459, 469, 475, 488, 508, 509, 512, 600, 624
+
+---
+
+## MAN
+
+*References*: **I**: 14, 15, 19, 21, 23, 24, 25, 26, 27, 29, 30, 31, 32, 33, 37, 38, 39, 41, 43, 45, 46, 47, 48, 49, 50, 51, 52, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 76, 77, 78, 79, 80, 81, 82, 83, 87, 88, 90, 91, 94, 95, 97, 98, 99, 100, 101, 102, 112, 113, 114, 115, 116, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 148, 150, 154, 155, 156, 160, 161, 162, 163, 166, 167, 170, 171, 172, 173, 174, 179, 188, 189, 190, 194, 195, 196, 199, 203, 213, 217, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 237, 238, 239, 240, 241, 242, 243, 244, 246, 247, 248, 249, 251, 257, 258, 259, 260, 261, 262, 263, 264, 265, 267, 271, 272, 273, 274, 276, 277, 278, 279, 281, 282, 284, 286, 287, 288, 289, 291, 292, 293, 295, 296, 297, 298, 299, 300, 301, 302, 303, 306, 307, 308, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 331, 332, 333, 334, 335, 336, 339, 343, 344, 346, 349, 350, 374, 389, 390, 391, 409, 413, 414, 415, 433, 434, 435, 436, 438, 440, 441, 443, 446, 458, 469, 490, 503, 506, 510, 515, 517, 519, 520, 521, 522, 523, 524, 525, 527, 532, 538, 541, 548, 550, 553, 557, 561, 563, 567, 568, 589, 590, 592, 595, 597, 600, 601, 607, 608, 609, 612, 620, 621, 625, 628, 632, 634, 636, 640, 642, 647, 650, 653, 656, 657, 658, 659, 664, 665, 675, 676, 680, 684, 695, 716, 725, 726, 738, 739, 741; **II**: 19, 20, 21, 29, 30, 47, 50, 53, 58, 59, 61, 64, 65, 66, 67, 74, 80, 85, 93, 95, 100, 101, 102, 106, 116, 152, 155, 157, 160, 170, 183, 185, 197, 199, 202, 203, 204, 217, 224, 225, 226, 228, 240, 261, 279, 281, 286, 287, 292, 295, 301, 303, 306, 319, 337, 341, 355, 356, 360, 370, 371, 372, 373, 377, 392, 394, 395, 396, 397, 399, 401, 412, 414, 416, 418, 420, 422, 423, 424, 429, 442, 445, 446, 449, 452, 453, 464, 467, 487, 490, 496, 500, 508, 510, 512, 524, 528, 531, 539, 541, 542, 543, 553, 562, 567, 568, 569, 570, 576, 584, 594, 595, 604, 605, 607, 628, 629, 630, 663
+
+---
+
+## MATTER
+
+*References*: **I**: 16, 17, 23, 24, 26, 27, 30, 35, 37, 42, 50, 59, 74, 78, 79, 82, 83, 84, 86, 87, 88, 89, 100, 109, 111, 123, 127, 131, 132, 143, 156, 161, 186, 205, 224, 237, 243, 245, 273, 274, 290, 295, 297, 299, 300, 301, 307, 308, 311, 315, 321, 329, 340, 345, 354, 359, 364, 370, 378, 391, 392, 393, 396, 423, 424, 430, 431, 436, 437, 440, 449, 454, 455, 459, 464, 471, 473, 474, 486, 489, 491, 493, 494, 500, 501, 507, 537, 543, 544, 545, 547, 554, 563, 565, 569, 572, 574, 576, 578, 588, 589, 627, 631, 633, 647, 648, 662, 666, 671, 684, 686, 690, 693, 699, 702, 704, 706, 707, 718, 719, 737; **II**: 10, 25, 36, 56, 69, 71, 88, 96, 97, 103, 111, 112, 113, 117, 122, 128, 133, 135, 137, 141, 142, 143, 144, 146, 149, 162, 172, 173, 184, 186, 194, 207, 208, 209, 215, 216, 224, 225, 228, 230, 232, 252, 255, 267, 271, 274, 279, 284, 287, 289, 294, 295, 298, 299, 300, 303, 306, 308, 309, 311, 318, 323, 326, 342, 344, 348, 350, 352, 356, 360, 363, 368, 376, 384, 385, 387, 396, 401, 402, 403, 415, 419, 420, 421, 423, 424, 425, 430, 431, 435, 439, 442, 443, 450, 451, 458, 459, 461, 467, 469, 476, 479, 488, 498, 500, 503, 508, 524, 533, 540, 543, 548, 551, 565, 569, 574, 576, 582, 584, 589, 619, 628, 629, 630, 631, 635, 637, 640, 647, 660, 666
+
+---
+
+## MIND
+
+*References*: **I**: 37, 39, 48, 59, 60, 77, 78, 94, 104, 106, 110, 119, 123, 124, 125, 128, 129, 144, 147, 151, 154, 155, 182, 185, 187, 192, 194, 195, 197, 201, 206, 210, 215, 219, 223, 224, 225, 230, 232, 236, 237, 239, 240, 245, 246, 268, 272, 277, 283, 290, 317, 323, 339, 340, 383, 392, 396, 400, 418, 419, 423, 427, 428, 434, 436, 461, 464, 467, 470, 478, 501, 503, 505, 508, 512, 513, 516, 534, 544, 554, 558, 572, 573, 575, 576, 577, 578, 590, 593, 603, 607, 620, 623, 625, 626, 627, 632, 635, 640, 643, 649, 653, 656, 666, 668, 670, 683, 702, 726, 727; **II**: 10, 13, 19, 39, 53, 69, 81, 84, 86, 91, 101, 105, 117, 126, 130, 143, 154, 156, 157, 159, 163, 169, 170, 179, 194, 195, 196, 203, 211, 222, 223, 224, 228, 232, 234, 236, 245, 246, 279, 284, 294, 295, 299, 303, 306, 309, 319, 332, 350, 351, 362, 364, 366, 378, 384, 391, 392, 393, 399, 401, 408, 409, 411, 416, 425, 433, 436, 439, 446, 448, 454, 457, 460, 486, 495, 497, 517, 522, 536, 540, 545, 559, 567, 573, 579, 580, 582, 583, 596, 604, 614, 624, 626, 633, 634, 635, 638, 639, 640, 644
+
+---
+
+## MONARCHY
+
+*References*: **I**: 13, 23, 67, 72, 90, 104, 105, 110, 111, 142, 145, 151, 162, 170, 190, 215, 219, 244, 245, 255, 260, 261, 274, 275, 276, 278, 279, 280, 281, 282, 284, 285, 287, 292, 303, 304, 305, 318, 330, 331, 338, 347, 363, 364, 365, 366, 367, 368, 369, 379, 380, 381, 387, 388, 392, 393, 394, 398, 399, 402, 403, 419, 426, 431, 434, 435, 453, 460, 471, 473, 474, 487, 488, 489, 490, 492, 493, 501, 505, 557, 559, 579, 604, 618, 621, 622, 630, 642, 644, 646, 647, 650, 651, 652, 653, 661, 665, 666, 668, 672, 673, 675, 677, 678, 683, 684, 685, 686, 687, 688, 690, 691, 695, 696, 697, 703, 710, 712, 713, 724, 725, 726, 727, 728, 732, 733, 743, 744; **II**: 41, 52, 53, 70, 74, 75, 76, 78, 79, 80, 81, 83, 86, 87, 88, 90, 92, 95, 99, 100, 101, 102, 103, 105, 106, 108, 109, 111, 116, 118, 121, 123, 124, 125, 127, 128, 129, 130, 131, 134, 146, 147, 148, 149, 150, 152, 154, 155, 156, 157, 159, 160, 162, 163, 164, 165, 166, 167, 168, 169, 171, 173, 174, 175, 176, 178, 179, 180, 181, 192, 193, 194, 205, 206, 213, 232, 233, 236, 239, 240, 241, 242, 243, 251, 252, 253, 260, 261, 262, 272, 276, 279, 280, 281, 298, 299, 307, 325, 326, 332, 337, 338, 340, 342, 346, 354, 360, 361, 366, 372, 392, 393, 398, 415, 434, 488, 543, 546, 580, 589, 590, 597, 598, 610, 611, 612, 632, 659
+
+---
+
+## NATURE
+
+*References*: **I**: 15, 17, 21, 23, 24, 25, 26, 27, 28, 32, 33, 35, 37, 38, 39, 40, 41, 43, 45, 47, 48, 49, 50, 51, 52, 55, 56, 58, 59, 61, 62, 63, 64, 65, 66, 68, 71, 72, 73, 75, 76, 77, 79, 80, 82, 84, 85, 86, 87, 88, 92, 93, 94, 98, 99, 100, 102, 106, 109, 112, 113, 114, 116, 118, 119, 120, 121, 122, 129, 133, 138, 139, 140, 141, 142, 143, 144, 148, 149, 150, 151, 156, 160, 161, 167, 168, 169, 170, 175, 176, 182, 184, 185, 187, 188, 189, 190, 191, 193, 194, 195, 196, 197, 202, 203, 205, 206, 212, 213, 214, 215, 217, 219, 220, 221, 222, 224, 225, 228, 229, 230, 231, 232, 233, 234, 237, 239, 246, 247, 251, 252, 253, 257, 258, 259, 260, 263, 264, 265, 267, 271, 276, 278, 279, 287, 288, 291, 292, 297, 298, 299, 301, 302, 303, 305, 306, 307, 311, 313, 315, 318, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 332, 333, 334, 335, 337, 339, 347, 348, 349, 350, 354, 358, 364, 365, 369, 370, 371, 375, 376, 383, 384, 386, 389, 390, 391, 392, 397, 409, 410, 413, 414, 415, 426, 434, 440, 446, 448, 449, 463, 466, 473, 476, 477, 497, 500, 506, 508, 509, 510, 511, 513, 517, 523, 525, 529, 531, 552, 553, 559, 563, 564, 568, 570, 571, 576, 579, 584, 588, 602, 603, 605, 617, 620, 621, 622, 625, 631, 633, 634, 636, 646, 647, 649, 664, 669, 676, 682, 687, 691, 697, 705, 715, 722, 723, 726, 732, 737, 744; **II**: 13, 16, 21, 22, 31, 38, 51, 63, 69, 79, 81, 83, 84, 96, 97, 102, 108, 117, 118, 122, 127, 128, 130, 131, 133, 134, 138, 144, 149, 151, 155, 156, 168, 181, 191, 192, 193, 194, 207, 213, 219, 221, 226, 238, 245, 257, 267, 268, 272, 276, 279, 282, 286, 292, 301, 303, 309, 310, 317, 318, 319, 320, 334, 344, 349, 352, 356, 357, 365, 370, 371, 377, 383, 392, 394, 395, 396, 419, 430, 433, 435, 438, 446, 447, 448, 453, 454, 455, 456, 481, 485, 489, 496, 497, 498, 511, 515, 517, 537, 538, 539, 541, 543, 544, 545, 555, 556, 567, 571, 575, 583, 594, 601, 603, 606, 607, 611, 613, 628, 632, 642, 664
+
+---
+
+## NECESSITY AND CONTINGENCY
+
+*References*: **I**: 15, 35, 74, 84, 85, 109, 126, 127, 132, 135, 211, 215, 219, 253, 258, 259, 263, 267, 270, 271, 309, 349, 375, 415, 507, 508, 512, 513, 521, 522, 539, 548, 551, 565, 570, 572, 634, 700, 705, 706; **II**: 9, 10, 26, 27, 61, 63, 95, 114, 121, 122, 146, 166, 175, 177, 185, 231, 303, 350, 393, 397, 493, 504, 507, 511, 517, 538, 556, 557, 559, 563, 602, 627, 638, 647
+
+---
+
+## OLIGARCHY
+
+*References*: **I**: 653, 673, 675; **II**: 333, 334, 335
+
+---
+
+## OPINION
+
+*References*: **I**: 14, 15, 19, 46, 47, 60, 66, 67, 74, 77, 78, 80, 91, 96, 99, 110, 115, 116, 118, 121, 123, 124, 125, 126, 137, 151, 156, 170, 174, 206, 210, 217, 256, 258, 262, 276, 291, 293, 303, 308, 309, 312, 318, 331, 335, 339, 347, 348, 351, 367, 389, 400, 415, 425, 428, 429, 430, 434, 441, 450, 451, 458, 463, 468, 469, 472, 479, 481, 485, 495, 496, 497, 503, 512, 516, 517, 521, 530, 534, 537, 541, 551, 559, 563, 567, 576, 577, 582, 584, 586, 589, 592, 593, 595, 600, 601, 602, 606, 617, 619, 632, 635, 643, 644, 646, 655, 660, 661, 667, 674, 677, 686, 697, 702, 729, 730; **II**: 17, 18, 21, 25, 26, 27, 31, 39, 43, 46, 47, 55, 61, 75, 91, 98, 106, 108, 109, 116, 122, 123, 125, 126, 131, 134, 135, 139, 144, 148, 149, 158, 162, 163, 166, 168, 176, 177, 181, 186, 192, 208, 209, 212, 215, 216, 220, 223, 225, 233, 253, 267, 283, 285, 287, 295, 310, 320, 321, 327, 337, 350, 351, 374, 375, 389, 391, 393, 397, 399, 401, 402, 406, 408, 410, 411, 419, 420, 421, 423, 424, 425, 428, 429, 431, 435, 439, 442, 449, 450, 455, 456, 465, 467, 472, 515, 525, 536, 539, 549, 563, 564, 566, 568, 569, 572, 578, 583, 588, 591, 592, 597, 600, 601, 607, 608, 613, 623, 626, 627, 634, 635, 639, 640, 642, 643, 647, 648
+
+---
+
+## OPPOSITION
+
+*References*: **I**: 15, 18, 20, 21, 24, 25, 35, 63, 86, 104, 111, 112, 117, 119, 120, 121, 240, 255, 263, 268, 282, 292, 303, 306, 309, 333, 337, 339, 340, 342, 352, 353, 354, 384, 395, 413, 420, 441, 470, 480, 515, 520, 521, 522, 523, 524, 533, 534, 535, 552, 556, 567, 571, 574, 575, 582, 584, 587, 611, 612, 618, 626, 631, 639, 644, 650, 662, 663, 680, 682, 686, 691, 702, 703, 710, 713, 744; **II**: 18, 21, 31, 38, 45, 51, 57, 62, 66, 70, 71, 76, 89, 93, 94, 111, 113, 116, 120, 139, 150, 154, 175, 176, 201, 226, 236, 264, 265, 271, 279, 289, 327, 345, 355, 361, 378, 387, 392, 422, 441, 478, 484, 489, 502, 510, 515, 518, 522, 543, 633, 637, 639, 660
+
+---
+
+## PHILOSOPHY
+
+*References*: **I**: 20, 23, 24, 25, 27, 48, 57, 59, 82, 90, 91, 95, 101, 103, 130, 148, 151, 152, 164, 257, 260, 293, 294, 298, 299, 309, 311, 313, 325, 331, 491, 508, 577, 592, 593, 603, 605, 634, 687, 691, 740, 742, 744; **II**: 49, 55, 134, 156, 163, 183, 211, 402, 477, 568, 663
+
+---
+
+## PHYSICS
+
+*References*: **I**: 151, 225; **II**: 496, 497
+
+---
+
+## PLEASURE AND PAIN
+
+*References*: **I**: 13, 31, 69, 71, 79, 85, 178, 214, 490, 520, 650, 662; **II**: 39, 66, 72, 148, 181, 303, 392, 394, 416, 541, 565, 592, 648
+
+---
+
+## POETRY
+
+*References*: **I**: 61, 64, 155, 200, 201, 232, 261, 272, 437, 648, 704; **II**: 80, 295, 296, 321
+
+---
+
+## PRINCIPLE
+
+*References*: **I**: 9, 15, 16, 18, 19, 20, 21, 25, 26, 27, 29, 34, 35, 36, 43, 50, 52, 53, 63, 65, 67, 72, 77, 99, 100, 102, 104, 106, 115, 116, 117, 119, 123, 130, 142, 147, 151, 163, 165, 166, 167, 169, 170, 171, 175, 177, 178, 179, 180, 181, 190, 210, 213, 220, 221, 234, 235, 239, 240, 245, 246, 248, 252, 253, 256, 257, 259, 260, 262, 264, 275, 278, 286, 288, 291, 297, 298, 299, 303, 305, 311, 312, 314, 315, 321, 334, 337, 347, 348, 349, 352, 361, 371, 372, 388, 410, 411, 415, 431, 434, 435, 439, 443, 444, 447, 454, 455, 460, 462, 466, 467, 468, 469, 471, 488, 492, 493, 496, 499, 508, 509, 512, 516, 517, 518, 520, 525, 526, 527, 529, 530, 532, 533, 534, 537, 538, 539, 541, 543, 544, 545, 546, 547, 552, 553, 554, 555, 557, 559, 561, 567, 569, 571, 572, 574, 575, 576, 577, 578, 581, 590, 602, 603, 604, 605, 606, 610, 616, 618, 621, 624, 625, 628, 633, 634, 635, 642, 643, 644, 646, 653, 655, 660, 661, 662, 667, 669, 671, 672, 675, 676, 677, 680, 684, 686, 693, 696, 697, 699, 700, 705, 709, 712, 715, 717, 719, 722, 725, 726, 727, 728, 729, 739, 740, 741, 744; **II**: 7, 9, 10, 14, 21, 23, 26, 38, 47, 48, 54, 55, 56, 57, 58, 59, 61, 64, 65, 66, 68, 70, 71, 72, 82, 89, 90, 91, 92, 94, 99, 101, 105, 111, 116, 122, 124, 136, 137, 139, 147, 170, 173, 177, 214, 229, 230, 233, 240, 244, 247, 266, 268, 269, 281, 282, 283, 285, 290, 292, 295, 301, 302, 309, 310, 321, 324, 328, 330, 337, 340, 349, 352, 353, 356, 358, 369, 371, 377, 378, 379, 384, 385, 387, 388, 389, 390, 415, 421, 425, 426, 433, 434, 440, 441, 451, 452, 460, 477, 479, 480, 489, 492, 497, 499, 500, 501, 503, 504, 505, 525, 545, 546, 548, 584, 592, 603, 607, 608, 611, 613, 627, 628, 629, 637, 640
+
+---
+
+## PROGRESS
+
+*References*: **I**: 18, 19, 23, 24, 32, 40, 56, 62, 89, 93, 94, 99, 111, 116, 118, 120, 121, 122, 123, 124, 128, 130, 134, 136, 141, 143, 148, 153, 154, 172, 173, 174, 188, 190, 192, 193, 194, 195, 206, 214, 224, 226, 229, 230, 231, 237, 267, 276, 280, 283, 297, 298, 299, 307, 309, 311, 312, 315, 319, 320, 321, 326, 335, 344, 348, 359, 371, 373, 376, 377, 382, 388, 396, 435, 447, 449, 453, 454, 462, 466, 467, 469, 470, 473, 474, 475, 491, 503, 507, 508, 509, 510, 511, 512, 516, 517, 523, 524, 531, 543, 547, 548, 549, 550, 557, 561, 563, 565, 567, 571, 572, 573, 584, 586, 595, 598, 602, 603, 607, 610, 614, 620, 638, 642, 652, 653, 669, 670, 677, 689, 711, 713, 719, 725, 729, 730, 732, 738, 741, 742; **II**: 19, 21, 41, 43, 45, 48, 50, 51, 57, 58, 59, 61, 69, 70, 89, 94, 95, 109, 118, 190, 197, 209, 243, 250, 255, 260, 266, 284, 301, 327, 331, 336, 346, 347, 361, 364, 376, 377, 387, 394, 395, 416, 432, 448, 459, 474, 480, 482, 489, 491, 492, 495, 508, 511, 522, 523, 533, 551, 555, 567, 571, 591, 594, 600, 604, 606, 626, 628, 651, 652
+
+---
+
+## PROPHECY
+
+*References*: **I**: 38, 39, 40, 41, 42, 43, 47, 48, 49, 50, 51, 54, 63, 64, 66, 67, 69, 70, 71, 72, 73, 86, 90, 97, 99, 100, 101, 102, 128, 137, 140, 141, 162, 190, 226, 229, 230, 231, 232, 239, 240, 241, 249, 261, 271, 272, 273, 290, 317, 318, 335, 343, 344, 350, 351, 391, 415, 435, 442, 444, 486, 518, 568, 630, 640, 666, 667, 677, 678, 699, 700, 711, 722, 737; **II**: 100, 199, 359, 394, 395, 565
+
+---
+
+## PRUDENCE
+
+*References*: **I**: 48, 57, 61, 82, 90, 91, 95, 103, 152, 260, 294, 298, 325, 379, 561, 592, 593, 603, 742; **II**: 211, 236, 284, 568, 613, 618, 663
+
+---
+
+## PUNISHMENT
+
+*References*: **I**: 21, 23, 31, 32, 53, 54, 68, 69, 70, 75, 96, 97, 99, 131, 219, 223, 233, 235, 236, 238, 243, 244, 253, 256, 258, 259, 261, 263, 271, 276, 288, 415, 650, 662, 664, 688, 690; **II**: 26, 373, 376, 377, 378, 397, 398, 399, 401, 402, 404, 405, 406, 408, 409, 410, 412, 416, 418, 423, 424, 557, 648, 663
+
+---
+
+## QUALITY
+
+*References*: **I**: 25, 110, 118, 240, 377, 449, 491, 535, 636, 662, 667; **II**: 128, 172, 191, 200, 279, 385, 405, 406, 470, 491, 607
+
+---
+
+## QUANTITY
+
+*References*: **I**: 115, 134, 539, 540, 588, 680; **II**: 154, 187, 188, 200, 201, 202, 208, 215, 218, 224, 225, 256, 317, 326, 336, 337, 361, 364, 431, 435, 437, 438, 440, 443, 474, 475, 476, 477, 538, 540, 608, 624, 645, 647
+
+---
+
+## REASONING
+
+*References*: **I**: 23, 27, 40, 59, 60, 74, 85, 101, 178, 214, 217, 249, 256, 282, 314, 315, 331, 350, 381, 404, 434, 465, 481, 522, 557, 624, 625, 644; **II**: 27, 76, 82, 137, 144, 177, 190, 219, 220, 245, 310, 366, 401, 402, 421, 423, 424, 425, 487, 501, 560, 629, 630
+
+---
+
+## RELATION
+
+*References*: **I**: 11, 17, 18, 20, 22, 23, 24, 25, 28, 30, 31, 32, 34, 41, 43, 44, 52, 59, 66, 67, 68, 71, 72, 74, 77, 80, 81, 83, 85, 88, 89, 97, 100, 106, 107, 110, 114, 116, 117, 131, 138, 141, 142, 143, 144, 145, 147, 150, 155, 156, 159, 160, 162, 164, 165, 166, 168, 169, 170, 176, 179, 180, 181, 186, 191, 192, 197, 199, 203, 204, 215, 217, 219, 220, 221, 226, 228, 229, 230, 240, 246, 251, 254, 255, 256, 257, 258, 260, 262, 264, 265, 267, 270, 271, 276, 278, 299, 305, 306, 307, 312, 313, 315, 318, 319, 321, 324, 328, 335, 336, 352, 354, 360, 362, 363, 364, 365, 367, 368, 369, 370, 372, 380, 381, 382, 383, 384, 385, 386, 387, 389, 391, 397, 398, 401, 402, 403, 408, 411, 413, 427, 434, 435, 437, 444, 454, 455, 456, 467, 471, 478, 483, 486, 493, 494, 495, 497, 499, 501, 504, 508, 509, 517, 531, 534, 539, 546, 547, 553, 555, 556, 557, 559, 561, 578, 579, 584, 586, 589, 590, 593, 596, 603, 604, 626, 636, 638, 640, 644, 652, 669, 677, 682, 685, 688, 705, 715, 718, 719, 721, 722, 723, 729, 734; **II**: 24, 27, 41, 47, 48, 53, 55, 57, 59, 64, 68, 76, 78, 84, 85, 86, 88, 91, 99, 100, 115, 116, 125, 126, 128, 129, 139, 140, 143, 144, 146, 147, 148, 154, 156, 157, 172, 173, 181, 182, 184, 194, 195, 197, 207, 214, 219, 220, 226, 229, 236, 248, 251, 252, 253, 261, 262, 264, 278, 283, 301, 306, 324, 329, 346, 347, 350, 351, 352, 354, 356, 357, 365, 366, 385, 387, 394, 399, 407, 408, 414, 423, 429, 445, 446, 449, 450, 453, 458, 460, 463, 465, 473, 481, 489, 491, 498, 513, 514, 517, 519, 524, 530, 538, 559, 567, 578, 580, 584, 586, 588, 595, 597, 598, 613, 614, 617, 625, 635, 658, 660, 662
+
+---
+
+## RELIGION
+
+*References*: **I**: 11, 12, 13, 14, 15, 23, 24, 25, 26, 27, 30, 31, 46, 53, 62, 77, 80, 91, 93, 96, 97, 98, 99, 104, 115, 117, 119, 120, 121, 122, 128, 130, 141, 143, 164, 169, 180, 188, 204, 217, 220, 232, 254, 255, 262, 280, 281, 285, 286, 295, 306, 309, 315, 316, 318, 327, 336, 346, 353, 371, 372, 385, 409, 428, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 490, 491, 492, 493, 494, 495, 496, 498, 499, 500, 501, 503, 508, 509, 511, 517, 518, 519, 520, 525, 530, 549, 550, 551, 556, 558, 571, 593, 600, 609, 611, 612, 618, 630, 634, 635, 636, 637, 638, 639, 640, 643, 644, 652, 658, 660, 677, 678, 684, 689, 690, 691, 692, 693, 696, 697, 699, 700, 701, 702, 703, 704, 705, 706, 707, 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718, 719, 722, 723, 724, 726, 727, 729, 730, 732, 733, 734, 739, 740, 741, 743; **II**: 14, 15, 18, 25, 26, 30, 31, 35, 41, 45, 49, 50, 51, 55, 56, 57, 61, 65, 66, 68, 69, 72, 76, 83, 99, 100, 246, 247, 250, 278, 289, 290, 292, 297, 298, 299, 300, 303, 304, 306, 307, 308, 309, 316, 369, 370, 392, 411, 415, 417, 420, 449, 450, 455, 456, 465, 466, 473, 479, 495, 498, 499, 510, 513, 518, 519, 530, 541, 545, 551, 561, 577, 587, 611, 612, 613, 614, 629, 630, 648, 653, 658, 660
+
+---
+
+## REVOLUTION
+
+*References*: **I**: 12, 64, 127, 146, 152, 155, 156, 185, 206, 245, 303, 304, 308, 366, 367, 371, 453, 471, 473, 474, 503, 508, 509, 524, 548, 549, 550, 553, 554, 557, 563, 605, 606, 607, 608, 620, 621, 622, 623, 624, 625, 626, 627, 628, 632, 633, 634, 636, 644, 665, 669, 671, 672, 676, 680, 695, 696, 722, 730, 731, 742; **II**: 18, 26, 29, 30, 31, 32, 33, 34, 37, 39, 42, 43, 47, 57, 59, 68, 70, 71, 72, 73, 75, 76, 83, 93, 95, 109, 137, 185, 240, 244, 251, 261, 292, 324, 327, 328, 333, 347, 358, 380, 385, 386, 434, 435, 480, 506, 511, 512, 513, 514, 545, 589, 594, 605, 617, 627, 639, 660
+
+---
+
+## RHETORIC
+
+*References*: **I**: 90; **II**: 209, 328, 334
+
+---
+
+## SCIENCE
+
+*References*: **I**: 14, 18, 19, 22, 23, 24, 28, 34, 39, 40, 41, 43, 47, 55, 57, 59, 60, 62, 63, 66, 68, 72, 73, 76, 81, 86, 87, 89, 90, 91, 92, 95, 96, 97, 98, 100, 102, 103, 109, 118, 119, 126, 131, 140, 151, 153, 154, 156, 157, 158, 159, 182, 200, 207, 224, 225, 237, 258, 260, 278, 282, 283, 284, 309, 311, 315, 322, 326, 368, 409, 424, 426, 440, 504, 520, 521, 586, 597, 612, 623, 633, 634, 635, 636, 643, 670, 684, 738, 739, 742; **II**: 13, 51, 65, 100, 132, 141, 144, 149, 167, 197, 225, 226, 236, 253, 262, 278, 281, 286, 306, 333, 346, 352, 401, 406, 460, 461, 495, 496, 497, 498, 499, 500, 501, 503, 507, 522, 523, 531, 537, 607, 618, 653
+
+---
+
+## SENSE
+
+*References*: **I**: 13, 15, 16, 21, 24, 26, 27, 28, 29, 30, 32, 34, 35, 37, 39, 40, 43, 44, 45, 46, 47, 48, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 64, 66, 68, 69, 72, 74, 77, 79, 82, 83, 86, 88, 91, 95, 96, 97, 100, 102, 104, 106, 107, 117, 118, 119, 124, 125, 126, 139, 142, 143, 144, 149, 150, 153, 154, 163, 164, 169, 170, 171, 173, 180, 186, 193, 194, 195, 200, 201, 202, 203, 209, 217, 222, 224, 228, 241, 242, 247, 252, 253, 255, 256, 257, 258, 259, 260, 262, 268, 271, 277, 278, 281, 282, 284, 285, 286, 291, 292, 299, 306, 311, 321, 322, 328, 330, 346, 347, 349, 350, 351, 352, 359, 363, 364, 372, 375, 376, 385, 387, 398, 407, 412, 414, 415, 438, 445, 454, 455, 456, 463, 470, 507, 513, 521, 522, 537, 545, 546, 548, 557, 567, 581, 585, 593, 607, 608, 614, 615, 619, 621, 628, 629, 630, 631, 635, 636, 644, 647, 648, 653, 654, 657, 658, 664, 668, 675, 677, 680, 684, 688, 693, 703, 706, 708, 724, 732, 734, 737, 744; **II**: 18, 20, 27, 30, 47, 48, 52, 58, 59, 63, 64, 66, 68, 74, 76, 79, 81, 93, 96, 100, 102, 109, 122, 123, 125, 132, 144, 148, 149, 152, 156, 157, 158, 163, 170, 171, 173, 194, 195, 197, 213, 215, 239, 251, 254, 261, 273, 284, 303, 310, 315, 329, 335, 337, 348, 355, 357, 367, 376, 388, 389, 391, 392, 396, 399, 409, 413, 415, 429, 433, 445, 446, 447, 449, 452, 455, 459, 460, 467, 483, 494, 501, 506, 510, 519, 540, 546, 551, 563, 564, 583, 586, 589, 592, 597, 598, 601, 633, 644, 646
+
+---
+
+## SIGN AND SYMBOL
+
+*References*: **I**: 141, 316, 327, 398, 415, 489, 498, 512; **II**: 76, 255, 287, 411, 544
+
+---
+
+## SIN
+
+*References*: **I**: 28, 30, 31, 32, 37, 39, 44, 46, 47, 51, 53, 56, 58, 63, 67, 68, 69, 70, 75, 76, 81, 86, 87, 91, 94, 99, 102, 103, 110, 112, 113, 114, 115, 117, 120, 128, 129, 138, 139, 140, 141, 142, 143, 150, 151, 153, 156, 164, 172, 194, 195, 215, 217, 221, 222, 225, 226, 227, 228, 229, 230, 232, 233, 234, 235, 236, 246, 247, 248, 249, 251, 252, 262, 263, 264, 265, 270, 271, 275, 276, 293, 294, 295, 296, 306, 307, 309, 312, 316, 318, 319, 321, 322, 323, 324, 325, 326, 327, 328, 329, 331, 332, 342, 347, 349, 360, 372, 377, 380, 383, 390, 391, 397, 412, 413, 440, 441, 442, 443, 480, 484, 486, 499, 508, 509, 551, 552, 560, 604, 608, 636, 639, 647, 649, 662, 665, 678, 695, 703, 715, 729, 730, 738, 740, 741; **II**: 21, 81, 88, 102, 123, 126, 150, 176, 202, 203, 207, 211, 216, 221, 230, 231, 267, 274, 276, 290, 294, 297, 304, 320, 325, 327, 331, 339, 341, 366, 372, 384, 394, 395, 396, 406, 408, 409, 412, 413, 414, 416, 437, 446, 447, 449, 450, 452, 464, 465, 467, 471, 472, 482, 500, 510, 511, 512, 528, 531, 537, 541, 546, 551, 553, 562, 567, 574, 618, 622
+
+---
+
+## SLAVERY
+
+*References*: **I**: 68, 72, 270, 366, 418, 479, 556, 649; **II**: 59, 508, 528
+
+---
+
+## SOUL
+
+*References*: **I**: 13, 14, 15, 28, 29, 30, 34, 37, 38, 39, 49, 53, 56, 57, 61, 69, 71, 73, 74, 75, 80, 81, 106, 118, 121, 122, 123, 124, 125, 136, 141, 143, 146, 155, 156, 170, 174, 181, 182, 185, 186, 187, 192, 194, 195, 196, 197, 201, 203, 219, 221, 232, 234, 243, 251, 253, 257, 258, 263, 264, 275, 286, 295, 299, 303, 308, 324, 329, 332, 335, 344, 364, 366, 371, 372, 376, 399, 409, 413, 419, 420, 423, 430, 431, 434, 436, 438, 443, 446, 454, 455, 459, 468, 469, 473, 477, 478, 479, 480, 481, 482, 489, 499, 503, 505, 506, 507, 508, 513, 516, 522, 526, 531, 532, 534, 536, 537, 548, 551, 552, 556, 559, 560, 567, 594, 596, 597, 598, 600, 601, 604, 605, 612, 614, 623, 625, 630, 636, 639, 646, 652, 656, 657, 661, 664, 665, 667, 668, 669, 671, 677, 680, 705, 713, 714, 715, 731, 734; **II**: 18, 19, 20, 37, 38, 42, 48, 49, 50, 53, 58, 70, 71, 72, 73, 76, 78, 79, 80, 82, 83, 96, 126, 131, 132, 137, 138, 139, 144, 173, 189, 190, 194, 195, 196, 201, 221, 237, 239, 255, 256, 257, 278, 310, 329, 335, 336, 378, 383, 390, 409, 445, 454, 472, 479, 482, 503, 505, 506, 510, 529, 531, 533, 534, 539, 545, 589, 600, 606, 629, 630, 631, 634, 635, 642, 660
+
+---
+
+## SPACE
+
+*References*: **I**: 20, 23, 26, 27, 31, 33, 34, 40, 45, 46, 47, 50, 53, 54, 63, 65, 66, 68, 69, 70, 74, 76, 80, 82, 85, 90, 91, 95, 97, 98, 99, 100, 101, 102, 106, 107, 111, 113, 114, 115, 118, 122, 126, 138, 142, 145, 146, 159, 160, 170, 172, 174, 179, 180, 181, 186, 190, 196, 201, 202, 206, 212, 214, 215, 217, 222, 234, 235, 236, 238, 239, 240, 241, 246, 247, 250, 251, 254, 265, 268, 270, 271, 272, 273, 274, 276, 281, 299, 300, 305, 306, 307, 314, 327, 328, 331, 342, 347, 350, 351, 352, 353, 358, 362, 363, 364, 365, 370, 374, 376, 378, 383, 396, 401, 417, 418, 425, 435, 440, 442, 443, 445, 450, 451, 453, 457, 459, 463, 464, 469, 479, 481, 482, 484, 485, 486, 489, 491, 499, 500, 514, 516, 519, 524, 526, 527, 530, 538, 541, 544, 545, 570, 580, 583, 585, 594, 596, 597, 607, 608, 613, 627, 628, 629, 631, 632, 634, 635, 637, 640, 641, 643, 644, 646, 649, 650, 654, 655, 660, 662, 665, 668, 670, 674, 676, 677, 678, 680, 685, 691, 692, 697, 698, 699, 705, 717, 718, 721, 723, 730, 738; **II**: 17, 25, 29, 32, 39, 43, 44, 45, 48, 57, 62, 64, 65, 66, 73, 74, 79, 81, 83, 84, 99, 102, 103, 106, 108, 117, 118, 126, 132, 153, 156, 157, 164, 170, 171, 175, 177, 190, 192, 193, 202, 203, 218, 219, 228, 229, 230, 244, 247, 254, 259, 261, 262, 279, 284, 286, 289, 295, 296, 297, 302, 303, 306, 307, 315, 331, 340, 341, 356, 358, 359, 378, 380, 383, 384, 390, 392, 395, 399, 404, 409, 414, 418, 423, 424, 425, 431, 441, 446, 450, 455, 461, 464, 467, 469, 470, 485, 494, 497, 498, 503, 508, 509, 511, 515, 519, 521, 524, 534, 536, 537, 556, 557, 561, 570, 577, 580, 581, 589, 592, 594, 595, 601, 604, 608, 611, 614, 621, 622, 631, 634, 643, 644, 645, 646, 653
+
+---
+
+## STATE
+
+*References*: **I**: 12, 16, 19, 25, 32, 37, 39, 46, 47, 48, 53, 56, 64, 79, 81, 82, 86, 87, 97, 98, 102, 103, 104, 105, 106, 107, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 130, 132, 134, 136, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 168, 169, 170, 173, 176, 178, 179, 180, 181, 182, 184, 187, 189, 191, 194, 203, 204, 205, 206, 208, 211, 212, 213, 214, 215, 217, 220, 225, 226, 227, 228, 230, 231, 232, 235, 238, 239, 240, 244, 245, 248, 254, 256, 260, 263, 264, 267, 275, 279, 280, 281, 282, 285, 290, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 332, 337, 338, 341, 342, 345, 349, 350, 353, 354, 356, 357, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 372, 373, 374, 375, 377, 379, 380, 382, 383, 386, 387, 388, 389, 390, 391, 392, 393, 395, 396, 397, 399, 401, 403, 404, 405, 406, 407, 408, 409, 410, 414, 415, 416, 417, 418, 419, 420, 422, 423, 424, 425, 426, 427, 428, 429, 430, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 444, 447, 448, 449, 451, 452, 453, 454, 455, 458, 459, 460, 462, 464, 465, 466, 467, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 483, 484, 487, 488, 490, 491, 492, 494, 495, 496, 497, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 511, 512, 513, 514, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 534, 536, 539, 540, 541, 543, 545, 547, 549, 559, 561, 563, 564, 568, 569, 571, 581, 583, 590, 606, 607, 608, 617, 620, 623, 624, 625, 627, 628, 629, 633, 634, 635, 636, 637, 642, 643, 644, 647, 648, 651, 652, 653, 654, 658, 660, 661, 669, 675, 676, 677, 685, 688, 689, 691, 693, 694, 695, 697, 698, 699, 700, 702, 707, 709, 710, 711, 712, 713, 714, 716, 717, 718, 719, 722, 723, 724, 726, 727, 728, 729, 730, 731, 732, 733, 734, 735, 737, 738, 739, 740, 741, 742, 743, 744; **II**: 14, 15, 17, 18, 20, 22, 27, 29, 30, 32, 35, 39, 50, 51, 54, 55, 56, 57, 58, 61, 63, 68, 69, 70, 71, 76, 82, 84, 89, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 105, 108, 109, 111, 113, 115, 116, 117, 118, 119, 121, 122, 123, 124, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 158, 160, 161, 162, 164, 165, 166, 167, 168, 169, 170, 171, 177, 179, 188, 189, 192, 194, 195, 196, 197, 201, 204, 205, 206, 207, 209, 212, 213, 214, 222, 233, 234, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 256, 257, 258, 260, 268, 269, 275, 276, 279, 280, 281, 282, 283, 287, 290, 295, 304, 311, 312, 314, 315, 319, 322, 324, 325, 326, 331, 333, 336, 339, 340, 341, 342, 344, 345, 346, 347, 348, 349, 353, 354, 355, 358, 359, 367, 368, 369, 371, 373, 375, 376, 377, 381, 383, 385, 387, 394, 396, 415, 419, 426, 428, 429, 430, 431, 432, 433, 434, 435, 436, 438, 441, 443, 450, 454, 457, 460, 465, 472, 473, 477, 479, 485, 488, 489, 492, 493, 498, 500, 502, 507, 509, 510, 511, 512, 513, 519, 527, 533, 537, 546, 554, 555, 556, 557, 558, 560, 562, 563, 564, 566, 567, 573, 577, 581, 582, 583, 584, 590, 591, 595, 596, 597, 605, 606, 612, 613, 616, 619, 623, 624, 625, 629, 638, 642, 653, 658, 659, 660, 662, 663, 664, 666, 671
+
+---
+
+## TEMPERANCE
+
+*References*: **I**: 56, 60, 189, 447, 536, 560, 696, 742, 743; **II**: 22, 53, 158, 316, 317, 325, 368, 380, 456, 663
+
+---
+
+## THEOLOGY
+
+*References*: **I**: 11, 12, 14, 15, 54, 64, 96, 130, 131, 152, 153, 158, 159, 187, 196, 212, 255, 256, 281, 289, 293, 294, 316, 331, 415, 445, 454, 455, 503, 559, 568, 592, 612, 630, 632, 639, 640, 641, 646, 657, 673, 684, 691, 697, 709, 716, 729, 730, 738, 743, 744; **II**: 35, 48, 49, 51, 63, 66, 376, 377, 502
+
+---
+
+## TIME
+
+*References*: **I**: 11, 12, 13, 14, 16, 17, 18, 26, 36, 38, 42, 49, 53, 54, 63, 64, 68, 69, 70, 75, 88, 102, 104, 105, 107, 116, 122, 126, 131, 132, 133, 134, 135, 136, 137, 139, 148, 154, 155, 157, 163, 174, 178, 180, 186, 189, 194, 196, 197, 202, 222, 232, 251, 252, 254, 260, 262, 267, 278, 295, 305, 308, 311, 312, 322, 326, 336, 340, 341, 344, 354, 361, 362, 363, 364, 368, 369, 371, 374, 377, 379, 380, 381, 392, 393, 396, 397, 405, 407, 409, 412, 413, 415, 419, 422, 427, 428, 429, 430, 432, 435, 437, 438, 439, 442, 445, 446, 448, 458, 470, 473, 474, 477, 478, 481, 483, 489, 493, 500, 501, 525, 534, 535, 536, 537, 538, 542, 544, 548, 549, 551, 552, 556, 569, 571, 572, 573, 575, 578, 579, 580, 581, 586, 594, 610, 614, 615, 621, 622, 627, 628, 632, 633, 634, 638, 639, 641, 642, 643, 644, 646, 651, 652, 661, 667, 668, 673, 674, 680, 685, 687, 691, 692, 694, 697, 702, 703, 708, 710, 711, 712, 714, 716, 723, 727, 729, 732, 734; **II**: 9, 10, 13, 14, 15, 16, 17, 20, 21, 25, 27, 31, 34, 37, 38, 39, 43, 48, 49, 50, 53, 54, 55, 58, 61, 62, 63, 68, 71, 76, 78, 79, 80, 81, 82, 84, 86, 93, 94, 95, 96, 97, 98, 100, 109, 112, 114, 119, 121, 123, 130, 133, 137, 141, 144, 145, 157, 175, 180, 182, 184, 189, 190, 194, 196, 199, 200, 207, 209, 212, 218, 223, 224, 225, 228, 239, 269, 276, 279, 284, 289, 299, 301, 302, 303, 321, 323, 327, 329, 330, 332, 333, 334, 337, 338, 346, 347, 352, 356, 357, 363, 368, 369, 374, 376, 380, 383, 384, 387, 390, 391, 394, 395, 399, 402, 406, 408, 409, 413, 425, 426, 429, 431, 438, 440, 442, 444, 445, 452, 453, 461, 462, 469, 472, 473, 479, 490, 491, 492, 495, 501, 505, 506, 508, 511, 513, 519, 526, 527, 528, 529, 533, 539, 540, 541, 545, 550, 553, 554, 558, 560, 562, 567, 568, 569, 571, 572, 575, 576, 577, 578, 581, 584, 587, 588, 589, 590, 591, 592, 595, 596, 600, 603, 609, 614, 619, 620, 621, 622, 623, 624, 632, 638, 641, 647, 658, 659, 665
+
+---
+
+## TRUTH
+
+*References*: **I**: 20, 21, 44, 57, 77, 78, 87, 98, 111, 119, 126, 137, 142, 143, 152, 159, 174, 182, 214, 220, 230, 231, 240, 260, 275, 286, 288, 336, 347, 402, 437, 439, 443, 454, 455, 475, 497, 499, 519, 538, 584, 594, 610, 617, 626, 635, 636, 647, 689, 693, 699, 700, 707, 708, 715, 718; **II**: 35, 48, 132, 177, 178, 236, 409, 413, 414, 420, 422, 425, 481, 506, 544, 572, 629, 630, 637
+
+---
+
+## TYRANNY
+
+*References*: **I**: 111, 156, 281, 288, 308, 446, 492, 532, 556, 559, 589, 611, 646, 650, 673, 675, 689, 690; **II**: 38, 39, 49, 51, 81, 94, 328, 332, 333, 536, 629
+
+---
+
+## UNIVERSAL AND PARTICULAR
+
+*References*: **I**: 23, 25, 26, 38, 49, 50, 51, 52, 66, 77, 88, 98, 101, 118, 121, 150, 153, 154, 156, 165, 176, 182, 190, 199, 203, 212, 213, 214, 232, 234, 235, 242, 243, 245, 260, 261, 269, 273, 274, 276, 282, 291, 294, 300, 309, 311, 319, 325, 326, 327, 328, 331, 332, 345, 346, 347, 348, 354, 374, 376, 399, 400, 403, 410, 414, 419, 427, 441, 442, 443, 444, 445, 448, 450, 454, 455, 469, 471, 473, 475, 476, 483, 490, 491, 523, 532, 542, 551, 561, 569, 576, 578, 589, 604, 608, 621, 622, 630, 631, 633, 646, 648, 654, 664, 674, 684, 685, 690, 708, 712, 718, 727, 729, 731, 732, 741; **II**: 13, 16, 20, 21, 22, 27, 31, 35, 56, 57, 58, 66, 84, 88, 93, 102, 113, 128, 133, 140, 143, 153, 163, 164, 166, 168, 170, 171, 181, 214, 215, 225, 244, 246, 259, 264, 269, 288, 298, 306, 330, 333, 335, 342, 345, 349, 355, 364, 365, 367, 369, 374, 375, 378, 385, 392, 397, 403, 405, 407, 409, 415, 417, 432, 455, 463, 479, 485, 491, 492, 499, 511, 516, 523, 527, 537, 565, 566, 575, 586, 589, 606, 607, 608, 618, 629, 630, 642
+
+---
+
+## VIRTUE AND VICE
+
+*References*: **I**: 20, 26, 46, 65, 74, 106, 129, 139, 145, 228, 233, 246, 256, 257, 263, 317, 339, 352, 425, 426, 438, 445, 452, 494, 512, 556, 563, 564, 684, 712, 718, 727; **II**: 78, 79, 84, 90, 93, 94, 96, 99, 105, 131, 136, 137, 138, 148, 188, 234, 244, 298, 300, 306, 345, 354, 355, 370, 393, 457, 459, 478, 579, 641
+
+---
+
+## WAR AND PEACE
+
+*References*: **I**: 13, 35, 53, 63, 71, 84, 86, 96, 104, 111, 112, 113, 114, 117, 119, 120, 123, 124, 125, 127, 128, 132, 133, 134, 135, 139, 159, 177, 198, 206, 210, 211, 230, 231, 240, 244, 245, 253, 254, 263, 271, 288, 302, 306, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 344, 345, 352, 353, 354, 356, 357, 358, 366, 370, 373, 381, 383, 384, 385, 390, 393, 394, 396, 400, 403, 404, 407, 409, 410, 415, 417, 418, 419, 420, 422, 423, 425, 428, 429, 430, 432, 433, 439, 461, 465, 466, 467, 469, 470, 479, 480, 488, 522, 523, 527, 543, 553, 571, 598, 609, 630, 631, 641, 662, 663, 688, 693, 702, 710, 713, 717, 726, 740, 741; **II**: 26, 38, 41, 51, 56, 57, 58, 65, 68, 86, 89, 91, 93, 94, 109, 111, 113, 116, 120, 128, 161, 164, 165, 166, 169, 173, 175, 176, 183, 184, 185, 186, 207, 208, 209, 210, 212, 219, 223, 226, 227, 229, 230, 233, 234, 236, 250, 251, 257, 258, 271, 279, 304, 320, 321, 322, 327, 337, 340, 341, 350, 352, 357, 373, 378, 387, 392, 409, 414, 418, 433, 441, 442, 481, 482, 484, 506, 508, 511, 513, 515, 518, 526, 527, 543, 546, 549, 551, 553, 555, 556, 557, 559, 560, 561, 562, 563, 564, 565, 566, 567, 569, 570, 571, 572, 573, 575, 578, 579, 580, 581, 582, 583, 584, 595, 617, 618, 619, 620, 621, 633, 639, 647, 660
+
+---
+
+## WEALTH
+
+*References*: **I**: 74, 123, 130, 165, 176, 187, 191, 194, 195, 201, 202, 247, 249, 251, 269, 294, 298, 314, 377, 379, 395, 396, 415, 420, 447, 457, 468, 491, 507, 508, 509, 510, 539, 540, 545, 547, 561, 587, 589, 598, 599, 653, 673, 693, 701, 738, 742; **II**: 39, 58, 187, 193, 197, 202, 263, 315, 319, 325, 335, 336, 337, 341, 345, 346, 361, 362, 363, 367, 368, 373, 382, 436, 438, 439, 440, 449, 452, 454, 457, 484, 502, 503, 510, 512, 519, 524, 545, 557, 592, 602, 613, 618, 623, 662, 663
+
+---
+
+## WILL
+
+*References*: **I**: 11, 12, 16, 19, 20, 21, 22, 24, 25, 26, 27, 31, 35, 37, 39, 45, 46, 52, 53, 54, 56, 57, 58, 59, 64, 67, 68, 69, 70, 71, 73, 74, 75, 76, 77, 80, 81, 82, 85, 88, 89, 90, 98, 99, 101, 102, 110, 111, 112, 113, 114, 116, 117, 119, 120, 121, 122, 123, 124, 127, 128, 129, 131, 133, 134, 136, 137, 138, 142, 143, 145, 147, 148, 151, 160, 165, 169, 170, 177, 178, 179, 181, 182, 186, 192, 201, 205, 207, 213, 219, 222, 224, 226, 227, 230, 231, 232, 233, 243, 246, 247, 249, 253, 254, 255, 256, 257, 258, 261, 267, 269, 272, 273, 275, 288, 290, 293, 294, 295, 296, 297, 299, 300, 301, 303, 304, 311, 313, 314, 315, 316, 317, 318, 319, 320, 322, 325, 326, 327, 330, 333, 334, 335, 336, 337, 340, 341, 342, 343, 344, 345, 347, 348, 349, 350, 351, 352, 353, 354, 357, 358, 359, 363, 366, 369, 370, 372, 373, 375, 376, 382, 384, 386, 387, 388, 390, 391, 392, 395, 396, 397, 400, 401, 404, 405, 408, 410, 411, 412, 413, 414, 415, 419, 423, 426, 430, 432, 434, 435, 436, 437, 438, 442, 456, 457, 462, 463, 471, 472, 473, 474, 476, 477, 478, 481, 482, 483, 484, 492, 500, 510, 517, 518, 520, 530, 532, 533, 538, 539, 542, 544, 545, 546, 547, 555, 560, 561, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 582, 588, 589, 590, 593, 594, 600, 601, 602, 604, 605, 607, 608, 612, 614, 625, 627, 630, 631, 635, 636, 638, 639, 640, 647, 648, 649, 654, 655, 662, 668, 671, 674, 676, 680, 682, 683, 687, 688, 689, 695, 697, 704, 707, 718, 719, 735; **II**: 9, 10, 16, 17, 18, 19, 22, 23, 26, 38, 43, 45, 53, 57, 58, 74, 75, 83, 85, 86, 87, 88, 89, 90, 91, 94, 96, 98, 99, 100, 101, 102, 105, 106, 109, 111, 112, 113, 115, 116, 117, 118, 123, 125, 128, 130, 132, 138, 139, 142, 144, 145, 148, 149, 154, 155, 159, 160, 163, 164, 165, 172, 173, 175, 176, 177, 178, 181, 183, 184, 185, 186, 187, 194, 196, 198, 203, 206, 207, 208, 211, 212, 214, 217, 219, 220, 224, 227, 228, 231, 236, 238, 239, 244, 247, 248, 255, 256, 258, 259, 265, 266, 267, 271, 272, 274, 281, 284, 289, 290, 291, 292, 293, 295, 297, 298, 299, 301, 303, 311, 317, 318, 321, 323, 324, 325, 326, 327, 330, 331, 332, 335, 336, 337, 339, 341, 342, 344, 345, 348, 349, 350, 352, 354, 355, 360, 361, 365, 368, 369, 370, 371, 372, 373, 376, 379, 380, 381, 382, 383, 387, 388, 389, 391, 392, 393, 395, 399, 401, 402, 404, 405, 407, 409, 413, 414, 420, 429, 431, 433, 435, 439, 440, 446, 447, 449, 452, 457, 461, 463, 467, 469, 470, 478, 479, 480, 482, 483, 485, 486, 487, 491, 493, 494, 497, 500, 501, 502, 503, 510, 511, 512, 516, 519, 524, 525, 527, 528, 531, 536, 537, 538, 539, 540, 543, 544, 545, 546, 551, 553, 556, 557, 559, 560, 561, 562, 563, 565, 567, 568, 569, 570, 571, 572, 574, 575, 577, 578, 579, 581, 582, 588, 589, 592, 596, 600, 603, 604, 606, 607, 608, 609, 612, 613, 614, 618, 619, 620, 622, 624, 628, 631, 632, 637, 638, 641, 642, 643, 644, 645, 646, 647, 648, 651
+
+---
+
+## WISDOM
+
+*References*: **I**: 19, 32, 48, 57, 82, 90, 91, 95, 103, 110, 142, 152, 161, 223, 253, 260, 294, 298, 325, 344, 359, 367, 391, 415, 501, 511, 516, 520, 521, 530, 577, 592, 593, 603, 609, 617, 639, 742; **II**: 33, 50, 51, 94, 159, 160, 162, 167, 183, 211, 212, 214, 215, 274, 395, 401, 402, 403, 404, 446, 465, 466, 472, 473, 500, 507, 515, 519, 530, 533, 568, 663
+
+---
+
+## WORLD
+
+*References*: **I**: 14, 15, 27, 30, 32, 42, 44, 50, 56, 58, 60, 61, 64, 65, 66, 67, 70, 71, 74, 76, 77, 78, 79, 80, 83, 87, 91, 96, 101, 104, 106, 115, 121, 122, 123, 124, 131, 133, 135, 136, 137, 138, 141, 142, 147, 148, 149, 172, 173, 175, 176, 181, 184, 194, 195, 196, 200, 201, 202, 203, 205, 207, 210, 215, 217, 219, 221, 222, 225, 228, 230, 231, 232, 233, 238, 243, 247, 248, 257, 263, 270, 273, 274, 279, 284, 285, 293, 297, 298, 306, 307, 308, 312, 313, 316, 317, 324, 325, 326, 327, 331, 333, 335, 341, 342, 343, 348, 350, 352, 353, 354, 357, 358, 361, 364, 366, 371, 372, 373, 374, 375, 376, 377, 378, 388, 389, 390, 396, 400, 401, 402, 405, 408, 409, 410, 411, 412, 413, 415, 434, 436, 440, 441, 442, 443, 444, 445, 453, 454, 463, 464, 465, 468, 470, 472, 473, 475, 484, 486, 492, 493, 497, 498, 499, 500, 510, 511, 513, 518, 519, 521, 542, 547, 550, 551, 552, 595, 600, 601, 619, 621, 628, 629, 635, 637, 638, 642, 644, 653, 657, 659, 660, 687, 691, 692, 699, 707, 708, 709, 718, 719, 721, 724, 728, 732, 734, 738, 739, 741; **II**: 32, 34, 39, 41, 50, 76, 109, 140, 166, 199, 204, 208, 209, 211, 213, 218, 219, 220, 222, 229, 233, 236, 260, 264, 289, 292, 350, 356, 373, 391, 395, 399, 404, 408, 414, 433, 441, 442, 470, 480, 482, 484, 487, 494, 495, 496, 500, 512, 516, 529, 543, 554, 561, 581, 583, 586, 597, 601, 603, 605, 635, 653, 654
+
+---
+
+
+# Part V: Master Scripture Index
+
+* **1 John 3:14**: I: ('Vol I', 442)
+* **1 John 3:6**: I: ('Vol I', 54)
+* **2 Peter 3:10**: I: ('Vol I', 316)
+* **2 Samuel 24:9**: I: ('Vol I', 134)
+* **2 Samuel 2:4**: II: ('Vol II', 78)
+* **2 Samuel 5:1–3**: II: ('Vol II', 78)
+* **Acts 17:22**: I: ('Vol I', 48)
+* **Acts 17:26**: I: ('Vol I', 190)
+* **Acts 19:35**: I: ('Vol I', 457)
+* **Acts 2:45**: II: ('Vol II', 510)
+* **Acts 5:4**: II: ('Vol II', 510)
+* **Colossians 1:20**: I: ('Vol I', 345)
+* **Daniel 7:13**: I: ('Vol I', 104)
+* **Ephesians 5:25**: II: ('Vol II', 449)
+* **Exodus 2:12**: I: ('Vol I', 664)
+* **Genesis 1:28**: I: ('Vol I', 64), II: ('Vol II', 528)
+* **Genesis 2:2**: II: ('Vol II', 292)
+* **Hebrews 11:40**: I: ('Vol I', 486)
+* **Isaiah 44:28**: I: ('Vol I', 490)
+* **Isaiah 65:17**: I: ('Vol I', 317)
+* **James 5:4**: II: ('Vol II', 509)
+* **Jeremiah 27:5**: I: ('Vol I', 260)
+* **Joel 3:10**: I: ('Vol I', 344)
+* **John 16:23**: I: ('Vol I', 295)
+* **John 3:16**: I: ('Vol I', 442)
+* **Joshua 1:7**: I: ('Vol I', 489)
+* **Luke 11:10**: I: ('Vol I', 295)
+* **Mark 12:25**: I: ('Vol I', 226)
+* **Matthew 11:24**: I: ('Vol I', 295)
+* **Matthew 16:18**: I: ('Vol I', 456)
+* **Matthew 18:17**: I: ('Vol I', 456)
+* **Matthew 19:7**: II: ('Vol II', 449)
+* **Matthew 20:25**: I: ('Vol I', 648)
+* **Matthew 24:27**: I: ('Vol I', 344)
+* **Matthew 24:29**: I: ('Vol I', 316)
+* **Matthew 24:6**: I: ('Vol I', 344)
+* **Matthew 25:31**: I: ('Vol I', 317)
+* **Matthew 5:17**: I: ('Vol I', 63)
+* **Micah 4:3**: I: ('Vol I', 344)
+* **Numbers 25:10**: I: ('Vol I', 663)
+* **Numbers 25:7**: I: ('Vol I', 664)
+* **Philippians 4:15**: I: ('Vol I', 482)
+* **Proverbs 21:2**: I: ('Vol I', 665)
+* **Proverbs 31:10–31**: II: ('Vol II', 372)
+* **Proverbs 8:16**: I: ('Vol I', 240)
+* **Psalm 106:30**: I: ('Vol I', 663)
+* **Psalm 19:12**: I: ('Vol I', 76)
+* **Psalm 72:10**: I: ('Vol I', 490)
+* **Psalm 82:6**: I: ('Vol I', 490), I: ('Vol I', 688), I: ('Vol I', 700)
+* **Psalm 90:10**: II: ('Vol II', 157)
+* **Revelation 11:15**: I: ('Vol I', 442)
+* **Revelation 12:10**: I: ('Vol I', 568)
+* **Revelation 21:1**: I: ('Vol I', 317)
+* **Romans 13:1**: I: ('Vol I', 291)
+* **Romans 8:19–23**: I: ('Vol I', 68)
