@@ -111,7 +111,7 @@ The translation follows a rigorous protocol (see `config/kuyper_translation_prot
 | De Overheid | The Magistrate | Not "The State" |
 | Antithese | The Antithesis | Spiritual cleavage |
 | Organisch vs. Mechanisch | Organic vs. Mechanical | Living growth vs. artificial construct |
-| Palingenesis | Regeneration | Social order "birth again" |
+| Palingenesis | Regeneration | the new birth |
 
 ### Stylistic Constraints
 - Late 19th/Early 20th Century Academic Reformed prose
