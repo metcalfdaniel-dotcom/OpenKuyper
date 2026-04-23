@@ -50,6 +50,19 @@ manuscript/front-matter/page_*_pipeline.json
 
 # Source materials / copyrighted PDFs (kept in private repo)
 source-materials/
+editions/*.pdf
+reference/*.pdf
+
+# Old generated editions (superseded by three-tier pipeline; kept in private repo)
+editions/*.html
+editions/Kuyper_Antirevolutionary_Politics_*.md
+
+# Algorithmic working outputs (kept in private repo)
+tools/output/*.json
+scripts/*.json
+
+# Session artifacts
+.opencode/
 
 # Working / temp outputs
 *.log
