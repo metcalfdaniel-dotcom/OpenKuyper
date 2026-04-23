@@ -43,3 +43,14 @@ __pycache__/
 # Go pipeline binary (source committed, binary ignored)
 pipeline/pipeline
 pipeline/go.sum
+
+# Raw OCR outputs (kept in private repo)
+manuscript/front-matter/*.json
+manuscript/front-matter/page_*_pipeline.json
+
+# Source materials / copyrighted PDFs (kept in private repo)
+source-materials/
+
+# Working / temp outputs
+*.log
+pipeline_output.log

@@ -12,9 +12,25 @@ A 2-volume open translation project of Abraham Kuyper's magnum opus on political
 
 ## About This Project
 
-This is an **open translation** — not a closed scholarly edition. The entire project lives here in the open: source texts, translation drafts, build scripts, indices, and companion materials. Anyone can read, fork, critique, suggest improvements, or build their own edition from the materials here.
+This is an **open translation** — not a closed scholarly edition. The methodology, pipeline code, and clean translations live here in the open. Anyone can read, fork, critique the translation choices, suggest improvements to the pipeline, or build their own edition from the materials here.
 
 The original Dutch text *Antirevolutionaire Staatkunde* (1916–1917) is in the public domain. This English translation and all project materials are released under the **MIT License** — use it however you want.
+
+---
+
+## Repository Structure
+
+This is the **public, auditable repository**. It contains:
+- ✅ Translation pipeline code (open for improvement)
+- ✅ Methodology and style database
+- ✅ Clean English translations
+- ✅ Critical editions with translator notes
+- ✅ Terminology database
+
+**Working files** (raw OCR outputs, source PDFs, draft iterations) are kept in the private companion repo:
+🔗 `github.com/metcalfdaniel-dotcom/antirevolutionary-politics` (private)
+
+This split keeps the public repo clean and auditable while preserving full working materials for the translation team.
 
 ---
 
@@ -36,18 +52,73 @@ This repository contains:
 ## Project Structure
 
 ```
+├── pipeline/                          # Translation pipeline (open for contribution)
+│   ├── three_tier_pipeline.py         # Main orchestrator: Flash→Pro→Flash
+│   ├── gemini_ocr_pipeline.py         # OCR + Draft generation
+│   ├── adjudicator.py                 # Multi-draft comparison agent
+│   ├── qa_gates.py                    # Quality assurance suite
+│   └── termbase.py                    # Dynamic terminology lockfile
+│
+├── termbase/
+│   └── kuyper_termbase.json           # 54 Dutch→English mappings with context rules
+│
+├── analysis/
+│   └── COMPREHENSIVE_STYLE_DATABASE.md # Algorithmic style analysis (5,123 sentences)
+│
+├── manuscript/                        # Translation output
+│   ├── front-matter/                  # Foreword (clean + critical editions)
+│   ├── volume_1/                      # Chapters 1–9
+│   └── volume_2/                      # Chapters 10–22
+│
+├── reference/                         # Source texts for style analysis
+│   ├── Faith - Abraham Kuyper.txt
+│   ├── Lectures on Calvinism.pdf
+│   └── ...
+│
 ├── config/
-│   └── kuyper_translation_protocol.md    # Translation standards & pipeline
-├── source-materials/
-│   ├── antirevolutionai01kuyp.pdf        # Dutch Vol. 1 (original, 37MB)
-│   ├── antirevolutiona02kuyp.pdf         # Dutch Vol. 2 (original, 33MB)
-├── editions/
-│   ├── Kuyper_Antirevolutionary_Politics_Vol1_FULL.md    # English Vol. 1
-│   ├── Kuyper_Antirevolutionary_Politics_Vol2_FULL.md    # English Vol. 2
-│   ├── Kuyper_Antirevolutionary_Politics_Vol1_Dutch.md   # Dutch Vol. 1 (MD)
-│   ├── Kuyper_Antirevolutionary_Politics_Vol2_Dutch.md   # Dutch Vol. 2 (MD)
-│   ├── Antirevolutionary_Politics_Vol1.pdf               # Print-ready Vol. 1
-│   ├── Antirevolutionary_Politics_Vol2.pdf               # Print-ready Vol. 2
+│   └── kuyper_translation_protocol.md # Translation standards
+│
+├── tools/                             # Analysis scripts
+│   └── kuyper_comprehensive_analyzer.py
+│
+├── archive/                           # Superseded files (documented)
+│   └── ARCHIVE_NOTES.md
+│
+├── editions/                          # Compiled outputs
+│   └── (PDF, HTML, parallel editions)
+```
+
+**Note:** Source PDFs and raw OCR JSON outputs are kept in the private working repo.
+
+---
+
+## Translation Pipeline
+
+This project uses a **three-tier AI pipeline** for translation:
+
+### Tier 1: OCR + Draft Generation (Gemini 2.5 Flash)
+- OCRs scanned 1916 Dutch pages
+- Generates Draft A (faithful/periodic style) and Draft B (literal gloss)
+- Fast and cost-effective (~$0.001/page)
+
+### Tier 2: Adjudication (Gemini 2.5 Pro)
+- Compares Draft A vs Draft B vs existing Haiku translation (Draft C)
+- Evaluates on: theological precision (30%), voice fidelity (30%), structural integrity (20%), modernization avoidance (15%), consistency (5%)
+- Selects winner automatically with detailed rationale
+
+### Tier 3: Final Polish (Gemini 2.5 Flash)
+- Produces **two editions**:
+  1. **Clean Edition** — Publication-ready English text
+  2. **Critical Edition** — English text with inline translator notes [like this] for contested terms, ambiguities, and alternative renderings
+
+### Context-Aware Terminology
+The pipeline includes a dynamic termbase with **context rules** for polysemous Dutch terms. The most important:
+- **"Recht"** → "LAW" in institutional/jurisprudential contexts, "RIGHT" in moral/theological contexts
+- **"Geest"** → "spirit" (context determines: human spirit vs Holy Spirit)
+- **"Wetenschap"** → "science" (Kuyper's era: systematized knowledge, not modern empirical science)
+
+---
+
 │   ├── Antirevolutionary_Politics_Parallel_Vol1.html     # Parallel reading
 │   ├── Antirevolutionary_Politics_Parallel_Vol2.html
 │   ├── Antirevolutionary_Politics_Vol1_Annotated_Edition.html
