@@ -1,0 +1,542 @@
+{
+  "geloof": {
+    "dutch": "geloof",
+    "english": "faith",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "genade": {
+    "dutch": "genade",
+    "english": "grace",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "heiligmaking": {
+    "dutch": "heiligmaking",
+    "english": "sanctification",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "rechtvaardiging": {
+    "dutch": "rechtvaardiging",
+    "english": "justification",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "verlossing": {
+    "dutch": "verlossing",
+    "english": "salvation",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "verzoening": {
+    "dutch": "verzoening",
+    "english": "atonement",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "verkiezing": {
+    "dutch": "verkiezing",
+    "english": "election",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "voorzienigheid": {
+    "dutch": "voorzienigheid",
+    "english": "providence",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "openbaring": {
+    "dutch": "openbaring",
+    "english": "revelation",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "schrift": {
+    "dutch": "schrift",
+    "english": "Scripture",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "verbond": {
+    "dutch": "verbond",
+    "english": "covenant",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "kerk": {
+    "dutch": "kerk",
+    "english": "church",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "sacrament": {
+    "dutch": "sacrament",
+    "english": "sacrament",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "doop": {
+    "dutch": "doop",
+    "english": "baptism",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "zonde": {
+    "dutch": "zonde",
+    "english": "sin",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "schuld": {
+    "dutch": "schuld",
+    "english": "guilt",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "sfeer": {
+    "dutch": "sfeer",
+    "english": "sphere",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "soevereiniteit": {
+    "dutch": "soevereiniteit",
+    "english": "sovereignty",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "soevereiniteit in eigen kring": {
+    "dutch": "soevereiniteit in eigen kring",
+    "english": "sphere sovereignty",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "staat": {
+    "dutch": "staat",
+    "english": "state",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "overheid": {
+    "dutch": "overheid",
+    "english": "government",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "revolutie": {
+    "dutch": "revolutie",
+    "english": "revolution",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "antirevolutionair": {
+    "dutch": "antirevolutionair",
+    "english": "antirevolutionary",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "beginsel": {
+    "dutch": "beginsel",
+    "english": "principle",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "grondwet": {
+    "dutch": "grondwet",
+    "english": "constitution",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "recht": {
+    "dutch": "recht",
+    "english": "law / right",
+    "confidence": "medium",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "volk": {
+    "dutch": "volk",
+    "english": "people / nation",
+    "confidence": "medium",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "natie": {
+    "dutch": "natie",
+    "english": "nation",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "maatschappij": {
+    "dutch": "maatschappij",
+    "english": "society",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "gezin": {
+    "dutch": "gezin",
+    "english": "family",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "school": {
+    "dutch": "school",
+    "english": "school",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "ziel": {
+    "dutch": "ziel",
+    "english": "soul",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "geest": {
+    "dutch": "geest",
+    "english": "spirit",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "hart": {
+    "dutch": "hart",
+    "english": "heart",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "geweten": {
+    "dutch": "geweten",
+    "english": "conscience",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "bewustzijn": {
+    "dutch": "bewustzijn",
+    "english": "consciousness",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "vermogen": {
+    "dutch": "vermogen",
+    "english": "faculty / power",
+    "confidence": "medium",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "wil": {
+    "dutch": "wil",
+    "english": "will",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "verstand": {
+    "dutch": "verstand",
+    "english": "intellect / understanding",
+    "confidence": "medium",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "natuur": {
+    "dutch": "natuur",
+    "english": "nature",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "algemeene genade": {
+    "dutch": "algemeene genade",
+    "english": "common grace",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "bijzondere genade": {
+    "dutch": "bijzondere genade",
+    "english": "particular grace / special grace",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "levenssysteem": {
+    "dutch": "levenssysteem",
+    "english": "life-system / life and thought system",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "wereldbeschouwing": {
+    "dutch": "wereldbeschouwing",
+    "english": "worldview / world-and-life view",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "gereformeerd": {
+    "dutch": "gereformeerd",
+    "english": "Reformed / Calvinistic",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "calvinistisch": {
+    "dutch": "calvinistisch",
+    "english": "Calvinistic",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "katholiek": {
+    "dutch": "katholiek",
+    "english": "catholic / universal",
+    "confidence": "medium",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "daarom": {
+    "dutch": "daarom",
+    "english": "therefore / hence",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "zodat": {
+    "dutch": "zodat",
+    "english": "so that",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "echter": {
+    "dutch": "echter",
+    "english": "however / yet",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "immers": {
+    "dutch": "immers",
+    "english": "for / since / indeed",
+    "confidence": "medium",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "namelijk": {
+    "dutch": "namelijk",
+    "english": "namely / that is to say",
+    "confidence": "high",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "wel": {
+    "dutch": "wel",
+    "english": "indeed / truly / certainly",
+    "confidence": "medium",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  },
+  "toch": {
+    "dutch": "toch",
+    "english": "yet / still / nevertheless",
+    "confidence": "medium",
+    "context": "",
+    "notes": "",
+    "first_seen": "",
+    "review_flag": false,
+    "alternates": []
+  }
+}
