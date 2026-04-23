@@ -23,6 +23,7 @@ import time
 import argparse
 from pathlib import Path
 from dataclasses import dataclass, asdict
+from typing import Optional
 
 # Add pipeline dir to path for imports
 sys.path.insert(0, str(Path(__file__).parent))

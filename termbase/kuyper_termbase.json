@@ -252,12 +252,12 @@
   "recht": {
     "dutch": "recht",
     "english": "law / right",
-    "confidence": "medium",
-    "context": "",
-    "notes": "",
+    "confidence": "locked",
+    "context": "CRITICAL: This term is polysemous. Use context to determine translation.",
+    "notes": "CONTEXT RULES FOR 'RECHT': (1) INSTITUTIONAL/JURISPRUDENTIAL context (state, courts, Rechtsstaat, legal systems, positive law, statutes) → 'LAW'. (2) MORAL/THEOLOGICAL context (divine ordinance, God's justice, natural law, contrast with French Revolution's arbitrary will, pre-political moral entitlement) → 'RIGHT' or 'JUSTICE'. (3) ETYMOLOGICAL discussions → preserve ambiguity with 'Law / Right'. Examples: 'Rechtsstaat' = 'Constitutional State / Rule-of-Law State'; 'Rechtsbegrip' in jurisprudential section = 'Concept of Law'; 'Rechtsbegrip' when contrasting divine justice vs revolutionary legislation = 'Concept of Right'; 'bron van het recht' = 'Source of Right / Law' depending on whether discussing divine origin or positive legislation.",
     "first_seen": "",
-    "review_flag": false,
-    "alternates": []
+    "review_flag": true,
+    "alternates": ["law", "right", "justice", "jus"]
   },
   "volk": {
     "dutch": "volk",

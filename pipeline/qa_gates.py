@@ -202,9 +202,9 @@ class QAGates:
             "at the end of the day", "moving forward", "circle back",
             "touch base", "best practice", "key takeaway", "action item",
             "deep dive", "value add", "deliverables", " bandwidth",
-            "optics", "narrative" (as in controlling), "space" (as in topic area),
-            "journey" (metaphorical), "authentic", "intentional", "lit",
-            "woke", "problematic", "toxic", "privilege" (as unearned advantage),
+            "optics", "narrative", "space",
+            "journey", "authentic", "intentional", "lit",
+            "woke", "problematic", "toxic", "privilege",
         ]
         
         suspected = []

@@ -50,6 +50,11 @@ ADJUDICATION_SYSTEM_PROMPT = """You are a senior scholarly editor specializing i
    - Does the translation use the correct technical terms?
    - Is "sphere sovereignty" preserved, not "sovereignty in its own circle"?
    - Are biblical citations in traditional format (Rom. viii. 28)?
+   - **CRITICAL - Polysemous Terms:** Evaluate context-dependent translations:
+     - "Recht" (Dutch) = both "Law" (institutional/jurisprudential context: state, courts, statutes, Rechtsstaat) AND "Right" (moral/theological context: divine ordinance, God's justice, natural law, contrast with revolutionary arbitrary will). The correct choice must match the immediate context.
+     - "Geest" = "spirit" (human spirit or Holy Spirit - context determines)
+     - "Katholiek" = often "universal" not "Roman Catholic"
+     - "Wetenschap" = "science" in Kuyper's era means "systematized knowledge / academic discipline" not modern empirical science
 
 2. **Voice Fidelity** (weight: 30%)
    - Does it sound like Kuyper? Sweeping, periodic, elevated?
