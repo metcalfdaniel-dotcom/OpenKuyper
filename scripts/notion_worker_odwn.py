@@ -1,4 +1,5 @@
 """OpenKuyper Notion Worker — ODWN enrichment for new terms"""
+import re
 from pathlib import Path
 from typing import List, Dict, Optional
 
@@ -40,6 +41,32 @@ def _map_domain(odwn_domains: List[str]) -> str:
     return "general"
 
 
+def _lookup_pwn_english(synset_id: str) -> tuple[str, str]:
+    """Query Princeton WordNet for English lemmas and definition.
+
+    Returns (english_lemmas, definition) or ("", "") if not found.
+    Only works for eng-30- synset IDs.
+    """
+    if not synset_id.startswith("eng-30-"):
+        return "", ""
+
+    match = re.match(r"eng-30-([0-9]+)-([nvasr])", synset_id)
+    if not match:
+        return "", ""
+
+    try:
+        from nltk.corpus import wordnet as wn
+        offset = int(match.group(1))
+        pos = match.group(2)
+        synset = wn.synset_from_pos_and_offset(pos, offset)
+        lemmas = [l.name().replace("_", " ") for l in synset.lemmas()]
+        english = " / ".join(lemmas[:3])
+        definition = synset.definition()
+        return english, definition
+    except Exception:
+        return "", ""
+
+
 def enrich_term(term_page_id: str, term: str) -> int:
     """Look up term in ODWN and create sense rows. Returns count of senses created."""
     dwn = _load_odwn()
@@ -59,6 +86,11 @@ def enrich_term(term_page_id: str, term: str) -> int:
         pos = entry.get("pos", "noun")
         for sense in entry.get("senses", []):
             synset_id = sense.get("synset_id", "")
+
+            # Skip senses with no synset ID (ODWN sometimes returns empty)
+            if not synset_id:
+                continue
+
             if synset_id in seen_synsets:
                 continue
             seen_synsets.add(synset_id)
@@ -71,17 +103,29 @@ def enrich_term(term_page_id: str, term: str) -> int:
             domains = sense.get("domains", [])
             mapped_domain = _map_domain(domains)
 
-            # Build sense key from synset or term+pos
+            # Build sense key from synset
             sense_key = synset_id.replace("eng-30-", "").replace("odwn-10-", "").replace("-", "_")
             sense_id = f"{term}-{sense_key}"
+
+            # Look up English from Princeton WordNet (for eng-30- IDs)
+            english, pwn_definition = _lookup_pwn_english(synset_id)
+
+            if english:
+                context_note = f"(auto-enriched: ODWN + PWN; human review required)"
+            elif synset_id.startswith("odwn-10-"):
+                english = ""
+                context_note = f"(auto-enriched: ODWN only; NO Princeton mapping; manual translation required)"
+            else:
+                english = ""
+                context_note = f"(auto-enriched: ODWN; PWN lookup failed; manual translation required)"
 
             props = {
                 "Sense ID": {"title": [{"text": {"content": sense_id}}]},
                 "Parent Term": {"relation": [{"id": term_page_id}]},
-                "Preferred English": {"rich_text": [{"text": {"content": ""}}]},  # Human fills
+                "Preferred English": {"rich_text": [{"text": {"content": english}}]},
                 "Gloss (Dutch)": {"rich_text": [{"text": {"content": gloss}}]},
                 "Domain": {"select": {"name": mapped_domain}},
-                "Context Trigger": {"rich_text": [{"text": {"content": "(auto-generated from ODWN; human review required)"}}]},
+                "Context Trigger": {"rich_text": [{"text": {"content": context_note}}]},
                 "Part of Speech": {"select": {"name": pos if pos in ["noun", "verb", "adjective", "adverb", "proper noun"] else "noun"}},
                 "Confidence": {"select": {"name": "Low"}},
                 "Status": {"status": {"name": "Proposed"}},
@@ -92,6 +136,9 @@ def enrich_term(term_page_id: str, term: str) -> int:
             pid = create_sense(props)
             if pid:
                 created += 1
-                print(f"  + Created sense: {sense_id} ({mapped_domain})")
+                if english:
+                    print(f"  + Created sense: {sense_id} ({mapped_domain}) → {english}")
+                else:
+                    print(f"  + Created sense: {sense_id} ({mapped_domain}) → [NO ENGLISH]")
 
     return created
