@@ -1,0 +1,55 @@
+{
+  "page_number": "p0009",
+  "dutch_ocr": "ANTIREVOLUTIONAIRE\nSTAATKUNDE\n\nMET NADERE TOELICHTING\nOP ONS PROGRAM DOOR\nDr. A. KUYPER\n\n„Het Calvinisme oorsprong en waarborg\nvan onze Constitutioneele vrijheden”.\nGROEN VAN PRINSTERER.\n\nEERSTE DEEL\nDE BEGINSELEN\n\nJ. H. KOK — 1916 — KAMPEN",
+  "critical_translation": "ANTIREVOLUTIONARY [Dutch: Antirevolutionaire] STATECRAFT [note: politics / statecraft]\n\nWITH FURTHER ELUCIDATION [note: explanation / elucidation]\nON OUR PROGRAM BY\nDr. A. Kuyper [Dutch: Dr. A. Kuyper]\n\n\"Calvinism [Dutch: Calvinisme] origin and guarantee\nof our Constitutional liberties [note: freedoms / liberties].\"\nGROEN VAN PRINSTERER [Dutch: Groen van Prinsterer].\n\nFIRST PART\nTHE PRINCIPLES\n\nJ. H. Kok [Dutch: J. H. Kok] — 1916 — Kampen [Dutch: Kampen]",
+  "draft_a": "ANTIREVOLUTIONARY STATECRAFT\n\nWITH FURTHER ELUCIDATION\nON OUR PROGRAM BY\nDr. A. Kuyper\n\n\"Calvinism, origin and guarantee\nof our Constitutional liberties.\"\nGROEN VAN PRINSTERER.\n\nFIRST PART\nTHE PRINCIPLES\n\nJ. H. Kok — 1916 — Kampen",
+  "draft_b": "Here is a literal, word-for-word gloss of the Dutch text:\n\nANTI-REVOLUTIONARY\nSTATE-POLITICS\n\nWITH FURTHER EXPLANATION\nON OUR PROGRAM BY\nDr. A. KUYPER\n\n„The Calvinism origin and guarantee\nof our Constitutional freedoms”.\nGROEN VAN PRINSTERER.\n\nFIRST PART\nTHE PRINCIPLES\n\nJ. H. KOK — 1916 — KAMPEN",
+  "back_translation": "ANTIREVOLUTIONAIRE STAATSKUNST\n\nMET NADERE TOELICHTING\nOP ONS PROGRAMMA DOOR\nDr. A. Kuyper\n\n\"Calvinisme oorsprong en waarborg\nonzer Constitutioneele vrijheden.\"\nGROEN VAN PRINSTERER.\n\nEERSTE DEEL\nDE BEGINSELEN\n\nJ. H. Kok — 1916 — Kampen",
+  "validation_notes": [
+    "Key terms missing from back-translation: staatkunde, vrijheden”, program",
+    "Proper nouns lost: Het"
+  ],
+  "validation_score": 97.0,
+  "footnotes": [
+    [
+      1,
+      "Antirevolutionaire",
+      "Dutch",
+      "ANTIREVOLUTIONARY ___ STATECRAFT [note: politics / statecraft]\n\nWITH FURTHER ELUCIDATION [note: explanation / elucidation"
+    ],
+    [
+      2,
+      "Dr. A. Kuyper",
+      "Dutch",
+      "ecraft]\n\nWITH FURTHER ELUCIDATION [note: explanation / elucidation]\nON OUR PROGRAM BY\nDr. A. Kuyper ___\n\n\"Calvinism ___ origin and guarantee\nof our Constitutional liberties [note: freedom"
+    ],
+    [
+      3,
+      "Calvinisme",
+      "Dutch",
+      "note: explanation / elucidation]\nON OUR PROGRAM BY\nDr. A. Kuyper ___\n\n\"Calvinism ___ origin and guarantee\nof our Constitutional liberties [note: freedoms / liberties].\"\nGROEN VAN PRINS"
+    ],
+    [
+      4,
+      "Groen van Prinsterer",
+      "Dutch",
+      "n and guarantee\nof our Constitutional liberties [note: freedoms / liberties].\"\nGROEN VAN PRINSTERER ___.\n\nFIRST PART\nTHE PRINCIPLES\n\nJ. H. Kok ___ — 1916 — Kampen ___"
+    ],
+    [
+      5,
+      "J. H. Kok",
+      "Dutch",
+      "erties].\"\nGROEN VAN PRINSTERER ___.\n\nFIRST PART\nTHE PRINCIPLES\n\nJ. H. Kok ___ — 1916 — Kampen ___"
+    ],
+    [
+      6,
+      "Kampen",
+      "Dutch",
+      "ch: Groen van Prinsterer].\n\nFIRST PART\nTHE PRINCIPLES\n\nJ. H. Kok ___ — 1916 — Kampen ___"
+    ]
+  ],
+  "input_tokens": 4133,
+  "output_tokens": 584,
+  "cost_usd": 0.00102375,
+  "processing_time_sec": 33.632025718688965
+}

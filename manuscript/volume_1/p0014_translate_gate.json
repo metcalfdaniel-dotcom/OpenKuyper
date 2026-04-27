@@ -1,0 +1,13 @@
+{
+  "phase": "translate",
+  "status": "pass",
+  "checks": {
+    "draft_a_length_ratio": "pass",
+    "draft_b_length_ratio": "pass",
+    "drafts_distinct": "pass",
+    "terminology_compliance": "pass"
+  },
+  "review_required": false,
+  "notes": "Translation passed all quality checks",
+  "timestamp": "2026-04-23T12:05:12Z"
+}

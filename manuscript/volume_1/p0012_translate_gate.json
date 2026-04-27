@@ -1,0 +1,13 @@
+{
+  "phase": "translate",
+  "status": "fail",
+  "checks": {
+    "draft_a_length_ratio": "pass",
+    "draft_b_length_ratio": "pass",
+    "drafts_distinct": "pass",
+    "terminology_compliance": "pass"
+  },
+  "review_required": true,
+  "notes": "Translation passed all quality checks; Back-translation score: 0/100",
+  "timestamp": "2026-04-23T12:10:33Z"
+}

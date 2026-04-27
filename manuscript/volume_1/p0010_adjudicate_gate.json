@@ -1,0 +1,12 @@
+{
+  "phase": "adjudicate",
+  "status": "pass",
+  "checks": {
+    "winner_text_length": "pass",
+    "terminology_compliance": "pass",
+    "critical_notes_present": "pass"
+  },
+  "review_required": true,
+  "notes": "Adjudication flags: SOURCE_MISMATCH, INCOMPARABLE_DRAFTS",
+  "timestamp": "2026-04-23T12:18:02Z"
+}

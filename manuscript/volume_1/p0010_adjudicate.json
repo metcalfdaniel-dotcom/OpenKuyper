@@ -1,0 +1,44 @@
+{
+  "page_number": "p0010",
+  "dutch_ocr": "",
+  "draft_a": "The principle of divine Right stands in direct opposition to the arbitrary will of the revolution. Where the state appeals to written law, there must the people acknowledge that the source of all Right ultimately resides in God's providence. The true Constitutional State builds not upon human legislation alone, but upon the eternal principles of Right. This science of Right, which enlightens the spirit of man, reveals to us the universal nature of God's commandments. Hence it is our task to defend sphere sovereignty, so that the church, the family, and the school may uphold their own Right, without interference from the government. This is true liberty, rooted in the covenant and in grace, and not in the sin of the human will.",
+  "draft_b": "Here is a literal, word-for-word gloss of the Dutch text:\n\n**Dutch:** De Nederlandse overheid heeft een nieuwe wet ingevoerd, die het gebruik van plastic tassen aan banden legt.\n\n**English Gloss:** The Dutch government has a new law introduced, which the use of plastic bags on bands lays.",
+  "draft_c": null,
+  "winner": "MERGED",
+  "winner_text": "The principle of divine Right stands in direct opposition to the arbitrary will of the revolution. Where the state appeals to written law, there must the people acknowledge that the source of all Right ultimately resides in God's providence. The true Constitutional State builds not upon human legislation alone, but upon the eternal principles of Right. This science of Right, which enlightens the spirit of man, reveals to us the universal nature of God's commandments. Therefore, it is our task to defend sphere sovereignty, so that the church, the family, and the school may uphold their own Right, without interference from the government. This is true liberty, rooted in the covenant and in grace, and not in the sin of the human will.",
+  "rationale": "This synthesized version is based entirely on Draft A, as Draft B is a literal gloss of a completely unrelated modern Dutch sentence, making a genuine merge impossible. The final text was produced by lightly refining Draft A's excellent adherence to the Kuyperian voice and its precise theological terminology. The edit preserves the draft's crucial and correct distinction between 'Right' (divine, moral) and 'law' (positive, written), which is central to the provided translation rules.",
+  "scores": {
+    "A": {
+      "theological": 10,
+      "voice": 10,
+      "structure": 9,
+      "modernization": 10,
+      "consistency": 10
+    },
+    "B": {
+      "theological": 0,
+      "voice": 0,
+      "structure": 2,
+      "modernization": 5,
+      "consistency": 10
+    }
+  },
+  "critical_notes": [
+    {
+      "term": "Input Texts",
+      "issue": "Draft A and Draft B are not translations of the same source text. Draft A is a well-formed translation of a hypothetical 19th-century theological text, while Draft B is a literal gloss of an unrelated, modern Dutch sentence concerning plastic bag legislation.",
+      "alternatives": [
+        "Provide multiple drafts of the same source text."
+      ],
+      "recommendation": "To perform a valid comparison and synthesis, all drafts must correspond to the same source Dutch text. The provided inputs make the primary task of merging impossible, forcing an evaluation based on style and adherence to rules rather than comparative accuracy."
+    }
+  ],
+  "flags": [
+    "SOURCE_MISMATCH",
+    "INCOMPARABLE_DRAFTS"
+  ],
+  "input_tokens": 2230,
+  "output_tokens": 569,
+  "cost_usd": 0.0056325,
+  "processing_time_sec": 23.936115980148315
+}

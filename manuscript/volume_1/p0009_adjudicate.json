@@ -1,0 +1,62 @@
+{
+  "page_number": "p0009",
+  "dutch_ocr": "ANTIREVOLUTIONAIRE\nSTAATKUNDE\n\nMET NADERE TOELICHTING\nOP ONS PROGRAM DOOR\nDr. A. KUYPER\n\n„Het Calvinisme oorsprong en waarborg\nvan onze Constitutioneele vrijheden”.\nGROEN VAN PRINSTERER.\n\nEERSTE DEEL\nDE BEGINSELEN\n\nJ. H. KOK — 1916 — KAMPEN",
+  "draft_a": "ANTIREVOLUTIONARY STATECRAFT\n\nWITH FURTHER ELUCIDATION\nON OUR PROGRAM BY\nDr. A. Kuyper\n\n\"Calvinism, origin and guarantee\nof our Constitutional liberties.\"\nGROEN VAN PRINSTERER.\n\nFIRST PART\nTHE PRINCIPLES\n\nJ. H. Kok — 1916 — Kampen",
+  "draft_b": "Here is a literal, word-for-word gloss of the Dutch text:\n\nANTI-REVOLUTIONARY\nSTATE-POLITICS\n\nWITH FURTHER EXPLANATION\nON OUR PROGRAM BY\nDr. A. KUYPER\n\n„The Calvinism origin and guarantee\nof our Constitutional freedoms”.\nGROEN VAN PRINSTERER.\n\nFIRST PART\nTHE PRINCIPLES\n\nJ. H. KOK — 1916 — KAMPEN",
+  "draft_c": null,
+  "winner": "MERGED",
+  "winner_text": "ANTIREVOLUTIONARY STATECRAFT\n\nWITH FURTHER ELUCIDATION\nON OUR PROGRAM BY\nDr. A. Kuyper\n\n\"Calvinism, origin and guarantee\nof our Constitutional liberties.\"\nGROEN VAN PRINSTERER.\n\nFIRST PART\nTHE PRINCIPLES\n\nJ. H. Kok — 1916 — Kampen",
+  "rationale": "The merged version synthesizes the best elements by taking the more nuanced and elevated term \"Statecraft\" from Draft A for \"Staatkunde,\" which better captures the art of governance than the literal \"State-politics.\" It also adopts Draft A's \"elucidation\" for \"toelichting\" as it implies a more scholarly clarification. Finally, it uses Draft A's rendering of the quote, which correctly omits the definite article before \"Calvinism\" for natural English grammar and uses the more established political phrase \"Constitutional liberties.\"",
+  "scores": {
+    "A": {
+      "theological": 10,
+      "voice": 10,
+      "structure": 10,
+      "modernization": 10,
+      "consistency": 10
+    },
+    "B": {
+      "theological": 7,
+      "voice": 6,
+      "structure": 10,
+      "modernization": 10,
+      "consistency": 8
+    },
+    "C": null
+  },
+  "critical_notes": [
+    {
+      "term": "Staatkunde",
+      "issue": "This term can mean 'politics', 'political science', or 'statecraft'. The literal gloss 'State-politics' is awkward and not a standard English term.",
+      "alternatives": [
+        "Politics",
+        "Political Science",
+        "Statecraft"
+      ],
+      "recommendation": "Use 'Statecraft'. It best conveys the practical art and principled science of governing that is central to Kuyper's project, matching the elevated tone of the work."
+    },
+    {
+      "term": "Het Calvinisme",
+      "issue": "A direct, literal translation as 'The Calvinism' is ungrammatical in English. Abstract nouns and systems of thought like Calvinism, socialism, or liberalism do not typically take a definite article.",
+      "alternatives": [
+        "The Calvinism",
+        "Calvinism"
+      ],
+      "recommendation": "Omit the definite article and simply use 'Calvinism' for correct and natural English phrasing."
+    },
+    {
+      "term": "vrijheden",
+      "issue": "Both 'liberties' and 'freedoms' are correct translations.",
+      "alternatives": [
+        "liberties",
+        "freedoms"
+      ],
+      "recommendation": "Prefer 'liberties' in the phrase 'Constitutional liberties,' as it is a more common and established term in Anglo-American legal and political discourse."
+    }
+  ],
+  "flags": [],
+  "input_tokens": 2275,
+  "output_tokens": 704,
+  "cost_usd": 0.00636375,
+  "processing_time_sec": 21.132477045059204
+}

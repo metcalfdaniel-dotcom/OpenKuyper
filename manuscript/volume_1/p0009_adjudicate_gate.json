@@ -1,0 +1,12 @@
+{
+  "phase": "adjudicate",
+  "status": "pass",
+  "checks": {
+    "winner_text_length": "pass",
+    "terminology_compliance": "pass",
+    "critical_notes_present": "pass"
+  },
+  "review_required": false,
+  "notes": "Adjudication passed all quality checks",
+  "timestamp": "2026-04-23T12:17:35Z"
+}

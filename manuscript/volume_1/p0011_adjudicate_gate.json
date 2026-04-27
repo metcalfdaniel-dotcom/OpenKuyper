@@ -1,0 +1,12 @@
+{
+  "phase": "adjudicate",
+  "status": "pass",
+  "checks": {
+    "winner_text_length": "pass",
+    "terminology_compliance": "pass",
+    "critical_notes_present": "pass"
+  },
+  "review_required": true,
+  "notes": "Adjudication flags: CRITICAL: Draft C is a translation of a completely different Dutch source text and is irrelevant to the task. It appears to be from a different work or a much later section, beginning with a discussion of the Antirevolutionary Party's program after the death of Groen van Prinsterer.",
+  "timestamp": "2026-04-23T12:18:47Z"
+}

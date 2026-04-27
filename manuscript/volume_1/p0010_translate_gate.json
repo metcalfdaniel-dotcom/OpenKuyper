@@ -1,0 +1,13 @@
+{
+  "phase": "translate",
+  "status": "pass",
+  "checks": {
+    "draft_a_length_ratio": "warn",
+    "draft_b_length_ratio": "warn",
+    "drafts_distinct": "pass",
+    "terminology_compliance": "pass"
+  },
+  "review_required": true,
+  "notes": "Draft A unusually long (736.00x Dutch length) — possible hallucination",
+  "timestamp": "2026-04-23T11:59:08Z"
+}
