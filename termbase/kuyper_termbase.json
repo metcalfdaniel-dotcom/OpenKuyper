@@ -1,11 +1,1824 @@
 {
   "_meta": {
     "generated_by": "notion_worker",
-    "generated_at": "2026-04-27T18:19:20.384667+00:00",
-    "total_terms": 79,
-    "total_senses": 12
+    "generated_at": "2026-04-27T19:46:15.078581+00:00",
+    "total_terms": 72,
+    "total_senses": 80
   },
   "terms": {
+    "ziel": {
+      "dutch": "ziel",
+      "status": "approved",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "ziel-canonical",
+          "preferred_english": "soul",
+          "domain": "theology",
+          "context_trigger": "(canonical sense for ziel; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The immaterial soul; spiritual substance of man",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "wil": {
+      "dutch": "wil",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "wil-canonical",
+          "preferred_english": "will",
+          "domain": "philosophy",
+          "context_trigger": "(canonical sense for wil; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The faculty of volition; choosing and desiring",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "wereldbeschouwing": {
+      "dutch": "wereldbeschouwing",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "wereldbeschouwing-canonical",
+          "preferred_english": "worldview / world-and-life view",
+          "domain": "philosophy",
+          "context_trigger": "(canonical sense for wereldbeschouwing; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Kuyper's central concept: a comprehensive view of life and the world (Weltanschauung)",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "wel": {
+      "dutch": "wel",
+      "status": "proposed",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "wel-canonical",
+          "preferred_english": "indeed / truly / certainly",
+          "domain": "grammar",
+          "context_trigger": "(canonical sense for wel; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Modal particle used for emphasis or concession",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "verstand": {
+      "dutch": "verstand",
+      "status": "proposed",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "verstand-canonical",
+          "preferred_english": "intellect / understanding / reason",
+          "domain": "philosophy",
+          "context_trigger": "(canonical sense for verstand; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The intellectual faculty; capacity for rational thought",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "school": {
+      "dutch": "school",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "school-canonical",
+          "preferred_english": "school",
+          "domain": "education",
+          "context_trigger": "(canonical sense for school; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Educational institution; Kuyper's sphere of education",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "natuur": {
+      "dutch": "natuur",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "natuur-canonical",
+          "preferred_english": "nature",
+          "domain": "philosophy",
+          "context_trigger": "(canonical sense for natuur; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The created order; natural world or human nature",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "katholiek": {
+      "dutch": "katholiek",
+      "status": "proposed",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "katholiek-canonical",
+          "preferred_english": "catholic / universal",
+          "domain": "theology",
+          "context_trigger": "(canonical sense for katholiek; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "In the Nicene Creed sense: universal. Kuyper uses this in the catholicity of the Church, not Roman Catholic",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "hart": {
+      "dutch": "hart",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "hart-canonical",
+          "preferred_english": "heart",
+          "domain": "theology",
+          "context_trigger": "(canonical sense for hart; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The heart as the spiritual center of man (biblical sense, not the organ)",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "geweten": {
+      "dutch": "geweten",
+      "status": "approved",
+      "tags": [
+        "Church/ecclesiology",
+        "Recht-family"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "geweten-canonical",
+          "preferred_english": "conscience",
+          "domain": "theology",
+          "context_trigger": "(canonical sense for geweten; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The moral conscience; inner witness of right and wrong",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "bewustzijn": {
+      "dutch": "bewustzijn",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "bewustzijn-canonical",
+          "preferred_english": "consciousness / awareness",
+          "domain": "philosophy",
+          "context_trigger": "(canonical sense for bewustzijn; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Faculty of awareness; philosophical term in Kuyper's anthropology",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "Nadere Toelichting": {
+      "dutch": "Nadere Toelichting",
+      "status": "proposed",
+      "tags": [],
+      "appears_in": [
+        "Foreword"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "nadere-toelichting-canonical",
+          "preferred_english": "Further Explanation",
+          "domain": "literature",
+          "context_trigger": "(canonical sense for Nadere Toelichting; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Title of Kuyper's explanatory work",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "kleyne luyden": {
+      "dutch": "kleyne luyden",
+      "status": "approved",
+      "tags": [
+        "Movements/Proper nouns"
+      ],
+      "appears_in": [
+        "Foreword"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "kleyne-luyden-canonical",
+          "preferred_english": "common folk / little people",
+          "domain": "sociology",
+          "context_trigger": "(canonical sense for kleyne luyden; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Kuyper's term for the common people / petite bourgeoisie",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "Réveil": {
+      "dutch": "Réveil",
+      "status": "approved",
+      "tags": [
+        "Movements/Proper nouns"
+      ],
+      "appears_in": [
+        "Foreword"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "réveil-canonical",
+          "preferred_english": "Réveil",
+          "domain": "history",
+          "context_trigger": "(canonical sense for Réveil; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The Dutch Réveil (Awakening) movement; keep as proper noun",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "Cor Ecclesiae": {
+      "dutch": "Cor Ecclesiae",
+      "status": "proposed",
+      "tags": [
+        "Latin/Greek"
+      ],
+      "appears_in": [
+        "Foreword"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "cor-ecclesiae-canonical",
+          "preferred_english": "Cor Ecclesiae",
+          "domain": "theology",
+          "context_trigger": "(canonical sense for Cor Ecclesiae; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Latin: 'Heart of the Church'; title of Kuyper's inaugural speech",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "Quousque tandem?": {
+      "dutch": "Quousque tandem?",
+      "status": "proposed",
+      "tags": [
+        "Latin/Greek"
+      ],
+      "appears_in": [
+        "Foreword"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "quousque-tandem-canonical",
+          "preferred_english": "Quousque tandem?",
+          "domain": "rhetoric",
+          "context_trigger": "(canonical sense for Quousque tandem?; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Latin phrase; Cicero quotation used by Kuyper",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "Wat vermeet ge U!": {
+      "dutch": "Wat vermeet ge U!",
+      "status": "proposed",
+      "tags": [],
+      "appears_in": [
+        "Foreword"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "wat-vermeet-ge-u-canonical",
+          "preferred_english": "How dare you!",
+          "domain": "rhetoric",
+          "context_trigger": "(canonical sense for Wat vermeet ge U!; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Kuyper's famous retort",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "het kindeke met het waterhoofd": {
+      "dutch": "het kindeke met het waterhoofd",
+      "status": "proposed",
+      "tags": [],
+      "appears_in": [
+        "Foreword"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "het-kindeke-met-het-waterhoofd-canonical",
+          "preferred_english": "the child with hydrocephalus",
+          "domain": "rhetoric",
+          "context_trigger": "(canonical sense for het kindeke met het waterhoofd; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Kuyper's famous phrase from the 1874 speech",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "zodat": {
+      "dutch": "zodat",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "zodat-canonical",
+          "preferred_english": "so that",
+          "domain": "grammar",
+          "context_trigger": "(canonical sense for zodat; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Final/consecutive conjunction",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "toch": {
+      "dutch": "toch",
+      "status": "proposed",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "toch-canonical",
+          "preferred_english": "yet / still / nevertheless",
+          "domain": "grammar",
+          "context_trigger": "(canonical sense for toch; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Modal/adversative particle",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "namelijk": {
+      "dutch": "namelijk",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "namelijk-canonical",
+          "preferred_english": "namely / that is to say",
+          "domain": "grammar",
+          "context_trigger": "(canonical sense for namelijk; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Explanatory adverb",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "immers": {
+      "dutch": "immers",
+      "status": "proposed",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "immers-canonical",
+          "preferred_english": "for / since / indeed",
+          "domain": "grammar",
+          "context_trigger": "(canonical sense for immers; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Explanatory/connective adverb",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "echter": {
+      "dutch": "echter",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "echter-canonical",
+          "preferred_english": "however / yet",
+          "domain": "grammar",
+          "context_trigger": "(canonical sense for echter; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Adversative connective",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "daarom": {
+      "dutch": "daarom",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "daarom-canonical",
+          "preferred_english": "therefore / hence",
+          "domain": "grammar",
+          "context_trigger": "(canonical sense for daarom; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Conclusive/connective adverb",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "Rechtssensatie": {
+      "dutch": "Rechtssensatie",
+      "status": "proposed",
+      "tags": [
+        "Recht-family"
+      ],
+      "appears_in": [
+        "Vol 1 — Ch I"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "rechtssensatie-canonical",
+          "preferred_english": "legal sentiment / sense of justice",
+          "domain": "law",
+          "context_trigger": "(canonical sense for Rechtssensatie; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Feeling or sentiment of right/law",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "Rechtsbegrip": {
+      "dutch": "Rechtsbegrip",
+      "status": "proposed",
+      "tags": [
+        "Recht-family"
+      ],
+      "appears_in": [
+        "Vol 1 — Ch I"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "rechtsbegrip-canonical",
+          "preferred_english": "concept of right / legal concept",
+          "domain": "law",
+          "context_trigger": "(canonical sense for Rechtsbegrip; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Concept or idea of right/law",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "Gezelschappen": {
+      "dutch": "Gezelschappen",
+      "status": "proposed",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [
+        "Foreword"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "gezelschappen-canonical",
+          "preferred_english": "societies / associations",
+          "domain": "sociology",
+          "context_trigger": "(canonical sense for Gezelschappen; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Social associations or societies",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "Blauwboekjes": {
+      "dutch": "Blauwboekjes",
+      "status": "proposed",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [
+        "Foreword"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "blauwboekjes-canonical",
+          "preferred_english": "blue books",
+          "domain": "politics",
+          "context_trigger": "(canonical sense for Blauwboekjes; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Dutch parliamentary documents (official publications)",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "Staatschen": {
+      "dutch": "Staatschen",
+      "status": "proposed",
+      "tags": [
+        "State/Overheid"
+      ],
+      "appears_in": [
+        "Foreword"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "staatschen-canonical",
+          "preferred_english": "statists",
+          "domain": "politics",
+          "context_trigger": "(canonical sense for Staatschen; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Kuyper's term for those who advocate state control over society",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "Staatkunde": {
+      "dutch": "Staatkunde",
+      "status": "approved",
+      "tags": [
+        "State/Overheid"
+      ],
+      "appears_in": [
+        "Foreword"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "staatkunde-canonical",
+          "preferred_english": "political science / statecraft",
+          "domain": "politics",
+          "context_trigger": "(canonical sense for Staatkunde; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The science/art of statecraft",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "Staatsrecht": {
+      "dutch": "Staatsrecht",
+      "status": "approved",
+      "tags": [
+        "State/Overheid"
+      ],
+      "appears_in": [
+        "Foreword"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "staatsrecht-canonical",
+          "preferred_english": "constitutional law",
+          "domain": "law",
+          "context_trigger": "(canonical sense for Staatsrecht; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The law of the state / constitutional law",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "Dooperschen": {
+      "dutch": "Dooperschen",
+      "status": "proposed",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [
+        "Foreword"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "dooperschen-canonical",
+          "preferred_english": "Anabaptists / Baptists",
+          "domain": "history",
+          "context_trigger": "(canonical sense for Dooperschen; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Historical Dutch term for Anabaptists; Kuyper contrasts them with Reformed",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "calvinistisch": {
+      "dutch": "calvinistisch",
+      "status": "approved",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "calvinistisch-canonical",
+          "preferred_english": "Calvinistic",
+          "domain": "theology",
+          "context_trigger": "(canonical sense for calvinistisch; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Pertaining to Calvinism",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "gereformeerd": {
+      "dutch": "gereformeerd",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "gereformeerd-canonical",
+          "preferred_english": "Reformed (orthodox Calvinistic; of the seceded confessional churches)",
+          "domain": "theology",
+          "context_trigger": "Refers specifically to the orthodox Calvinistic tradition that seceded from the Dutch Reformed (Hervormde) state church (Doleantie 1886). DISTINCT from \"hervormd\" which denotes the broader established state church. When Kuyper writes \"gereformeerd\" he means the confessional, anti-liberal, Article-31 tradition.",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Kuyper uses this to distinguish the true confessional Reformed tradition from the liberal/tolerant Hervormde state church. Translate with care: \"Reformed\" alone is insufficient.",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "soevereiniteit in eigen kring": {
+      "dutch": "soevereiniteit in eigen kring",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "soevereiniteit-in-eigen-kring-canonical",
+          "preferred_english": "sphere sovereignty",
+          "domain": "political theology",
+          "context_trigger": "(canonical sense for soevereiniteit in eigen kring; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Kuyper's central concept: each sphere has sovereignty in its own circle",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "levenssysteem": {
+      "dutch": "levenssysteem",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "levenssysteem-canonical",
+          "preferred_english": "life-system / worldview system",
+          "domain": "philosophy",
+          "context_trigger": "(canonical sense for levenssysteem; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Kuyper's concept of a comprehensive life- and thought-system",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "Gemeene Gratie": {
+      "dutch": "Gemeene Gratie",
+      "status": "approved",
+      "tags": [
+        "Recht-family"
+      ],
+      "appears_in": [
+        "Foreword",
+        "Vol 1 — Ch I"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "gemeene-gratie-canonical",
+          "preferred_english": "common grace",
+          "domain": "theology",
+          "context_trigger": "(canonical sense for Gemeene Gratie; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Same concept as algemeene genade; older spelling",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "bijzondere genade": {
+      "dutch": "bijzondere genade",
+      "status": "approved",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "bijzondere-genade-canonical",
+          "preferred_english": "particular grace / special grace",
+          "domain": "theology",
+          "context_trigger": "(canonical sense for bijzondere genade; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Special grace as distinct from common grace",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "algemeene genade": {
+      "dutch": "algemeene genade",
+      "status": "approved",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "algemeene-genade-canonical",
+          "preferred_english": "common grace",
+          "domain": "theology",
+          "context_trigger": "(canonical sense for algemeene genade; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Kuyper's doctrine of common grace (algemeene genade)",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "antirevolutionair": {
+      "dutch": "antirevolutionair",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "antirevolutionair-canonical",
+          "preferred_english": "antirevolutionary",
+          "domain": "general",
+          "context_trigger": "(canonical sense for antirevolutionair; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "canonical translation: antirevolutionary",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "Overheid": {
+      "dutch": "Overheid",
+      "status": "proposed",
+      "tags": [
+        "State/Overheid"
+      ],
+      "appears_in": [
+        "Vol 1 — Ch I",
+        "Vol 1 — Ch II+"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "overheid-canonical",
+          "preferred_english": "government",
+          "domain": "general",
+          "context_trigger": "(canonical sense for overheid; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "canonical translation: government",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "gezin": {
+      "dutch": "gezin",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "gezin-canonical",
+          "preferred_english": "family",
+          "domain": "general",
+          "context_trigger": "(canonical sense for gezin; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "canonical translation: family",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "voorzienigheid": {
+      "dutch": "voorzienigheid",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "voorzienigheid-canonical",
+          "preferred_english": "providence",
+          "domain": "general",
+          "context_trigger": "(canonical sense for voorzienigheid; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "canonical translation: providence",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "heiligmaking": {
+      "dutch": "heiligmaking",
+      "status": "approved",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "heiligmaking-canonical",
+          "preferred_english": "sanctification",
+          "domain": "general",
+          "context_trigger": "(canonical sense for heiligmaking; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "canonical translation: sanctification",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "verbond": {
+      "dutch": "verbond",
+      "status": "approved",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "verbond-canonical",
+          "preferred_english": "covenant",
+          "domain": "general",
+          "context_trigger": "(canonical sense for verbond; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "canonical translation: covenant",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "verzoening": {
+      "dutch": "verzoening",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "verzoening-canonical",
+          "preferred_english": "atonement / reconciliation",
+          "domain": "general",
+          "context_trigger": "(canonical sense for verzoening; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "canonical translation: atonement / reconciliation",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "Hervormde": {
+      "dutch": "Hervormde",
+      "status": "proposed",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [
+        "Foreword"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "Hervormde-09679316_n",
+          "preferred_english": "Dutch Reformed / Hervormde (member of the established state church)",
+          "domain": "general",
+          "context_trigger": "A member of the Nederlandse Hervormde Kerk (Dutch Reformed Church), the established state church. Broader and more liberal than the \"Gereformeerde\" (seceded orthodox) tradition. Kuyper contrasts these groups constantly.",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "lid v.d. Nederlandse Hervormde Kerk; established state church, broader than the seceded Gereformeerden",
+          "examples": "",
+          "ili": "i87509",
+          "odwn_synset_id": "eng-30-09679316-n"
+        }
+      ]
+    },
+    "Gereformeerde": {
+      "dutch": "Gereformeerde",
+      "status": "proposed",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [
+        "Foreword"
+      ],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "Gereformeerde-100046514_n",
+          "preferred_english": "Reformed (member of the orthodox/seceded churches)",
+          "domain": "general",
+          "context_trigger": "A member of the Gereformeerde Kerken (Reformed Churches), i.e. the seceded orthodox Calvinistic tradition. Distinct from a \"Hervormde\" (member of the established Dutch Reformed state church).",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "lid v.d. gereformeerde kerken; seceded orthodox tradition",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": "odwn-10-100046514-n"
+        }
+      ]
+    },
+    "geloof": {
+      "dutch": "geloof",
+      "status": "approved",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "geloof-05946687_n",
+          "preferred_english": "religion / faith / religious belief",
+          "domain": "general",
+          "context_trigger": "(canonical sense for geloof; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "geloofsovertuiging",
+          "examples": "",
+          "ili": "i68078",
+          "odwn_synset_id": "eng-30-05946687-n"
+        }
+      ]
+    },
+    "genade": {
+      "dutch": "genade",
+      "status": "approved",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "genade-07190039_n",
+          "preferred_english": "grace / blessing / thanksgiving",
+          "domain": "general",
+          "context_trigger": "(canonical sense for genade; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "hulp van God",
+          "examples": "",
+          "ili": "i74438",
+          "odwn_synset_id": "eng-30-07190039-n"
+        }
+      ]
+    },
+    "rechtvaardiging": {
+      "dutch": "rechtvaardiging",
+      "status": "approved",
+      "tags": [
+        "Recht-family"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "rechtvaardiging-01241767_n",
+          "preferred_english": "justification",
+          "domain": "general",
+          "context_trigger": "(canonical sense for rechtvaardiging; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "het rechtvaardigen van iets",
+          "examples": "",
+          "ili": "i41900",
+          "odwn_synset_id": "eng-30-01241767-n"
+        }
+      ]
+    },
+    "verlossing": {
+      "dutch": "verlossing",
+      "status": "approved",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "verlossing-00094001_n",
+          "preferred_english": "redemption / salvation",
+          "domain": "general",
+          "context_trigger": "(canonical sense for verlossing; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "verlossing",
+          "examples": "",
+          "ili": "i35898",
+          "odwn_synset_id": "eng-30-00094001-n"
+        }
+      ]
+    },
+    "verkiezing": {
+      "dutch": "verkiezing",
+      "status": "approved",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "verkiezing-00180962_n",
+          "preferred_english": "election",
+          "domain": "general",
+          "context_trigger": "(canonical sense for verkiezing; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "het door stemmen aanwijzen",
+          "examples": "",
+          "ili": "i36363",
+          "odwn_synset_id": "eng-30-00180962-n"
+        }
+      ]
+    },
+    "openbaring": {
+      "dutch": "openbaring",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "openbaring-07213395_n",
+          "preferred_english": "disclosure / revelation / revealing",
+          "domain": "general",
+          "context_trigger": "(canonical sense for openbaring; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "openbaring van iets geheims of onbekends",
+          "examples": "",
+          "ili": "i74565",
+          "odwn_synset_id": "eng-30-07213395-n"
+        }
+      ]
+    },
+    "schrift": {
+      "dutch": "schrift",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "schrift-06359877_n",
+          "preferred_english": "Scripture / writing",
+          "domain": "general",
+          "context_trigger": "(canonical sense for schrift; monosemous in Kuyper; capitalized = Scripture)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "canonical translation: Scripture / writing (de Schrift = Holy Scripture)",
+          "examples": "",
+          "ili": "i69901",
+          "odwn_synset_id": "eng-30-06359877-n"
+        }
+      ]
+    },
+    "kerk": {
+      "dutch": "kerk",
+      "status": "approved",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "kerk-03028079_n",
+          "preferred_english": "church / church building",
+          "domain": "general",
+          "context_trigger": "(canonical sense for kerk; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "gebouw voor godsdienstbeoefening",
+          "examples": "",
+          "ili": "i51914",
+          "odwn_synset_id": "eng-30-03028079-n"
+        }
+      ]
+    },
+    "sacrament": {
+      "dutch": "sacrament",
+      "status": "approved",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "sacrament-01034925_n",
+          "preferred_english": "sacrament",
+          "domain": "general",
+          "context_trigger": "(canonical sense for sacrament; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "handeling in de rooms-katholieke kerk",
+          "examples": "",
+          "ili": "i40824",
+          "odwn_synset_id": "eng-30-01034925-n"
+        }
+      ]
+    },
+    "doop": {
+      "dutch": "doop",
+      "status": "approved",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "doop-01037819_n",
+          "preferred_english": "baptism",
+          "domain": "general",
+          "context_trigger": "(canonical sense for doop; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "a Christian sacrament signifying spiritual cleansing and rebirth",
+          "examples": "",
+          "ili": "i40838",
+          "odwn_synset_id": "eng-30-01037819-n"
+        }
+      ]
+    },
+    "zonde": {
+      "dutch": "zonde",
+      "status": "approved",
+      "tags": [
+        "Church/ecclesiology"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "zonde-04827957_n",
+          "preferred_english": "sin / sinfulness / wickedness",
+          "domain": "general",
+          "context_trigger": "(canonical sense for zonde; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "overtreding v.d. voorschriften",
+          "examples": "",
+          "ili": "i62364",
+          "odwn_synset_id": "eng-30-04827957-n"
+        }
+      ]
+    },
+    "schuld": {
+      "dutch": "schuld",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "schuld-13990675_n",
+          "preferred_english": "guilt / guiltiness",
+          "domain": "general",
+          "context_trigger": "(canonical sense for schuld; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "verantwoordelijkheid voor een fout",
+          "examples": "",
+          "ili": "i110456",
+          "odwn_synset_id": "eng-30-13990675-n"
+        }
+      ]
+    },
+    "sfeer": {
+      "dutch": "sfeer",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "sfeer-14514039_n",
+          "preferred_english": "sphere / domain / area",
+          "domain": "general",
+          "context_trigger": "(canonical sense for sfeer; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "a particular environment or walk of life",
+          "examples": "",
+          "ili": "i113275",
+          "odwn_synset_id": "eng-30-14514039-n"
+        }
+      ]
+    },
+    "soevereiniteit": {
+      "dutch": "soevereiniteit",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "soevereiniteit-05198321_n",
+          "preferred_english": "sovereignty",
+          "domain": "general",
+          "context_trigger": "(canonical sense for soevereiniteit; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "the authority of a state to govern another state",
+          "examples": "",
+          "ili": "i64289",
+          "odwn_synset_id": "eng-30-05198321-n"
+        }
+      ]
+    },
+    "staat": {
+      "dutch": "staat",
+      "status": "approved",
+      "tags": [
+        "State/Overheid"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "staat-08168978_n",
+          "preferred_english": "state / nation / country",
+          "domain": "general",
+          "context_trigger": "(canonical sense for staat; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "bond van staten",
+          "examples": "",
+          "ili": "i80079",
+          "odwn_synset_id": "eng-30-08168978-n"
+        }
+      ]
+    },
+    "revolutie": {
+      "dutch": "revolutie",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "revolutie-07424109_n",
+          "preferred_english": "revolution",
+          "domain": "general",
+          "context_trigger": "(canonical sense for revolutie; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "omverwerping van een staatsgezag en/of omwenteling van de politieke, sociale en economische verhoudingen",
+          "examples": "",
+          "ili": "i75727",
+          "odwn_synset_id": "eng-30-07424109-n"
+        }
+      ]
+    },
+    "beginsel": {
+      "dutch": "beginsel",
+      "status": "approved",
+      "tags": [],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "beginsel-05872477_n",
+          "preferred_english": "principle",
+          "domain": "general",
+          "context_trigger": "(canonical sense for beginsel; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "grondbeginsel",
+          "examples": "",
+          "ili": "i67733",
+          "odwn_synset_id": "eng-30-05872477-n"
+        }
+      ]
+    },
+    "grondwet": {
+      "dutch": "grondwet",
+      "status": "approved",
+      "tags": [
+        "Recht-family"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "grondwet-06533648_n",
+          "preferred_english": "fundamental law / organic law / constitution",
+          "domain": "general",
+          "context_trigger": "(canonical sense for grondwet; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "wet met grondbeginselen v.e. staat",
+          "examples": "",
+          "ili": "i70802",
+          "odwn_synset_id": "eng-30-06533648-n"
+        }
+      ]
+    },
+    "natie": {
+      "dutch": "natie",
+      "status": "approved",
+      "tags": [
+        "State/Overheid"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "natie-08303692_n",
+          "preferred_english": "nation",
+          "domain": "general",
+          "context_trigger": "(canonical sense for natie; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "a federation of tribes (especially Native American tribes)",
+          "examples": "",
+          "ili": "i80773",
+          "odwn_synset_id": "eng-30-08303692-n"
+        }
+      ]
+    },
+    "maatschappij": {
+      "dutch": "maatschappij",
+      "status": "approved",
+      "tags": [
+        "State/Overheid"
+      ],
+      "appears_in": [],
+      "default_treatment": "",
+      "notes": "",
+      "senses": [
+        {
+          "sense_id": "maatschappij-08280124_n",
+          "preferred_english": "society",
+          "domain": "general",
+          "context_trigger": "(canonical sense for maatschappij; monosemous in Kuyper; means civil society, not academy)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "canonical translation: society (civil society in Kuyper)",
+          "examples": "",
+          "ili": "i80655",
+          "odwn_synset_id": "eng-30-08280124-n"
+        }
+      ]
+    },
     "vermogen": {
       "dutch": "vermogen",
       "status": "proposed",
