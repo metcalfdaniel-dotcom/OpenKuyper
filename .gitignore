@@ -72,3 +72,4 @@ pipeline_output.log
 # Download instructions in reference/odwn/README.md
 reference/odwn/*.xml
 reference/odwn/*.xml.gz
+pipeline/corpora/reference_corpora.db
