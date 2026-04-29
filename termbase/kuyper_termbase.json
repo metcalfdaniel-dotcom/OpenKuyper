@@ -1,11 +1,281 @@
 {
   "_meta": {
     "generated_by": "notion_worker",
-    "generated_at": "2026-04-29T19:58:11.448901+00:00",
-    "total_terms": 87,
-    "total_senses": 95
+    "generated_at": "2026-04-29T20:01:40.893358+00:00",
+    "total_terms": 97,
+    "total_senses": 105
   },
   "terms": {
+    "regeringsvorm": {
+      "dutch": "regeringsvorm",
+      "status": "approved",
+      "tags": [
+        "politics"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "The form of government (monarchy, aristocracy, democracy, etc.). Distinct from 'staatsvorm' (form of state) and 'staatkunde' (political science).",
+      "senses": [
+        {
+          "sense_id": "regeringsvorm-canonical",
+          "preferred_english": "form of government",
+          "domain": "politics",
+          "context_trigger": "(canonical sense for regeringsvorm; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The form of government (monarchy, aristocracy, democracy, etc.). Distinct from 'staatsvorm' (form of state) and 'staatkunde' (political science).",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "vrije kerk": {
+      "dutch": "vrije kerk",
+      "status": "approved",
+      "tags": [
+        "history"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "A free church; a church independent of state control. Kuyper uses this to describe the ideal of the seceded/gereformeerde churches in contrast to the state-established Hervormde Kerk.",
+      "senses": [
+        {
+          "sense_id": "vrije kerk-canonical",
+          "preferred_english": "free church",
+          "domain": "history",
+          "context_trigger": "(canonical sense for vrije kerk; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "A free church; a church independent of state control. Kuyper uses this to describe the ideal of the seceded/gereformeerde churches in contrast to the state-established Hervormde Kerk.",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "volksvrijheid": {
+      "dutch": "volksvrijheid",
+      "status": "approved",
+      "tags": [
+        "political theology"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "The freedom of the people; popular liberty. Kuyper contrasts 'volksvrijheid' with state tyranny. Related to 'vrijheid' but emphasizes the collective freedom of a people.",
+      "senses": [
+        {
+          "sense_id": "volksvrijheid-canonical",
+          "preferred_english": "people's freedom / popular liberty",
+          "domain": "political theology",
+          "context_trigger": "(canonical sense for volksvrijheid; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The freedom of the people; popular liberty. Kuyper contrasts 'volksvrijheid' with state tyranny. Related to 'vrijheid' but emphasizes the collective freedom of a people.",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "staathuishoudkunde": {
+      "dutch": "staathuishoudkunde",
+      "status": "approved",
+      "tags": [
+        "economics"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "Political economy; the science of managing the state's economic affairs. Older Dutch term for economics as related to statecraft. Kuyper uses this in discussions of economic policy.",
+      "senses": [
+        {
+          "sense_id": "staathuishoudkunde-canonical",
+          "preferred_english": "political economy / state economics",
+          "domain": "economics",
+          "context_trigger": "(canonical sense for staathuishoudkunde; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Political economy; the science of managing the state's economic affairs. Older Dutch term for economics as related to statecraft. Kuyper uses this in discussions of economic policy.",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "rechtsgevoel": {
+      "dutch": "rechtsgevoel",
+      "status": "approved",
+      "tags": [
+        "law"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "The sense or feeling of justice; intuitive understanding of right and wrong. Similar to 'Rechtssensatie' but more commonly used. Kuyper appeals to the 'rechtsgevoel' of the people.",
+      "senses": [
+        {
+          "sense_id": "rechtsgevoel-canonical",
+          "preferred_english": "sense of justice / legal sentiment",
+          "domain": "law",
+          "context_trigger": "(canonical sense for rechtsgevoel; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The sense or feeling of justice; intuitive understanding of right and wrong. Similar to 'Rechtssensatie' but more commonly used. Kuyper appeals to the 'rechtsgevoel' of the people.",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "natuurrecht": {
+      "dutch": "natuurrecht",
+      "status": "approved",
+      "tags": [
+        "law"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "Natural law; the law inherent in nature or reason, independent of positive legislation. Central concept in legal philosophy. Kuyper discusses natural law in relation to divine law and positive law.",
+      "senses": [
+        {
+          "sense_id": "natuurrecht-canonical",
+          "preferred_english": "natural law",
+          "domain": "law",
+          "context_trigger": "(canonical sense for natuurrecht; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Natural law; the law inherent in nature or reason, independent of positive legislation. Central concept in legal philosophy. Kuyper discusses natural law in relation to divine law and positive law.",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "staatsvorm": {
+      "dutch": "staatsvorm",
+      "status": "approved",
+      "tags": [
+        "politics"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "The form or structure of the state (monarchy, republic, democracy, etc.). Distinct from 'grondwet' (constitution as document) and 'regeringsvorm' (form of government).",
+      "senses": [
+        {
+          "sense_id": "staatsvorm-canonical",
+          "preferred_english": "form of state / constitutional form",
+          "domain": "politics",
+          "context_trigger": "(canonical sense for staatsvorm; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The form or structure of the state (monarchy, republic, democracy, etc.). Distinct from 'grondwet' (constitution as document) and 'regeringsvorm' (form of government).",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "rechtsorde": {
+      "dutch": "rechtsorde",
+      "status": "approved",
+      "tags": [
+        "law"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "The legal order or order of law. Kuyper's concept of the structured system of law and justice within a state or society. Sometimes 'rule of law,' but more precisely 'legal order.'",
+      "senses": [
+        {
+          "sense_id": "rechtsorde-canonical",
+          "preferred_english": "legal order / order of law / juridical order",
+          "domain": "law",
+          "context_trigger": "(canonical sense for rechtsorde; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The legal order or order of law. Kuyper's concept of the structured system of law and justice within a state or society. Sometimes 'rule of law,' but more precisely 'legal order.'",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "verdrag": {
+      "dutch": "verdrag",
+      "status": "approved",
+      "tags": [
+        "law"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "A treaty or pact between states or parties. In international law: treaty. Distinct from 'verbond' (theological covenant). Kuyper discusses international treaties extensively.",
+      "senses": [
+        {
+          "sense_id": "verdrag-canonical",
+          "preferred_english": "treaty / pact / covenant (international)",
+          "domain": "law",
+          "context_trigger": "(canonical sense for verdrag; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "A treaty or pact between states or parties. In international law: treaty. Distinct from 'verbond' (theological covenant). Kuyper discusses international treaties extensively.",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "ontwikkeling": {
+      "dutch": "ontwikkeling",
+      "status": "approved",
+      "tags": [
+        "philosophy"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "Development, unfolding, or evolution. Kuyper uses this in an organic-historical sense (not Darwinian evolution). 'Ontwikkeling' refers to the historical unfolding of God's plan or the natural development of institutions. Often best translated as 'development' or 'unfolding.'",
+      "senses": [
+        {
+          "sense_id": "ontwikkeling-canonical",
+          "preferred_english": "development / unfolding / evolution",
+          "domain": "philosophy",
+          "context_trigger": "(canonical sense for ontwikkeling; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Development, unfolding, or evolution. Kuyper uses this in an organic-historical sense (not Darwinian evolution). 'Ontwikkeling' refers to the historical unfolding of God's plan or the natural development of institutions. Often best translated as 'development' or 'unfolding.'",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
     "staten": {
       "dutch": "staten",
       "status": "approved",
