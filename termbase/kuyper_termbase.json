@@ -1,11 +1,416 @@
 {
   "_meta": {
     "generated_by": "notion_worker",
-    "generated_at": "2026-04-27T19:46:15.078581+00:00",
-    "total_terms": 72,
-    "total_senses": 80
+    "generated_at": "2026-04-29T19:58:11.448901+00:00",
+    "total_terms": 87,
+    "total_senses": 95
   },
   "terms": {
+    "staten": {
+      "dutch": "staten",
+      "status": "approved",
+      "tags": [
+        "politics"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "Plural of 'staat.' Can refer to sovereign states, member states of a federation, or the Dutch 'Provinciale Staten' (Provincial States). Context determines whether sovereign states or subnational bodies.",
+      "senses": [
+        {
+          "sense_id": "staten-canonical",
+          "preferred_english": "states",
+          "domain": "politics",
+          "context_trigger": "(canonical sense for staten; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Plural of 'staat.' Can refer to sovereign states, member states of a federation, or the Dutch 'Provinciale Staten' (Provincial States). Context determines whether sovereign states or subnational bodies.",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "volkenrecht": {
+      "dutch": "volkenrecht",
+      "status": "approved",
+      "tags": [
+        "law"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "International law; the law governing relations between states/peoples. Compound of 'volken' + 'recht.' Distinct from 'staatsrecht' (constitutional law) and 'volkenrecht' (law of nations).",
+      "senses": [
+        {
+          "sense_id": "volkenrecht-canonical",
+          "preferred_english": "international law / law of nations",
+          "domain": "law",
+          "context_trigger": "(canonical sense for volkenrecht; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "International law; the law governing relations between states/peoples. Compound of 'volken' + 'recht.' Distinct from 'staatsrecht' (constitutional law) and 'volkenrecht' (law of nations).",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "souvereiniteit": {
+      "dutch": "souvereiniteit",
+      "status": "approved",
+      "tags": [
+        "political theology"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "Variant spelling of 'soevereiniteit' (with 'ou' instead of 'oe'). Same meaning: sovereignty. Kuyper uses both spellings. Treat as identical to 'soevereiniteit.'",
+      "senses": [
+        {
+          "sense_id": "souvereiniteit-canonical",
+          "preferred_english": "sovereignty",
+          "domain": "political theology",
+          "context_trigger": "(canonical sense for souvereiniteit; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Variant spelling of 'soevereiniteit' (with 'ou' instead of 'oe'). Same meaning: sovereignty. Kuyper uses both spellings. Treat as identical to 'soevereiniteit.'",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "wereld": {
+      "dutch": "wereld",
+      "status": "approved",
+      "tags": [
+        "theology"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "The world. Theological sense: the created order, or the sinful world-system opposed to the church ('in the world but not of the world').",
+      "senses": [
+        {
+          "sense_id": "wereld-canonical",
+          "preferred_english": "world",
+          "domain": "theology",
+          "context_trigger": "(canonical sense for wereld; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The world. Theological sense: the created order, or the sinful world-system opposed to the church ('in the world but not of the world').",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "eenheid": {
+      "dutch": "eenheid",
+      "status": "approved",
+      "tags": [
+        "theology"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "Unity or oneness. Theological sense: the unity of the church, the unity of God. Political sense: national unity, the unity of the state.",
+      "senses": [
+        {
+          "sense_id": "eenheid-canonical",
+          "preferred_english": "unity / oneness",
+          "domain": "theology",
+          "context_trigger": "(canonical sense for eenheid; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Unity or oneness. Theological sense: the unity of the church, the unity of God. Political sense: national unity, the unity of the state.",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "israël": {
+      "dutch": "israël",
+      "status": "approved",
+      "tags": [
+        "theology"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "Proper noun. Can refer to the biblical nation, the modern state, or the spiritual Israel (the church). Context determines whether theological or political sense.",
+      "senses": [
+        {
+          "sense_id": "israël-canonical",
+          "preferred_english": "Israel",
+          "domain": "theology",
+          "context_trigger": "(canonical sense for israël; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Proper noun. Can refer to the biblical nation, the modern state, or the spiritual Israel (the church). Context determines whether theological or political sense.",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "calvijn": {
+      "dutch": "calvijn",
+      "status": "approved",
+      "tags": [
+        "history"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "Proper noun. John Calvin (1509–1564). Kuyper frequently cites and argues with Calvin. Always capitalized in English.",
+      "senses": [
+        {
+          "sense_id": "calvijn-canonical",
+          "preferred_english": "Calvin",
+          "domain": "history",
+          "context_trigger": "(canonical sense for calvijn; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Proper noun. John Calvin (1509–1564). Kuyper frequently cites and argues with Calvin. Always capitalized in English.",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "christus": {
+      "dutch": "christus",
+      "status": "approved",
+      "tags": [
+        "theology"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "Proper noun. The Messiah, Jesus Christ. Always capitalized in English. Kuyper uses this in theological, not merely historical, sense.",
+      "senses": [
+        {
+          "sense_id": "christus-canonical",
+          "preferred_english": "Christ",
+          "domain": "theology",
+          "context_trigger": "(canonical sense for christus; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Proper noun. The Messiah, Jesus Christ. Always capitalized in English. Kuyper uses this in theological, not merely historical, sense.",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "politiek": {
+      "dutch": "politiek",
+      "status": "approved",
+      "tags": [
+        "politics"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "The domain of politics or the political. As noun: politics. As adjective: political. Kuyper's 'antirevolutionaire politiek' = antirevolutionary politics.",
+      "senses": [
+        {
+          "sense_id": "politiek-canonical",
+          "preferred_english": "politics / political",
+          "domain": "politics",
+          "context_trigger": "(canonical sense for politiek; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The domain of politics or the political. As noun: politics. As adjective: political. Kuyper's 'antirevolutionaire politiek' = antirevolutionary politics.",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "volken": {
+      "dutch": "volken",
+      "status": "approved",
+      "tags": [
+        "political theology"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "Plural of 'volk.' In biblical and political usage, refers to ethnic/national groups. Distinct from 'naties' (political states). Often 'peoples' in theological context, 'nations' in political context.",
+      "senses": [
+        {
+          "sense_id": "volken-canonical",
+          "preferred_english": "peoples / nations",
+          "domain": "political theology",
+          "context_trigger": "(canonical sense for volken; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Plural of 'volk.' In biblical and political usage, refers to ethnic/national groups. Distinct from 'naties' (political states). Often 'peoples' in theological context, 'nations' in political context.",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "toestand": {
+      "dutch": "toestand",
+      "status": "approved",
+      "tags": [
+        "general"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "The state or condition of something. Distinct from 'staat' (the political state). Often translated as 'condition,' 'situation,' or 'state of affairs.'",
+      "senses": [
+        {
+          "sense_id": "toestand-canonical",
+          "preferred_english": "condition / state / situation",
+          "domain": "general",
+          "context_trigger": "(canonical sense for toestand; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The state or condition of something. Distinct from 'staat' (the political state). Often translated as 'condition,' 'situation,' or 'state of affairs.'",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "verband": {
+      "dutch": "verband",
+      "status": "approved",
+      "tags": [
+        "philosophy"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "A relation, connection, or nexus between things. Kuyper uses this philosophically (e.g., 'in verband brengen' = to bring into connection). Important for his organic/historical view of society.",
+      "senses": [
+        {
+          "sense_id": "verband-canonical",
+          "preferred_english": "connection / nexus / relation",
+          "domain": "philosophy",
+          "context_trigger": "(canonical sense for verband; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "A relation, connection, or nexus between things. Kuyper uses this philosophically (e.g., 'in verband brengen' = to bring into connection). Important for his organic/historical view of society.",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "mensch": {
+      "dutch": "mensch",
+      "status": "approved",
+      "tags": [
+        "theology"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "The human person in theological anthropology. Kuyper uses this constantly (older spelling 'mensch' for modern 'mens'). In English, use 'man' only if clearly generic; otherwise 'human being' or 'person'.",
+      "senses": [
+        {
+          "sense_id": "mensch-canonical",
+          "preferred_english": "man / human being",
+          "domain": "theology",
+          "context_trigger": "(canonical sense for mensch; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The human person in theological anthropology. Kuyper uses this constantly (older spelling 'mensch' for modern 'mens'). In English, use 'man' only if clearly generic; otherwise 'human being' or 'person'.",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "macht": {
+      "dutch": "macht",
+      "status": "approved",
+      "tags": [
+        "political theology"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "Coercive or effective power; the ability to enforce one's will. Distinct from 'vermogen' (faculty/capacity) and 'gezag' (legitimate authority). Kuyper contrasts 'macht' with 'recht' (right/law).",
+      "senses": [
+        {
+          "sense_id": "macht-canonical",
+          "preferred_english": "power / might",
+          "domain": "political theology",
+          "context_trigger": "(canonical sense for macht; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "Coercive or effective power; the ability to enforce one's will. Distinct from 'vermogen' (faculty/capacity) and 'gezag' (legitimate authority). Kuyper contrasts 'macht' with 'recht' (right/law).",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
+    "gezag": {
+      "dutch": "gezag",
+      "status": "approved",
+      "tags": [
+        "political theology"
+      ],
+      "appears_in": [],
+      "default_treatment": "translate",
+      "notes": "The power to command and enforce obedience; distinct from 'macht' (raw power) and 'overheid' (government as institution). Kuyper uses this for legitimate authority, especially in family, church, and state.",
+      "senses": [
+        {
+          "sense_id": "gezag-canonical",
+          "preferred_english": "authority / magistrate",
+          "domain": "political theology",
+          "context_trigger": "(canonical sense for gezag; monosemous in Kuyper)",
+          "treatment": "",
+          "status": "locked",
+          "confidence": "high",
+          "disallowed": [],
+          "first_occurrence_gloss": "",
+          "gloss_dutch": "The power to command and enforce obedience; distinct from 'macht' (raw power) and 'overheid' (government as institution). Kuyper uses this for legitimate authority, especially in family, church, and state.",
+          "examples": "",
+          "ili": "",
+          "odwn_synset_id": ""
+        }
+      ]
+    },
     "ziel": {
       "dutch": "ziel",
       "status": "approved",
